@@ -1,0 +1,7681 @@
+ymd,country,cc
+20200101,Brazil,2
+20200101,Iceland,1
+20200101,India,26
+20200101,Indonesia,4
+20200101,Japan,1
+20200101,Malaysia,12
+20200101,Maldives,1
+20200101,Morocco,1
+20200101,Philippines,2
+20200101,Russia,1
+20200101,United States,4
+20200102,Brazil,2
+20200102,China,1
+20200102,Finland,1
+20200102,India,32
+20200102,Indonesia,10
+20200102,Italy,3
+20200102,Japan,1
+20200102,Malaysia,4
+20200102,Morocco,1
+20200102,Netherlands,2
+20200102,Philippines,1
+20200102,Portugal,3
+20200102,Russia,3
+20200102,Sint Maarten,1
+20200102,Spain,1
+20200102,Thailand,1
+20200102,United States,3
+20200102,United Arab Emirates,2
+20200102,United Kingdom,5
+20200103,Brazil,7
+20200103,Canada,1
+20200103,Denmark,1
+20200103,Finland,2
+20200103,France,1
+20200103,Greece,1
+20200103,India,60
+20200103,Indonesia,2
+20200103,Italy,7
+20200103,Malaysia,18
+20200103,Morocco,2
+20200103,Netherlands,2
+20200103,Philippines,1
+20200103,Portugal,2
+20200103,Russia,3
+20200103,Saudi Arabia,1
+20200103,Spain,2
+20200103,Turkey,1
+20200103,United States,20
+20200103,United Arab Emirates,1
+20200103,United Kingdom,3
+20200103,Vietnam,1
+20200104,Australia,1
+20200104,Austria,1
+20200104,Brazil,4
+20200104,France,4
+20200104,Greece,1
+20200104,India,105
+20200104,Indonesia,11
+20200104,Italy,6
+20200104,Japan,2
+20200104,Malaysia,14
+20200104,Mexico,3
+20200104,Philippines,3
+20200104,Portugal,4
+20200104,Russia,6
+20200104,Spain,3
+20200104,United States,6
+20200104,United Kingdom,7
+20200105,Belgium,2
+20200105,Brazil,4
+20200105,Dominican Republic,3
+20200105,France,1
+20200105,Germany,3
+20200105,India,51
+20200105,Indonesia,4
+20200105,Japan,3
+20200105,Malaysia,14
+20200105,New Zealand,1
+20200105,Philippines,5
+20200105,Portugal,2
+20200105,Russia,3
+20200105,Spain,1
+20200105,Thailand,1
+20200105,Turkey,1
+20200105,United States,20
+20200105,United Arab Emirates,1
+20200105,United Kingdom,5
+20200106,Australia,2
+20200106,Austria,1
+20200106,Brazil,11
+20200106,Canada,3
+20200106,Cyprus,1
+20200106,Dominican Republic,1
+20200106,France,2
+20200106,India,84
+20200106,Indonesia,8
+20200106,Ireland,2
+20200106,Italy,2
+20200106,Japan,2
+20200106,Malaysia,17
+20200106,Mexico,2
+20200106,Netherlands,1
+20200106,New Zealand,1
+20200106,Philippines,1
+20200106,Poland,1
+20200106,Portugal,1
+20200106,Russia,3
+20200106,Spain,4
+20200106,Turkey,3
+20200106,United States,6
+20200106,United Kingdom,5
+20200107,Austria,1
+20200107,Brazil,2
+20200107,Canada,1
+20200107,Cyprus,1
+20200107,France,5
+20200107,Germany,3
+20200107,Hong Kong,1
+20200107,India,57
+20200107,Indonesia,13
+20200107,Italy,2
+20200107,Japan,2
+20200107,Kenya,1
+20200107,Malaysia,11
+20200107,Mexico,2
+20200107,New Zealand,3
+20200107,Norway,4
+20200107,Philippines,4
+20200107,Portugal,1
+20200107,Puerto Rico,1
+20200107,Russia,1
+20200107,Saudi Arabia,1
+20200107,Spain,3
+20200107,Sweden,1
+20200107,Thailand,1
+20200107,United States,13
+20200107,United Kingdom,12
+20200107,Vietnam,5
+20200108,Australia,1
+20200108,Austria,1
+20200108,Belgium,1
+20200108,Brazil,6
+20200108,Canada,1
+20200108,Croatia,1
+20200108,Cyprus,1
+20200108,Czech Republic,1
+20200108,Germany,1
+20200108,Hungary,1
+20200108,India,82
+20200108,Indonesia,3
+20200108,Italy,4
+20200108,Japan,1
+20200108,Malaysia,17
+20200108,Mexico,3
+20200108,Netherlands,2
+20200108,New Zealand,2
+20200108,Philippines,3
+20200108,Russia,1
+20200108,Spain,4
+20200108,Thailand,1
+20200108,Turkey,2
+20200108,United States,13
+20200108,United Kingdom,6
+20200108,Vietnam,1
+20200109,Australia,1
+20200109,Austria,1
+20200109,Belgium,2
+20200109,Cyprus,1
+20200109,France,2
+20200109,Germany,1
+20200109,Greece,3
+20200109,India,54
+20200109,Indonesia,8
+20200109,Ireland,1
+20200109,Italy,9
+20200109,Japan,4
+20200109,Malaysia,23
+20200109,Mexico,1
+20200109,Monaco,1
+20200109,New Zealand,2
+20200109,Philippines,2
+20200109,Portugal,1
+20200109,Russia,1
+20200109,South Africa,1
+20200109,Spain,3
+20200109,Sweden,1
+20200109,Thailand,5
+20200109,Turkey,1
+20200109,United States,8
+20200109,United Kingdom,3
+20200110,Australia,2
+20200110,Brazil,4
+20200110,Canada,3
+20200110,Costa Rica,1
+20200110,Denmark,1
+20200110,Dominican Republic,1
+20200110,France,1
+20200110,Germany,2
+20200110,Greece,1
+20200110,Iceland,2
+20200110,India,62
+20200110,Indonesia,3
+20200110,Ireland,1
+20200110,Italy,3
+20200110,Jamaica,2
+20200110,Japan,3
+20200110,Malaysia,14
+20200110,Mexico,1
+20200110,New Zealand,1
+20200110,Philippines,5
+20200110,Saudi Arabia,1
+20200110,Spain,8
+20200110,Switzerland,1
+20200110,Taiwan,1
+20200110,Thailand,1
+20200110,Turkey,1
+20200110,US Virgin Islands,1
+20200110,United States,6
+20200110,United Arab Emirates,4
+20200110,United Kingdom,3
+20200110,Vietnam,2
+20200111,Austria,1
+20200111,Brazil,4
+20200111,Canada,1
+20200111,France,3
+20200111,Germany,1
+20200111,India,54
+20200111,Indonesia,8
+20200111,Ireland,1
+20200111,Italy,5
+20200111,Jamaica,3
+20200111,Japan,3
+20200111,Lithuania,2
+20200111,Malaysia,42
+20200111,Mexico,1
+20200111,Netherlands,3
+20200111,Philippines,5
+20200111,Poland,1
+20200111,Portugal,1
+20200111,Russia,1
+20200111,Saudi Arabia,2
+20200111,Spain,5
+20200111,Switzerland,1
+20200111,United States,8
+20200111,United Arab Emirates,1
+20200111,United Kingdom,6
+20200111,Vietnam,5
+20200112,Australia,1
+20200112,Austria,1
+20200112,Brazil,4
+20200112,India,37
+20200112,Indonesia,11
+20200112,Italy,2
+20200112,Japan,4
+20200112,Malaysia,19
+20200112,Mexico,2
+20200112,Nepal,1
+20200112,Netherlands,1
+20200112,Philippines,3
+20200112,Russia,3
+20200112,Saudi Arabia,1
+20200112,Slovakia,1
+20200112,Spain,16
+20200112,Thailand,1
+20200112,Turkey,1
+20200112,United States,9
+20200112,United Kingdom,7
+20200112,Vietnam,1
+20200113,Australia,4
+20200113,Austria,1
+20200113,Bahamas,1
+20200113,Brazil,2
+20200113,Bulgaria,1
+20200113,France,1
+20200113,Germany,1
+20200113,Iceland,1
+20200113,India,36
+20200113,Indonesia,5
+20200113,Ireland,4
+20200113,Italy,4
+20200113,Japan,3
+20200113,Malaysia,21
+20200113,Mexico,1
+20200113,Netherlands,1
+20200113,New Zealand,1
+20200113,Philippines,1
+20200113,Russia,1
+20200113,Saudi Arabia,3
+20200113,Spain,16
+20200113,Sweden,1
+20200113,United States,7
+20200113,United Kingdom,4
+20200113,Vietnam,1
+20200114,Australia,1
+20200114,Brazil,3
+20200114,Canada,2
+20200114,France,4
+20200114,Germany,1
+20200114,Greece,2
+20200114,India,56
+20200114,Indonesia,9
+20200114,Italy,4
+20200114,Japan,1
+20200114,Malaysia,16
+20200114,Malta,1
+20200114,Mexico,1
+20200114,Netherlands,1
+20200114,Philippines,7
+20200114,Puerto Rico,1
+20200114,Spain,7
+20200114,Sweden,1
+20200114,Turkey,1
+20200114,United States,9
+20200114,United Kingdom,3
+20200115,Australia,1
+20200115,Brazil,5
+20200115,Egypt,1
+20200115,France,14
+20200115,Germany,1
+20200115,Greece,1
+20200115,India,43
+20200115,Indonesia,3
+20200115,Italy,3
+20200115,Japan,3
+20200115,Malaysia,31
+20200115,Mexico,1
+20200115,Philippines,6
+20200115,Poland,1
+20200115,Portugal,7
+20200115,Puerto Rico,1
+20200115,Russia,1
+20200115,Saudi Arabia,1
+20200115,Spain,39
+20200115,Sweden,1
+20200115,United States,12
+20200115,United Arab Emirates,1
+20200115,United Kingdom,4
+20200116,Argentina,1
+20200116,Australia,1
+20200116,Austria,1
+20200116,Belgium,1
+20200116,Brazil,3
+20200116,Canada,1
+20200116,Cyprus,1
+20200116,France,5
+20200116,Hungary,1
+20200116,India,57
+20200116,Indonesia,6
+20200116,Ireland,1
+20200116,Italy,1
+20200116,Japan,4
+20200116,Malaysia,32
+20200116,Mexico,2
+20200116,Netherlands,2
+20200116,New Zealand,1
+20200116,Philippines,6
+20200116,Portugal,7
+20200116,Russia,2
+20200116,Saudi Arabia,1
+20200116,Spain,3
+20200116,Switzerland,1
+20200116,Turkey,2
+20200116,United States,8
+20200116,United Arab Emirates,2
+20200116,United Kingdom,1
+20200116,Vietnam,8
+20200117,Brazil,11
+20200117,France,3
+20200117,Germany,2
+20200117,Greece,2
+20200117,India,53
+20200117,Indonesia,4
+20200117,Italy,5
+20200117,Japan,2
+20200117,Malaysia,21
+20200117,Mexico,1
+20200117,Morocco,1
+20200117,Philippines,1
+20200117,Russia,1
+20200117,Saudi Arabia,3
+20200117,Singapore,1
+20200117,Spain,1
+20200117,Sweden,1
+20200117,Taiwan,1
+20200117,United States,7
+20200117,United Kingdom,6
+20200117,Vietnam,2
+20200118,Austria,1
+20200118,Belgium,1
+20200118,Brazil,5
+20200118,China,1
+20200118,Czech Republic,1
+20200118,France,1
+20200118,Germany,4
+20200118,India,65
+20200118,Indonesia,5
+20200118,Italy,5
+20200118,Japan,5
+20200118,Malaysia,35
+20200118,Mexico,3
+20200118,Philippines,3
+20200118,Portugal,1
+20200118,Russia,1
+20200118,Spain,4
+20200118,Sweden,1
+20200118,Turkey,2
+20200118,United States,14
+20200118,United Arab Emirates,1
+20200118,United Kingdom,6
+20200119,Brazil,2
+20200119,France,2
+20200119,Iceland,1
+20200119,India,38
+20200119,Indonesia,2
+20200119,Italy,2
+20200119,Japan,3
+20200119,Malaysia,32
+20200119,Netherlands,1
+20200119,Philippines,3
+20200119,Russia,3
+20200119,Saudi Arabia,1
+20200119,Slovakia,1
+20200119,South Korea,1
+20200119,Spain,1
+20200119,Thailand,3
+20200119,Turkey,1
+20200119,United States,11
+20200119,United Arab Emirates,1
+20200119,United Kingdom,8
+20200119,Vietnam,2
+20200120,Australia,1
+20200120,Austria,5
+20200120,Bahamas,1
+20200120,Brazil,5
+20200120,Canada,2
+20200120,Finland,1
+20200120,France,4
+20200120,Germany,1
+20200120,Greece,1
+20200120,India,47
+20200120,Indonesia,14
+20200120,Italy,5
+20200120,Jamaica,2
+20200120,Japan,3
+20200120,Malaysia,30
+20200120,Mexico,1
+20200120,Nepal,1
+20200120,Netherlands,2
+20200120,Philippines,3
+20200120,Portugal,2
+20200120,Russia,2
+20200120,Saudi Arabia,1
+20200120,Spain,7
+20200120,United States,4
+20200120,Ukraine,1
+20200120,United Kingdom,4
+20200120,Vietnam,1
+20200121,Australia,1
+20200121,Brazil,8
+20200121,Canada,2
+20200121,Crimea,3
+20200121,Croatia,1
+20200121,Germany,3
+20200121,Greece,2
+20200121,India,43
+20200121,Indonesia,10
+20200121,Ireland,1
+20200121,Italy,7
+20200121,Japan,4
+20200121,Malaysia,26
+20200121,Mexico,2
+20200121,Morocco,1
+20200121,Portugal,1
+20200121,Russia,2
+20200121,Spain,3
+20200121,Sweden,2
+20200121,Thailand,3
+20200121,United States,7
+20200121,United Arab Emirates,2
+20200121,United Kingdom,1
+20200122,Brazil,2
+20200122,Croatia,1
+20200122,Czech Republic,1
+20200122,France,5
+20200122,Germany,1
+20200122,Greece,2
+20200122,Hungary,1
+20200122,India,49
+20200122,Indonesia,15
+20200122,Italy,1
+20200122,Japan,8
+20200122,Malaysia,27
+20200122,Mexico,5
+20200122,Netherlands,2
+20200122,Norway,1
+20200122,Philippines,1
+20200122,Portugal,8
+20200122,Saudi Arabia,3
+20200122,Spain,5
+20200122,Thailand,1
+20200122,Turkey,1
+20200122,United States,22
+20200122,United Arab Emirates,1
+20200122,United Kingdom,2
+20200122,Vietnam,1
+20200123,Brazil,1
+20200123,Bulgaria,1
+20200123,Canada,1
+20200123,Dominican Republic,6
+20200123,Egypt,1
+20200123,Finland,1
+20200123,France,3
+20200123,Germany,1
+20200123,Greece,3
+20200123,India,71
+20200123,Indonesia,5
+20200123,Italy,1
+20200123,Jamaica,1
+20200123,Malaysia,35
+20200123,Mexico,2
+20200123,Morocco,1
+20200123,New Zealand,1
+20200123,Norway,2
+20200123,Philippines,6
+20200123,Portugal,1
+20200123,Spain,3
+20200123,Thailand,1
+20200123,Turkey,6
+20200123,United States,18
+20200123,United Arab Emirates,3
+20200123,United Kingdom,3
+20200124,Austria,1
+20200124,Barbados,1
+20200124,Croatia,1
+20200124,Curacao,1
+20200124,Dominican Republic,3
+20200124,France,1
+20200124,Germany,1
+20200124,Greece,1
+20200124,India,47
+20200124,Indonesia,14
+20200124,Italy,3
+20200124,Japan,3
+20200124,Malaysia,59
+20200124,Mexico,1
+20200124,Morocco,2
+20200124,Netherlands,1
+20200124,Philippines,3
+20200124,Romania,1
+20200124,Russia,3
+20200124,Saudi Arabia,1
+20200124,Spain,2
+20200124,Turkey,1
+20200124,United States,16
+20200124,United Kingdom,10
+20200125,Australia,1
+20200125,Austria,1
+20200125,China,1
+20200125,Cyprus,1
+20200125,Dominican Republic,6
+20200125,Germany,1
+20200125,Hong Kong,1
+20200125,India,65
+20200125,Indonesia,25
+20200125,Ireland,1
+20200125,Italy,2
+20200125,Jamaica,1
+20200125,Japan,5
+20200125,Malaysia,105
+20200125,Mexico,3
+20200125,Netherlands,1
+20200125,New Zealand,2
+20200125,Philippines,1
+20200125,Portugal,2
+20200125,Saudi Arabia,1
+20200125,Spain,4
+20200125,Switzerland,1
+20200125,Turkey,1
+20200125,United States,5
+20200125,Ukraine,1
+20200125,United Arab Emirates,2
+20200125,United Kingdom,3
+20200125,Vietnam,1
+20200126,Canada,2
+20200126,Czech Republic,1
+20200126,Estonia,1
+20200126,France,4
+20200126,Germany,1
+20200126,Greece,1
+20200126,Iceland,1
+20200126,India,48
+20200126,Indonesia,16
+20200126,Italy,3
+20200126,Jamaica,1
+20200126,Japan,6
+20200126,Malaysia,59
+20200126,Mexico,1
+20200126,Netherlands,1
+20200126,New Zealand,1
+20200126,Philippines,14
+20200126,Poland,1
+20200126,Portugal,1
+20200126,Romania,1
+20200126,Russia,4
+20200126,Spain,2
+20200126,Thailand,3
+20200126,Turkey,4
+20200126,United States,6
+20200126,United Arab Emirates,1
+20200126,United Kingdom,16
+20200126,Vietnam,1
+20200127,Austria,1
+20200127,Brazil,1
+20200127,France,4
+20200127,Germany,4
+20200127,India,54
+20200127,Indonesia,13
+20200127,Italy,4
+20200127,Jamaica,1
+20200127,Japan,7
+20200127,Malaysia,35
+20200127,Mexico,2
+20200127,New Zealand,1
+20200127,Norway,2
+20200127,Philippines,11
+20200127,Portugal,1
+20200127,Russia,2
+20200127,Spain,4
+20200127,Switzerland,1
+20200127,Thailand,1
+20200127,Turkey,3
+20200127,United States,4
+20200127,United Arab Emirates,1
+20200127,United Kingdom,8
+20200127,Vietnam,2
+20200128,Austria,1
+20200128,Belgium,1
+20200128,Brazil,4
+20200128,Colombia,1
+20200128,Dominican Republic,1
+20200128,Egypt,1
+20200128,France,4
+20200128,Greece,1
+20200128,India,55
+20200128,Indonesia,15
+20200128,Ireland,1
+20200128,Italy,4
+20200128,Japan,8
+20200128,Malaysia,23
+20200128,Mexico,3
+20200128,Netherlands,1
+20200128,New Zealand,1
+20200128,Philippines,1
+20200128,Poland,1
+20200128,Portugal,1
+20200128,Russia,1
+20200128,Spain,3
+20200128,Switzerland,1
+20200128,Taiwan,1
+20200128,Thailand,1
+20200128,Turkey,2
+20200128,United States,16
+20200128,Ukraine,1
+20200128,United Kingdom,12
+20200128,Vietnam,3
+20200129,Brazil,1
+20200129,Bulgaria,1
+20200129,France,2
+20200129,Germany,5
+20200129,Greece,1
+20200129,India,19
+20200129,Indonesia,7
+20200129,Italy,1
+20200129,Japan,8
+20200129,Malaysia,11
+20200129,Mexico,2
+20200129,Morocco,1
+20200129,Netherlands,2
+20200129,Philippines,1
+20200129,Poland,1
+20200129,Portugal,1
+20200129,Spain,10
+20200129,Turkey,1
+20200129,United States,10
+20200129,Ukraine,1
+20200129,United Kingdom,4
+20200129,Vietnam,1
+20200130,Australia,1
+20200130,Austria,1
+20200130,Brazil,1
+20200130,Croatia,1
+20200130,France,11
+20200130,Guam,1
+20200130,Indonesia,1
+20200130,Israel,1
+20200130,Japan,4
+20200130,Mexico,1
+20200130,Portugal,2
+20200130,Russia,3
+20200130,Spain,6
+20200130,Tanzania,1
+20200130,Thailand,2
+20200130,Turkey,4
+20200130,United States,13
+20200130,United Arab Emirates,3
+20200130,United Kingdom,20
+20200131,Australia,2
+20200131,Austria,4
+20200131,Brazil,3
+20200131,Egypt,1
+20200131,France,1
+20200131,French Antilles,1
+20200131,Germany,3
+20200131,Greece,1
+20200131,Indonesia,1
+20200131,Italy,1
+20200131,Japan,5
+20200131,Mexico,2
+20200131,Netherlands,1
+20200131,Portugal,1
+20200131,Russia,1
+20200131,Spain,3
+20200131,Thailand,1
+20200131,Turkey,2
+20200131,United States,12
+20200131,United Kingdom,2
+20200201,Australia,2
+20200201,Canada,1
+20200201,Egypt,1
+20200201,Finland,1
+20200201,France,3
+20200201,Germany,2
+20200201,Greece,1
+20200201,Grenada,1
+20200201,Italy,4
+20200201,Japan,1
+20200201,Spain,3
+20200201,Switzerland,1
+20200201,United States,4
+20200201,United Kingdom,2
+20200202,Australia,1
+20200202,Austria,2
+20200202,Brazil,1
+20200202,Canada,5
+20200202,Costa Rica,1
+20200202,Dominican Republic,1
+20200202,France,2
+20200202,Germany,1
+20200202,Italy,4
+20200202,Japan,4
+20200202,New Zealand,2
+20200202,Philippines,1
+20200202,Tunisia,1
+20200202,United States,7
+20200202,United Kingdom,1
+20200203,Austria,4
+20200203,Brazil,1
+20200203,Cuba,1
+20200203,Cyprus,1
+20200203,Denmark,3
+20200203,Dominican Republic,6
+20200203,Germany,2
+20200203,Greece,2
+20200203,Indonesia,1
+20200203,Italy,5
+20200203,Jamaica,1
+20200203,Japan,2
+20200203,Mexico,1
+20200203,Philippines,1
+20200203,Portugal,1
+20200203,Russia,3
+20200203,Spain,3
+20200203,Switzerland,2
+20200203,Taiwan,2
+20200203,United States,7
+20200203,United Kingdom,1
+20200204,Australia,2
+20200204,Belgium,1
+20200204,Brazil,1
+20200204,France,1
+20200204,Germany,1
+20200204,Ireland,1
+20200204,Israel,1
+20200204,Italy,5
+20200204,Japan,6
+20200204,Mexico,1
+20200204,Morocco,1
+20200204,Netherlands,1
+20200204,Portugal,1
+20200204,Russia,1
+20200204,Spain,2
+20200204,Sweden,2
+20200204,Thailand,1
+20200204,Turkey,4
+20200204,United States,15
+20200204,United Kingdom,3
+20200205,Australia,2
+20200205,Austria,1
+20200205,Brazil,8
+20200205,Canada,2
+20200205,Croatia,2
+20200205,Cyprus,1
+20200205,Czech Republic,1
+20200205,France,1
+20200205,Germany,3
+20200205,India,1
+20200205,Italy,4
+20200205,Japan,6
+20200205,New Zealand,1
+20200205,Russia,1
+20200205,Spain,7
+20200205,Sri Lanka,1
+20200205,Taiwan,1
+20200205,Turkey,3
+20200205,United States,6
+20200205,United Kingdom,2
+20200205,Vietnam,1
+20200206,Andorra,1
+20200206,Austria,1
+20200206,Belgium,2
+20200206,Brazil,1
+20200206,Canada,1
+20200206,Dominican Republic,2
+20200206,France,3
+20200206,Germany,2
+20200206,Greece,1
+20200206,Hong Kong,1
+20200206,Italy,4
+20200206,Japan,5
+20200206,Mexico,2
+20200206,Morocco,2
+20200206,Panama,1
+20200206,Portugal,1
+20200206,Russia,1
+20200206,Spain,8
+20200206,Sweden,8
+20200206,Turkey,1
+20200206,United States,10
+20200206,United Kingdom,2
+20200207,Australia,1
+20200207,Austria,1
+20200207,Belgium,1
+20200207,Brazil,3
+20200207,Canada,1
+20200207,Croatia,1
+20200207,Egypt,1
+20200207,France,4
+20200207,Germany,1
+20200207,Greece,3
+20200207,Ireland,1
+20200207,Italy,8
+20200207,Japan,1
+20200207,Morocco,1
+20200207,Netherlands,1
+20200207,New Zealand,1
+20200207,Poland,1
+20200207,Portugal,2
+20200207,Spain,2
+20200207,Switzerland,1
+20200207,Taiwan,1
+20200207,Turkey,1
+20200207,United States,13
+20200207,United Kingdom,4
+20200208,Andorra,1
+20200208,Austria,2
+20200208,Brazil,1
+20200208,Bulgaria,1
+20200208,Germany,1
+20200208,Italy,2
+20200208,Jamaica,1
+20200208,Japan,7
+20200208,Jordan,1
+20200208,Netherlands,1
+20200208,Philippines,1
+20200208,Poland,1
+20200208,Spain,2
+20200208,Turkey,1
+20200208,United States,11
+20200208,United Kingdom,2
+20200209,Bahamas,1
+20200209,Brazil,2
+20200209,Canada,2
+20200209,Cuba,6
+20200209,France,2
+20200209,French Antilles,1
+20200209,Germany,1
+20200209,Israel,2
+20200209,Italy,1
+20200209,Japan,5
+20200209,Mexico,1
+20200209,Morocco,1
+20200209,Poland,1
+20200209,Russia,1
+20200209,South Africa,1
+20200209,Spain,4
+20200209,Sweden,1
+20200209,Taiwan,1
+20200209,Thailand,1
+20200209,United States,7
+20200209,United Kingdom,1
+20200210,Australia,1
+20200210,Austria,1
+20200210,Brazil,5
+20200210,Cyprus,2
+20200210,France,1
+20200210,French Antilles,1
+20200210,Germany,3
+20200210,Ireland,1
+20200210,Italy,7
+20200210,Japan,2
+20200210,Mexico,1
+20200210,Morocco,1
+20200210,Philippines,1
+20200210,Poland,1
+20200210,Portugal,2
+20200210,Russia,1
+20200210,Spain,6
+20200210,Taiwan,2
+20200210,Thailand,1
+20200210,United States,15
+20200210,United Kingdom,2
+20200211,Australia,3
+20200211,Austria,3
+20200211,Brazil,8
+20200211,Canada,3
+20200211,Colombia,1
+20200211,Egypt,1
+20200211,France,5
+20200211,Germany,3
+20200211,Indonesia,1
+20200211,Ireland,2
+20200211,Italy,2
+20200211,Japan,2
+20200211,Malaysia,1
+20200211,Mexico,1
+20200211,Portugal,1
+20200211,Russia,1
+20200211,Spain,11
+20200211,Sweden,1
+20200211,Switzerland,1
+20200211,Turkey,2
+20200211,United States,13
+20200211,United Arab Emirates,2
+20200211,United Kingdom,1
+20200212,Australia,3
+20200212,Austria,1
+20200212,Brazil,1
+20200212,Costa Rica,1
+20200212,Dominican Republic,1
+20200212,France,2
+20200212,Germany,5
+20200212,Greece,1
+20200212,Indonesia,1
+20200212,Ireland,3
+20200212,Italy,6
+20200212,Japan,6
+20200212,New Zealand,3
+20200212,Portugal,1
+20200212,Russia,3
+20200212,Spain,5
+20200212,Thailand,1
+20200212,United States,8
+20200212,United Arab Emirates,1
+20200212,United Kingdom,2
+20200213,Australia,3
+20200213,Austria,1
+20200213,Brazil,1
+20200213,France,2
+20200213,Germany,3
+20200213,Greece,1
+20200213,Indonesia,1
+20200213,Ireland,1
+20200213,Israel,1
+20200213,Italy,5
+20200213,Mexico,2
+20200213,Norway,1
+20200213,Oman,1
+20200213,Portugal,1
+20200213,Singapore,2
+20200213,Spain,13
+20200213,Switzerland,3
+20200213,Thailand,2
+20200213,Turkey,1
+20200213,United States,5
+20200213,United Kingdom,3
+20200214,Australia,2
+20200214,Austria,3
+20200214,Belgium,2
+20200214,Brazil,5
+20200214,Canada,1
+20200214,Dominican Republic,1
+20200214,France,2
+20200214,Germany,1
+20200214,Ireland,2
+20200214,Italy,7
+20200214,Japan,5
+20200214,Morocco,1
+20200214,Spain,7
+20200214,Switzerland,3
+20200214,Thailand,1
+20200214,Turkey,4
+20200214,United States,7
+20200214,United Arab Emirates,2
+20200214,United Kingdom,4
+20200215,Austria,1
+20200215,Brazil,2
+20200215,France,4
+20200215,Germany,2
+20200215,Italy,12
+20200215,Japan,4
+20200215,Netherlands,1
+20200215,Poland,1
+20200215,Spain,5
+20200215,Thailand,1
+20200215,United States,8
+20200215,United Kingdom,1
+20200216,Australia,1
+20200216,Dominican Republic,1
+20200216,France,5
+20200216,Germany,1
+20200216,Greece,1
+20200216,Ireland,1
+20200216,Italy,9
+20200216,Japan,2
+20200216,Netherlands,1
+20200216,New Zealand,2
+20200216,Norway,1
+20200216,Spain,5
+20200216,Thailand,1
+20200216,Turkey,1
+20200216,United States,12
+20200216,United Arab Emirates,1
+20200216,United Kingdom,3
+20200217,Aruba,1
+20200217,Czech Republic,1
+20200217,Egypt,1
+20200217,France,1
+20200217,Germany,1
+20200217,Israel,1
+20200217,Italy,3
+20200217,Jamaica,1
+20200217,Japan,1
+20200217,Mexico,2
+20200217,New Zealand,1
+20200217,Spain,3
+20200217,Turkey,3
+20200217,United States,7
+20200218,Australia,1
+20200218,Austria,7
+20200218,Belgium,1
+20200218,Brazil,6
+20200218,Bulgaria,1
+20200218,Canada,3
+20200218,Cyprus,3
+20200218,Czech Republic,2
+20200218,Ecuador,1
+20200218,Estonia,1
+20200218,Finland,2
+20200218,France,8
+20200218,Germany,4
+20200218,Ireland,2
+20200218,Italy,13
+20200218,Japan,5
+20200218,Mexico,1
+20200218,Netherlands,4
+20200218,New Zealand,3
+20200218,Philippines,1
+20200218,Portugal,2
+20200218,Russia,4
+20200218,Spain,80
+20200218,Switzerland,3
+20200218,Taiwan,1
+20200218,Thailand,2
+20200218,Turkey,6
+20200218,United States,14
+20200218,United Kingdom,7
+20200219,Australia,4
+20200219,Austria,1
+20200219,Bolivia,1
+20200219,Brazil,4
+20200219,Croatia,1
+20200219,Finland,1
+20200219,France,6
+20200219,Germany,2
+20200219,Ireland,1
+20200219,Italy,9
+20200219,Jamaica,1
+20200219,Japan,2
+20200219,Kenya,1
+20200219,Morocco,1
+20200219,Netherlands,2
+20200219,New Zealand,2
+20200219,Portugal,2
+20200219,Russia,2
+20200219,Spain,9
+20200219,Taiwan,1
+20200219,Turkey,4
+20200219,United States,13
+20200219,United Arab Emirates,2
+20200219,United Kingdom,1
+20200220,Australia,3
+20200220,Austria,6
+20200220,Brazil,5
+20200220,Croatia,2
+20200220,Czech Republic,7
+20200220,Dominican Republic,2
+20200220,Egypt,2
+20200220,France,4
+20200220,Germany,3
+20200220,Iceland,1
+20200220,Italy,3
+20200220,Japan,3
+20200220,New Zealand,2
+20200220,Portugal,8
+20200220,Russia,2
+20200220,Spain,5
+20200220,Thailand,1
+20200220,Turkey,3
+20200220,United States,7
+20200220,United Arab Emirates,1
+20200220,United Kingdom,6
+20200220,Venezuela,1
+20200220,Zimbabwe,4
+20200221,Australia,2
+20200221,Austria,1
+20200221,Brazil,6
+20200221,Colombia,1
+20200221,Cyprus,3
+20200221,Czech Republic,1
+20200221,Denmark,1
+20200221,Dominican Republic,1
+20200221,France,4
+20200221,Germany,5
+20200221,Greece,2
+20200221,Ireland,1
+20200221,Italy,11
+20200221,Jamaica,2
+20200221,Japan,8
+20200221,Latvia,1
+20200221,Netherlands,1
+20200221,Philippines,1
+20200221,Portugal,1
+20200221,Russia,1
+20200221,South Korea,1
+20200221,Spain,56
+20200221,Thailand,4
+20200221,Turkey,4
+20200221,United States,26
+20200221,United Kingdom,4
+20200221,Venezuela,9
+20200222,Australia,1
+20200222,Belgium,1
+20200222,Brazil,4
+20200222,Colombia,1
+20200222,Czech Republic,1
+20200222,Dominican Republic,1
+20200222,France,35
+20200222,Germany,2
+20200222,Greece,2
+20200222,Italy,10
+20200222,Japan,2
+20200222,Latvia,1
+20200222,Malta,1
+20200222,Netherlands,1
+20200222,Portugal,3
+20200222,Russia,4
+20200222,Spain,3
+20200222,Turkey,4
+20200222,United States,12
+20200222,United Kingdom,4
+20200222,Venezuela,1
+20200223,Argentina,1
+20200223,Australia,2
+20200223,Austria,2
+20200223,Brazil,1
+20200223,Costa Rica,1
+20200223,Dominican Republic,1
+20200223,France,7
+20200223,Germany,3
+20200223,Ireland,1
+20200223,Italy,16
+20200223,Japan,3
+20200223,Mauritius,2
+20200223,Netherlands,3
+20200223,Poland,1
+20200223,Russia,3
+20200223,Spain,13
+20200223,Turkey,3
+20200223,United States,1
+20200223,United Arab Emirates,1
+20200223,United Kingdom,1
+20200223,Uruguay,1
+20200224,Australia,3
+20200224,Austria,1
+20200224,Brazil,4
+20200224,Colombia,1
+20200224,Cyprus,1
+20200224,Czech Republic,4
+20200224,Dominican Republic,1
+20200224,France,98
+20200224,Germany,10
+20200224,Greece,3
+20200224,Indonesia,1
+20200224,Ireland,1
+20200224,Italy,29
+20200224,Japan,4
+20200224,Maldives,1
+20200224,Malta,1
+20200224,Monaco,1
+20200224,Netherlands,4
+20200224,New Zealand,2
+20200224,Poland,1
+20200224,Portugal,3
+20200224,Russia,5
+20200224,Slovenia,1
+20200224,Spain,3
+20200224,Sweden,2
+20200224,Switzerland,3
+20200224,Thailand,1
+20200224,Turkey,13
+20200224,United States,7
+20200224,United Kingdom,7
+20200224,Venezuela,2
+20200225,Austria,4
+20200225,Barbados,1
+20200225,Belgium,1
+20200225,Brazil,3
+20200225,Dominican Republic,3
+20200225,Finland,1
+20200225,France,125
+20200225,Greece,2
+20200225,Indonesia,2
+20200225,Ireland,2
+20200225,Italy,19
+20200225,Japan,5
+20200225,Laos,1
+20200225,Morocco,1
+20200225,Netherlands,5
+20200225,Oman,1
+20200225,Russia,6
+20200225,San Marino,1
+20200225,Spain,63
+20200225,Sweden,1
+20200225,Switzerland,1
+20200225,Thailand,2
+20200225,Turkey,16
+20200225,United States,14
+20200225,United Arab Emirates,1
+20200225,United Kingdom,4
+20200226,Australia,2
+20200226,Austria,2
+20200226,Belgium,1
+20200226,Brazil,3
+20200226,Estonia,1
+20200226,France,36
+20200226,Germany,2
+20200226,Greece,1
+20200226,Italy,19
+20200226,Japan,3
+20200226,Malta,1
+20200226,Mexico,3
+20200226,Netherlands,1
+20200226,New Zealand,1
+20200226,Norway,1
+20200226,Poland,1
+20200226,Portugal,1
+20200226,Russia,2
+20200226,Spain,12
+20200226,Taiwan,1
+20200226,Thailand,2
+20200226,Turkey,12
+20200226,United States,17
+20200226,United Kingdom,2
+20200226,Uruguay,1
+20200227,Australia,1
+20200227,Austria,1
+20200227,Brazil,2
+20200227,Cuba,3
+20200227,Denmark,2
+20200227,Egypt,1
+20200227,France,1
+20200227,Germany,4
+20200227,Ireland,1
+20200227,Italy,21
+20200227,Japan,11
+20200227,Luxembourg,1
+20200227,Russia,2
+20200227,Saudi Arabia,1
+20200227,Spain,10
+20200227,Switzerland,1
+20200227,Thailand,2
+20200227,Turkey,4
+20200227,United States,20
+20200227,United Kingdom,3
+20200228,Australia,5
+20200228,Bahamas,1
+20200228,Brazil,4
+20200228,France,68
+20200228,Germany,4
+20200228,Greece,2
+20200228,Ireland,2
+20200228,Israel,1
+20200228,Italy,11
+20200228,Jamaica,6
+20200228,Japan,9
+20200228,Mexico,2
+20200228,Netherlands,2
+20200228,Norway,1
+20200228,Poland,1
+20200228,Portugal,1
+20200228,Russia,2
+20200228,Spain,8
+20200228,Switzerland,1
+20200228,Thailand,1
+20200228,Turkey,6
+20200228,United States,11
+20200228,United Kingdom,5
+20200229,Australia,1
+20200229,Austria,2
+20200229,Belgium,1
+20200229,Brazil,2
+20200229,Costa Rica,1
+20200229,France,3
+20200229,Germany,3
+20200229,Ireland,1
+20200229,Italy,7
+20200229,Japan,9
+20200229,Netherlands,2
+20200229,Russia,3
+20200229,Spain,12
+20200229,Switzerland,1
+20200229,Thailand,2
+20200229,Turkey,4
+20200229,United States,11
+20200229,United Kingdom,2
+20200301,Australia,2
+20200301,Austria,2
+20200301,Belgium,1
+20200301,Brazil,1
+20200301,Dominican Republic,1
+20200301,Egypt,1
+20200301,France,6
+20200301,Germany,8
+20200301,Greece,2
+20200301,Ireland,1
+20200301,Italy,5
+20200301,Jamaica,3
+20200301,Japan,3
+20200301,Netherlands,1
+20200301,New Zealand,1
+20200301,Norway,1
+20200301,Poland,2
+20200301,Russia,3
+20200301,Spain,8
+20200301,Switzerland,1
+20200301,Turkey,1
+20200301,United States,13
+20200301,United Kingdom,4
+20200302,Australia,1
+20200302,Austria,2
+20200302,Brazil,7
+20200302,Czech Republic,1
+20200302,Denmark,1
+20200302,Dominican Republic,1
+20200302,Egypt,1
+20200302,France,70
+20200302,Germany,11
+20200302,Greece,1
+20200302,Iceland,1
+20200302,Ireland,2
+20200302,Italy,24
+20200302,Japan,17
+20200302,Mexico,1
+20200302,Netherlands,3
+20200302,Philippines,1
+20200302,Portugal,1
+20200302,Russia,4
+20200302,Seychelles,1
+20200302,Spain,19
+20200302,Sweden,1
+20200302,Thailand,1
+20200302,Turkey,11
+20200302,United States,28
+20200302,United Arab Emirates,1
+20200302,United Kingdom,4
+20200303,Australia,11
+20200303,Austria,7
+20200303,Brazil,9
+20200303,Canada,2
+20200303,Colombia,1
+20200303,Cyprus,1
+20200303,Czech Republic,2
+20200303,France,36
+20200303,Germany,10
+20200303,Greece,1
+20200303,Ireland,1
+20200303,Italy,29
+20200303,Japan,7
+20200303,Maldives,1
+20200303,Mexico,2
+20200303,Netherlands,1
+20200303,Portugal,1
+20200303,Russia,7
+20200303,San Marino,1
+20200303,Slovenia,1
+20200303,Spain,15
+20200303,Thailand,4
+20200303,Turkey,9
+20200303,United States,18
+20200303,United Arab Emirates,2
+20200303,United Kingdom,10
+20200304,Australia,2
+20200304,Austria,2
+20200304,Belgium,1
+20200304,Brazil,8
+20200304,Bulgaria,1
+20200304,Cyprus,1
+20200304,Czech Republic,1
+20200304,France,5
+20200304,Germany,5
+20200304,Greece,4
+20200304,Israel,1
+20200304,Italy,15
+20200304,Jamaica,1
+20200304,Japan,3
+20200304,Mexico,4
+20200304,Netherlands,1
+20200304,New Zealand,2
+20200304,Peru,1
+20200304,Philippines,1
+20200304,Poland,1
+20200304,Portugal,2
+20200304,Russia,4
+20200304,Spain,12
+20200304,Sweden,1
+20200304,Switzerland,2
+20200304,Tanzania,1
+20200304,Thailand,2
+20200304,United States,15
+20200304,United Kingdom,1
+20200305,Australia,5
+20200305,Austria,2
+20200305,Brazil,8
+20200305,Canada,2
+20200305,Cyprus,1
+20200305,Denmark,2
+20200305,Egypt,1
+20200305,France,9
+20200305,Germany,7
+20200305,Greece,1
+20200305,Italy,15
+20200305,Japan,4
+20200305,Mexico,2
+20200305,Morocco,8
+20200305,New Zealand,1
+20200305,Norway,1
+20200305,Panama,1
+20200305,Poland,2
+20200305,Puerto Rico,1
+20200305,Russia,4
+20200305,Spain,13
+20200305,Switzerland,2
+20200305,Turkey,4
+20200305,United States,19
+20200305,United Arab Emirates,4
+20200305,United Kingdom,10
+20200306,Australia,5
+20200306,Austria,2
+20200306,Brazil,8
+20200306,Croatia,2
+20200306,Czech Republic,2
+20200306,Dominican Republic,1
+20200306,Egypt,3
+20200306,France,4
+20200306,Germany,6
+20200306,Greece,1
+20200306,Ireland,1
+20200306,Italy,19
+20200306,Japan,4
+20200306,Laos,1
+20200306,Mexico,1
+20200306,Morocco,1
+20200306,Netherlands,1
+20200306,Norway,1
+20200306,Portugal,2
+20200306,Russia,3
+20200306,Spain,5
+20200306,Sweden,2
+20200306,Thailand,2
+20200306,Turkey,1
+20200306,United States,17
+20200306,United Kingdom,1
+20200307,Australia,2
+20200307,Austria,2
+20200307,Brazil,9
+20200307,Bulgaria,2
+20200307,Canada,2
+20200307,France,7
+20200307,Germany,3
+20200307,Greece,1
+20200307,Israel,1
+20200307,Italy,7
+20200307,Japan,6
+20200307,Mexico,1
+20200307,Morocco,1
+20200307,Portugal,9
+20200307,Russia,2
+20200307,Spain,19
+20200307,Tanzania,1
+20200307,Thailand,1
+20200307,Turkey,6
+20200307,United States,24
+20200307,United Kingdom,4
+20200308,Australia,2
+20200308,Austria,1
+20200308,Belgium,1
+20200308,Brazil,5
+20200308,Canada,2
+20200308,Czech Republic,1
+20200308,Egypt,2
+20200308,France,6
+20200308,Germany,4
+20200308,Greece,1
+20200308,Iceland,1
+20200308,Ireland,1
+20200308,Italy,16
+20200308,Jamaica,2
+20200308,Japan,3
+20200308,Philippines,1
+20200308,Portugal,1
+20200308,Russia,3
+20200308,Spain,7
+20200308,Sweden,1
+20200308,Switzerland,1
+20200308,Turkey,2
+20200308,United States,6
+20200308,United Arab Emirates,1
+20200308,United Kingdom,11
+20200309,Argentina,1
+20200309,Australia,2
+20200309,Austria,2
+20200309,Belgium,1
+20200309,Brazil,10
+20200309,Cyprus,2
+20200309,Dominican Republic,1
+20200309,France,66
+20200309,Germany,14
+20200309,Greece,1
+20200309,Hong Kong,1
+20200309,Indonesia,1
+20200309,Ireland,2
+20200309,Italy,30
+20200309,Japan,9
+20200309,Mexico,1
+20200309,Netherlands,2
+20200309,Portugal,3
+20200309,Puerto Rico,1
+20200309,Russia,2
+20200309,Senegal,1
+20200309,Spain,18
+20200309,Switzerland,1
+20200309,Tanzania,1
+20200309,Thailand,1
+20200309,Turkey,10
+20200309,United States,26
+20200309,United Arab Emirates,2
+20200309,United Kingdom,10
+20200309,Uruguay,2
+20200310,Australia,3
+20200310,Austria,6
+20200310,Brazil,14
+20200310,Cyprus,2
+20200310,Czech Republic,2
+20200310,France,102
+20200310,Germany,12
+20200310,Greece,2
+20200310,Guatemala,1
+20200310,India,1
+20200310,Ireland,3
+20200310,Italy,36
+20200310,Jamaica,1
+20200310,Japan,2
+20200310,Malaysia,1
+20200310,Mexico,1
+20200310,Netherlands,4
+20200310,New Zealand,2
+20200310,Philippines,1
+20200310,Poland,2
+20200310,Portugal,3
+20200310,Russia,3
+20200310,Singapore,1
+20200310,Slovakia,1
+20200310,Spain,25
+20200310,Thailand,3
+20200310,Turkey,14
+20200310,United States,22
+20200310,United Kingdom,4
+20200311,Aruba,1
+20200311,Australia,5
+20200311,Austria,19
+20200311,Brazil,16
+20200311,Canada,1
+20200311,China,1
+20200311,Croatia,1
+20200311,Cyprus,2
+20200311,Dominican Republic,1
+20200311,Egypt,1
+20200311,France,12
+20200311,Germany,15
+20200311,Italy,10
+20200311,Japan,8
+20200311,Latvia,1
+20200311,Morocco,9
+20200311,Netherlands,2
+20200311,Panama,2
+20200311,Poland,4
+20200311,Portugal,2
+20200311,Romania,1
+20200311,Russia,5
+20200311,Spain,36
+20200311,Sweden,1
+20200311,Switzerland,3
+20200311,Turkey,13
+20200311,United States,32
+20200311,United Arab Emirates,1
+20200311,United Kingdom,2
+20200312,Argentina,1
+20200312,Aruba,1
+20200312,Australia,1
+20200312,Austria,12
+20200312,Belgium,1
+20200312,Brazil,4
+20200312,Cyprus,11
+20200312,Czech Republic,1
+20200312,Denmark,4
+20200312,Dominican Republic,2
+20200312,Egypt,3
+20200312,France,77
+20200312,Germany,13
+20200312,Greece,3
+20200312,Ireland,4
+20200312,Israel,1
+20200312,Italy,10
+20200312,Jamaica,2
+20200312,Japan,8
+20200312,Jordan,1
+20200312,Mexico,4
+20200312,Morocco,1
+20200312,Netherlands,5
+20200312,Norway,1
+20200312,Poland,3
+20200312,Portugal,5
+20200312,Russia,5
+20200312,Spain,41
+20200312,Switzerland,3
+20200312,Thailand,4
+20200312,Turkey,29
+20200312,United States,124
+20200312,United Kingdom,9
+20200313,Albania,2
+20200313,Andorra,1
+20200313,Australia,7
+20200313,Austria,14
+20200313,Belgium,2
+20200313,Brazil,8
+20200313,Canada,2
+20200313,Cyprus,4
+20200313,Czech Republic,2
+20200313,Denmark,1
+20200313,Dominican Republic,1
+20200313,Egypt,1
+20200313,France,19
+20200313,Germany,20
+20200313,Greece,2
+20200313,Hungary,2
+20200313,Iceland,1
+20200313,Ireland,3
+20200313,Israel,2
+20200313,Italy,14
+20200313,Jamaica,1
+20200313,Japan,3
+20200313,Latvia,1
+20200313,Lithuania,1
+20200313,Maldives,1
+20200313,Malta,2
+20200313,Mexico,4
+20200313,Morocco,3
+20200313,Netherlands,1
+20200313,New Zealand,1
+20200313,Philippines,5
+20200313,Poland,5
+20200313,Portugal,6
+20200313,Russia,7
+20200313,Spain,43
+20200313,Sweden,2
+20200313,Switzerland,2
+20200313,Thailand,2
+20200313,Turkey,19
+20200313,United States,78
+20200313,United Kingdom,11
+20200314,Australia,10
+20200314,Austria,8
+20200314,Brazil,13
+20200314,Canada,4
+20200314,Cayman Islands,1
+20200314,Colombia,1
+20200314,Costa Rica,1
+20200314,Cyprus,3
+20200314,Czech Republic,2
+20200314,Denmark,1
+20200314,Dominican Republic,1
+20200314,France,20
+20200314,Germany,7
+20200314,Gibraltar,1
+20200314,Greece,3
+20200314,Ireland,4
+20200314,Italy,8
+20200314,Japan,6
+20200314,Jordan,1
+20200314,Mexico,5
+20200314,Morocco,5
+20200314,Netherlands,3
+20200314,New Zealand,1
+20200314,Norway,1
+20200314,Poland,3
+20200314,Portugal,4
+20200314,Russia,5
+20200314,Spain,28
+20200314,Sweden,1
+20200314,Switzerland,3
+20200314,Taiwan,1
+20200314,Turkey,11
+20200314,United States,62
+20200314,Ukraine,1
+20200314,United Kingdom,18
+20200314,Uruguay,2
+20200315,Andorra,1
+20200315,Australia,11
+20200315,Austria,6
+20200315,Belgium,5
+20200315,Brazil,10
+20200315,Bulgaria,1
+20200315,Cyprus,4
+20200315,Czech Republic,1
+20200315,France,13
+20200315,Germany,14
+20200315,Greece,5
+20200315,India,1
+20200315,Ireland,2
+20200315,Israel,1
+20200315,Italy,9
+20200315,Jamaica,1
+20200315,Japan,4
+20200315,Maldives,1
+20200315,Mexico,2
+20200315,Morocco,6
+20200315,Netherlands,2
+20200315,New Zealand,1
+20200315,Philippines,1
+20200315,Poland,3
+20200315,Portugal,3
+20200315,Puerto Rico,1
+20200315,Russia,7
+20200315,Spain,23
+20200315,Sweden,3
+20200315,Switzerland,6
+20200315,Turkey,7
+20200315,United States,45
+20200315,United Arab Emirates,1
+20200315,United Kingdom,24
+20200315,Vietnam,1
+20200316,Algeria,1
+20200316,Armenia,1
+20200316,Aruba,1
+20200316,Australia,14
+20200316,Austria,11
+20200316,Belgium,3
+20200316,Brazil,17
+20200316,Canada,4
+20200316,Cyprus,7
+20200316,Czech Republic,1
+20200316,Dominican Republic,5
+20200316,Egypt,3
+20200316,Estonia,2
+20200316,France,10
+20200316,French Antilles,1
+20200316,Germany,25
+20200316,Greece,7
+20200316,Hungary,1
+20200316,India,1
+20200316,Indonesia,5
+20200316,Ireland,7
+20200316,Italy,8
+20200316,Jamaica,2
+20200316,Japan,4
+20200316,Luxembourg,1
+20200316,Malta,2
+20200316,Mexico,2
+20200316,Netherlands,4
+20200316,New Zealand,1
+20200316,Norway,1
+20200316,Poland,1
+20200316,Portugal,6
+20200316,Puerto Rico,1
+20200316,Russia,6
+20200316,Slovakia,2
+20200316,Spain,31
+20200316,Sweden,1
+20200316,Switzerland,4
+20200316,Tanzania,1
+20200316,Thailand,1
+20200316,Turkey,21
+20200316,United States,94
+20200316,United Arab Emirates,3
+20200316,United Kingdom,27
+20200317,Aruba,1
+20200317,Australia,25
+20200317,Austria,8
+20200317,Azerbaijan,2
+20200317,Belgium,1
+20200317,Brazil,26
+20200317,Canada,3
+20200317,Cayman Islands,2
+20200317,Costa Rica,1
+20200317,Dominican Republic,7
+20200317,France,12
+20200317,Germany,23
+20200317,Greece,8
+20200317,Indonesia,1
+20200317,Ireland,2
+20200317,Italy,6
+20200317,Japan,8
+20200317,Kenya,1
+20200317,Malta,8
+20200317,Mexico,5
+20200317,Monaco,1
+20200317,Morocco,3
+20200317,Netherlands,3
+20200317,Panama,1
+20200317,Philippines,1
+20200317,Poland,2
+20200317,Portugal,6
+20200317,Russia,6
+20200317,South Africa,1
+20200317,Spain,33
+20200317,Sweden,2
+20200317,Switzerland,2
+20200317,Thailand,4
+20200317,Turkey,13
+20200317,United States,79
+20200317,United Arab Emirates,2
+20200317,United Kingdom,37
+20200318,Australia,19
+20200318,Austria,6
+20200318,Belgium,1
+20200318,Brazil,21
+20200318,Canada,6
+20200318,Curacao,1
+20200318,Cyprus,2
+20200318,Denmark,2
+20200318,Dominican Republic,8
+20200318,Egypt,2
+20200318,Fiji,2
+20200318,Finland,2
+20200318,France,12
+20200318,Germany,21
+20200318,Greece,5
+20200318,Grenada,4
+20200318,Iceland,1
+20200318,Indonesia,2
+20200318,Ireland,2
+20200318,Italy,22
+20200318,Jamaica,1
+20200318,Japan,7
+20200318,Latvia,1
+20200318,Malta,2
+20200318,Mexico,10
+20200318,Montenegro,1
+20200318,Mozambique,1
+20200318,Myanmar,1
+20200318,Netherlands,3
+20200318,New Zealand,2
+20200318,Norway,1
+20200318,Panama,1
+20200318,Peru,1
+20200318,Poland,4
+20200318,Portugal,17
+20200318,Romania,1
+20200318,Russia,11
+20200318,South Africa,1
+20200318,Spain,41
+20200318,Sweden,1
+20200318,Switzerland,2
+20200318,Thailand,3
+20200318,Turkey,14
+20200318,United States,104
+20200318,United Kingdom,43
+20200318,Uruguay,1
+20200319,Aruba,1
+20200319,Australia,16
+20200319,Austria,8
+20200319,Belgium,1
+20200319,Brazil,27
+20200319,Canada,4
+20200319,Cyprus,1
+20200319,Denmark,1
+20200319,Dominican Republic,1
+20200319,Egypt,2
+20200319,Estonia,1
+20200319,Finland,1
+20200319,France,10
+20200319,Germany,14
+20200319,Greece,3
+20200319,Hungary,1
+20200319,Iceland,1
+20200319,Indonesia,1
+20200319,Ireland,3
+20200319,Italy,10
+20200319,Japan,8
+20200319,Malta,4
+20200319,Mexico,5
+20200319,Morocco,2
+20200319,New Zealand,2
+20200319,Nicaragua,1
+20200319,Norway,2
+20200319,Philippines,2
+20200319,Poland,2
+20200319,Portugal,5
+20200319,Russia,4
+20200319,Spain,28
+20200319,Sri Lanka,1
+20200319,Switzerland,1
+20200319,Thailand,6
+20200319,Turkey,9
+20200319,United States,72
+20200319,United Arab Emirates,1
+20200319,United Kingdom,23
+20200320,Andorra,1
+20200320,Aruba,1
+20200320,Australia,22
+20200320,Austria,3
+20200320,Belgium,1
+20200320,Brazil,20
+20200320,Canada,3
+20200320,Colombia,1
+20200320,Costa Rica,1
+20200320,Crimea,9
+20200320,Curacao,1
+20200320,Cyprus,2
+20200320,Czech Republic,2
+20200320,Estonia,1
+20200320,Finland,1
+20200320,France,7
+20200320,Germany,17
+20200320,Greece,2
+20200320,Indonesia,1
+20200320,Ireland,2
+20200320,Italy,11
+20200320,Japan,6
+20200320,Luxembourg,4
+20200320,Malta,2
+20200320,Mexico,7
+20200320,Netherlands,1
+20200320,New Zealand,1
+20200320,Peru,1
+20200320,Poland,1
+20200320,Portugal,2
+20200320,Puerto Rico,1
+20200320,Russia,6
+20200320,Spain,18
+20200320,Sri Lanka,1
+20200320,Turkey,6
+20200320,Turks and Caicos Islands,1
+20200320,United States,34
+20200320,Ukraine,1
+20200320,United Arab Emirates,2
+20200320,United Kingdom,13
+20200321,Argentina,4
+20200321,Australia,14
+20200321,Austria,4
+20200321,Bahamas,1
+20200321,Barbados,1
+20200321,Belgium,2
+20200321,Brazil,11
+20200321,Cayman Islands,1
+20200321,Croatia,1
+20200321,Cyprus,1
+20200321,France,2
+20200321,Germany,10
+20200321,Greece,6
+20200321,Hungary,2
+20200321,Indonesia,1
+20200321,Italy,12
+20200321,Japan,4
+20200321,Malaysia,1
+20200321,Malta,1
+20200321,Mexico,6
+20200321,Morocco,3
+20200321,Netherlands,1
+20200321,New Zealand,2
+20200321,Peru,1
+20200321,Portugal,2
+20200321,Russia,5
+20200321,Singapore,1
+20200321,Spain,13
+20200321,Switzerland,1
+20200321,Tanzania,1
+20200321,Turkey,8
+20200321,United States,38
+20200321,United Arab Emirates,3
+20200321,United Kingdom,25
+20200321,Vietnam,1
+20200322,Argentina,2
+20200322,Australia,16
+20200322,Austria,1
+20200322,Azerbaijan,1
+20200322,Bosnia and Herzegovina,1
+20200322,Brazil,6
+20200322,Canada,1
+20200322,Cyprus,1
+20200322,Czech Republic,1
+20200322,France,4
+20200322,Georgia,2
+20200322,Germany,5
+20200322,Greece,1
+20200322,Hong Kong,1
+20200322,Ireland,1
+20200322,Italy,11
+20200322,Japan,3
+20200322,Mexico,5
+20200322,Netherlands,2
+20200322,New Zealand,1
+20200322,Portugal,3
+20200322,Russia,4
+20200322,Singapore,1
+20200322,Spain,15
+20200322,Turkey,6
+20200322,United States,33
+20200322,United Arab Emirates,1
+20200322,United Kingdom,16
+20200323,Australia,22
+20200323,Austria,4
+20200323,Azerbaijan,1
+20200323,Bahamas,1
+20200323,Belarus,3
+20200323,Brazil,16
+20200323,Canada,3
+20200323,Dominican Republic,1
+20200323,Egypt,1
+20200323,Estonia,1
+20200323,France,7
+20200323,Germany,14
+20200323,Greece,3
+20200323,Ireland,2
+20200323,Italy,9
+20200323,Japan,4
+20200323,Malta,1
+20200323,Mexico,7
+20200323,Netherlands,2
+20200323,New Zealand,8
+20200323,Panama,1
+20200323,Peru,1
+20200323,Philippines,1
+20200323,Portugal,5
+20200323,Russia,6
+20200323,Slovenia,2
+20200323,Spain,15
+20200323,Sweden,1
+20200323,Thailand,1
+20200323,Turkey,7
+20200323,United States,36
+20200323,United Arab Emirates,1
+20200323,United Kingdom,35
+20200323,Uzbekistan,1
+20200324,Argentina,2
+20200324,Australia,24
+20200324,Austria,3
+20200324,Bahamas,2
+20200324,Bahrain,1
+20200324,Bangladesh,1
+20200324,Brazil,10
+20200324,Canada,1
+20200324,Colombia,1
+20200324,Cyprus,2
+20200324,Czech Republic,1
+20200324,Dominican Republic,2
+20200324,Egypt,3
+20200324,Estonia,1
+20200324,France,7
+20200324,Germany,7
+20200324,Greece,7
+20200324,Hungary,2
+20200324,Iceland,1
+20200324,Indonesia,1
+20200324,Ireland,3
+20200324,Italy,20
+20200324,Jamaica,1
+20200324,Japan,9
+20200324,Malta,2
+20200324,Mexico,3
+20200324,Morocco,3
+20200324,Netherlands,2
+20200324,New Zealand,2
+20200324,Oman,1
+20200324,Poland,2
+20200324,Portugal,4
+20200324,Puerto Rico,1
+20200324,Russia,4
+20200324,Spain,14
+20200324,Sweden,5
+20200324,Turkey,6
+20200324,United States,37
+20200324,United Arab Emirates,3
+20200324,United Kingdom,22
+20200324,Uruguay,1
+20200325,Argentina,1
+20200325,Australia,15
+20200325,Austria,2
+20200325,Bahamas,1
+20200325,Belarus,2
+20200325,Brazil,9
+20200325,Canada,5
+20200325,Cayman Islands,1
+20200325,Chile,1
+20200325,Colombia,1
+20200325,Cyprus,1
+20200325,Dominican Republic,1
+20200325,Estonia,1
+20200325,Finland,1
+20200325,France,17
+20200325,Germany,9
+20200325,Greece,2
+20200325,Indonesia,2
+20200325,Ireland,1
+20200325,Italy,12
+20200325,Jamaica,1
+20200325,Japan,13
+20200325,Malta,2
+20200325,Mexico,4
+20200325,Netherlands,1
+20200325,New Zealand,2
+20200325,Poland,2
+20200325,Portugal,5
+20200325,Russia,9
+20200325,Singapore,1
+20200325,Slovenia,1
+20200325,South Africa,1
+20200325,Spain,12
+20200325,Sweden,1
+20200325,Tanzania,1
+20200325,Tunisia,1
+20200325,Turkey,2
+20200325,United States,37
+20200325,United Arab Emirates,1
+20200325,United Kingdom,15
+20200326,Aruba,1
+20200326,Australia,15
+20200326,Austria,2
+20200326,Brazil,11
+20200326,Bulgaria,1
+20200326,Canada,2
+20200326,Cyprus,6
+20200326,Czech Republic,2
+20200326,Denmark,2
+20200326,Egypt,1
+20200326,Fiji,1
+20200326,France,43
+20200326,Germany,13
+20200326,Greece,2
+20200326,Hong Kong,1
+20200326,Iceland,1
+20200326,Ireland,7
+20200326,Italy,19
+20200326,Jamaica,1
+20200326,Japan,8
+20200326,Malta,4
+20200326,Mexico,6
+20200326,Morocco,1
+20200326,Netherlands,8
+20200326,New Zealand,1
+20200326,Peru,2
+20200326,Philippines,1
+20200326,Poland,5
+20200326,Portugal,6
+20200326,Puerto Rico,1
+20200326,Russia,6
+20200326,Slovenia,1
+20200326,Spain,31
+20200326,Switzerland,1
+20200326,Tanzania,1
+20200326,Thailand,4
+20200326,Trinidad and Tobago,1
+20200326,Tunisia,1
+20200326,Turkey,5
+20200326,United States,50
+20200326,United Arab Emirates,2
+20200326,United Kingdom,37
+20200327,Australia,11
+20200327,Austria,3
+20200327,Belgium,1
+20200327,Brazil,3
+20200327,Czech Republic,1
+20200327,Denmark,1
+20200327,Dominican Republic,1
+20200327,France,65
+20200327,Germany,6
+20200327,Ghana,1
+20200327,Greece,3
+20200327,Ireland,3
+20200327,Italy,5
+20200327,Japan,7
+20200327,Maldives,1
+20200327,Malta,1
+20200327,Mexico,6
+20200327,Netherlands,6
+20200327,Norway,2
+20200327,Philippines,1
+20200327,Poland,2
+20200327,Portugal,1
+20200327,Puerto Rico,1
+20200327,Russia,10
+20200327,Saudi Arabia,1
+20200327,Senegal,1
+20200327,Spain,7
+20200327,Sweden,2
+20200327,Thailand,1
+20200327,Turkey,13
+20200327,United States,20
+20200327,United Kingdom,14
+20200327,Vietnam,1
+20200328,Aruba,1
+20200328,Australia,8
+20200328,Austria,1
+20200328,Bahrain,1
+20200328,Barbados,1
+20200328,Belgium,1
+20200328,Brazil,4
+20200328,Canada,2
+20200328,Costa Rica,1
+20200328,Czech Republic,1
+20200328,France,9
+20200328,Germany,6
+20200328,Greece,3
+20200328,Hungary,1
+20200328,Ireland,1
+20200328,Italy,1
+20200328,Japan,1
+20200328,Malta,3
+20200328,Mexico,3
+20200328,Netherlands,1
+20200328,New Zealand,2
+20200328,Portugal,4
+20200328,Puerto Rico,1
+20200328,Russia,4
+20200328,Singapore,1
+20200328,Spain,12
+20200328,Sweden,1
+20200328,Switzerland,1
+20200328,Taiwan,1
+20200328,Thailand,2
+20200328,Turkey,5
+20200328,United States,17
+20200328,United Arab Emirates,1
+20200328,United Kingdom,7
+20200329,Argentina,1
+20200329,Australia,7
+20200329,Austria,2
+20200329,Brazil,2
+20200329,Bulgaria,1
+20200329,Canada,1
+20200329,Croatia,1
+20200329,Curacao,1
+20200329,Cyprus,1
+20200329,Czech Republic,1
+20200329,Denmark,1
+20200329,Dominican Republic,3
+20200329,France,9
+20200329,Germany,8
+20200329,Greece,1
+20200329,Ireland,1
+20200329,Israel,1
+20200329,Italy,5
+20200329,Japan,8
+20200329,Mexico,1
+20200329,New Zealand,2
+20200329,Panama,1
+20200329,Poland,1
+20200329,Russia,6
+20200329,Spain,10
+20200329,Turkey,3
+20200329,United States,19
+20200329,United Kingdom,6
+20200330,Argentina,1
+20200330,Australia,14
+20200330,Austria,1
+20200330,Belgium,1
+20200330,Brazil,17
+20200330,Canada,2
+20200330,Crimea,1
+20200330,Croatia,1
+20200330,Czech Republic,4
+20200330,Denmark,1
+20200330,Dominican Republic,2
+20200330,Estonia,1
+20200330,Finland,1
+20200330,France,9
+20200330,Georgia,2
+20200330,Germany,7
+20200330,Greece,8
+20200330,Ireland,3
+20200330,Italy,10
+20200330,Ivory Coast,3
+20200330,Japan,7
+20200330,Latvia,1
+20200330,Malta,2
+20200330,Mexico,5
+20200330,Morocco,1
+20200330,Netherlands,3
+20200330,New Zealand,1
+20200330,Philippines,1
+20200330,Poland,1
+20200330,Portugal,5
+20200330,Russia,5
+20200330,Spain,11
+20200330,Sweden,1
+20200330,Thailand,4
+20200330,Turkey,4
+20200330,United States,33
+20200330,Ukraine,1
+20200330,United Arab Emirates,1
+20200330,United Kingdom,8
+20200330,Uzbekistan,1
+20200331,Argentina,2
+20200331,Australia,6
+20200331,Austria,2
+20200331,Belgium,2
+20200331,Brazil,4
+20200331,Costa Rica,2
+20200331,Cyprus,1
+20200331,Dominican Republic,3
+20200331,Egypt,1
+20200331,France,8
+20200331,French Antilles,1
+20200331,Germany,13
+20200331,Greece,6
+20200331,Hungary,1
+20200331,Indonesia,2
+20200331,Ireland,3
+20200331,Italy,10
+20200331,Japan,5
+20200331,Jordan,4
+20200331,Kenya,1
+20200331,Mexico,1
+20200331,Netherlands,4
+20200331,New Zealand,1
+20200331,Poland,1
+20200331,Portugal,3
+20200331,Russia,7
+20200331,Slovakia,1
+20200331,Spain,13
+20200331,Switzerland,3
+20200331,Turkey,6
+20200331,Turks and Caicos Islands,1
+20200331,United States,30
+20200331,United Kingdom,16
+20200401,Australia,6
+20200401,Austria,4
+20200401,Brazil,3
+20200401,Canada,1
+20200401,Cuba,1
+20200401,Cyprus,2
+20200401,Czech Republic,1
+20200401,France,6
+20200401,Germany,5
+20200401,Greece,1
+20200401,Italy,10
+20200401,Jamaica,1
+20200401,Japan,5
+20200401,Lithuania,1
+20200401,Malta,1
+20200401,Mexico,4
+20200401,Montenegro,1
+20200401,Myanmar,1
+20200401,Netherlands,2
+20200401,New Zealand,2
+20200401,Philippines,2
+20200401,Poland,1
+20200401,Portugal,4
+20200401,Russia,2
+20200401,Samoa,1
+20200401,Seychelles,1
+20200401,Spain,7
+20200401,Sweden,1
+20200401,Thailand,1
+20200401,Turkey,2
+20200401,Turks and Caicos Islands,1
+20200401,United States,36
+20200401,United Kingdom,10
+20200402,Australia,9
+20200402,Austria,2
+20200402,Belarus,1
+20200402,Belgium,3
+20200402,Brazil,8
+20200402,Canada,1
+20200402,Cayman Islands,1
+20200402,Cyprus,2
+20200402,Czech Republic,1
+20200402,Dominican Republic,1
+20200402,France,13
+20200402,Germany,8
+20200402,Greece,1
+20200402,Indonesia,1
+20200402,Ireland,2
+20200402,Italy,5
+20200402,Japan,5
+20200402,Malta,1
+20200402,Netherlands,1
+20200402,New Zealand,2
+20200402,Norway,1
+20200402,Portugal,4
+20200402,Russia,4
+20200402,Spain,3
+20200402,Sweden,1
+20200402,Thailand,2
+20200402,Turkey,4
+20200402,United States,32
+20200402,United Kingdom,13
+20200403,Australia,5
+20200403,Austria,1
+20200403,Belgium,2
+20200403,Brazil,3
+20200403,Chile,2
+20200403,Cyprus,1
+20200403,Denmark,1
+20200403,Finland,1
+20200403,France,13
+20200403,Germany,8
+20200403,Greece,2
+20200403,Indonesia,1
+20200403,Italy,8
+20200403,Japan,7
+20200403,Mexico,1
+20200403,Netherlands,4
+20200403,Norway,1
+20200403,Poland,3
+20200403,Russia,4
+20200403,Serbia,1
+20200403,Singapore,1
+20200403,Spain,21
+20200403,United States,11
+20200403,United Arab Emirates,1
+20200403,United Kingdom,15
+20200404,Armenia,1
+20200404,Australia,7
+20200404,Austria,1
+20200404,Brazil,5
+20200404,Canada,1
+20200404,Cyprus,1
+20200404,Dominican Republic,1
+20200404,Fiji,2
+20200404,Finland,1
+20200404,France,2
+20200404,Germany,8
+20200404,Ireland,4
+20200404,Italy,5
+20200404,Japan,5
+20200404,Mexico,3
+20200404,Nepal,1
+20200404,Netherlands,1
+20200404,New Zealand,1
+20200404,Poland,1
+20200404,Portugal,3
+20200404,Russia,2
+20200404,Spain,5
+20200404,Switzerland,1
+20200404,Thailand,2
+20200404,Turkey,7
+20200404,United States,18
+20200404,United Arab Emirates,1
+20200404,United Kingdom,9
+20200404,Uruguay,1
+20200405,Australia,4
+20200405,Austria,4
+20200405,Belarus,1
+20200405,Brazil,1
+20200405,Canada,1
+20200405,Cyprus,1
+20200405,Czech Republic,1
+20200405,Dominican Republic,1
+20200405,France,3
+20200405,Germany,4
+20200405,Hungary,1
+20200405,Italy,3
+20200405,Japan,5
+20200405,Mexico,2
+20200405,Netherlands,1
+20200405,Norway,1
+20200405,Portugal,2
+20200405,Russia,5
+20200405,Spain,8
+20200405,Turkey,2
+20200405,United States,6
+20200405,United Kingdom,11
+20200406,Aruba,1
+20200406,Australia,6
+20200406,Austria,1
+20200406,Belgium,4
+20200406,Brazil,5
+20200406,Canada,1
+20200406,Cyprus,1
+20200406,Czech Republic,1
+20200406,Denmark,1
+20200406,Dominican Republic,1
+20200406,Egypt,1
+20200406,France,9
+20200406,Germany,4
+20200406,Greece,1
+20200406,Haiti,2
+20200406,Ireland,1
+20200406,Italy,5
+20200406,Japan,6
+20200406,Mexico,3
+20200406,Morocco,1
+20200406,Myanmar,1
+20200406,New Zealand,1
+20200406,Portugal,3
+20200406,Russia,3
+20200406,Spain,9
+20200406,Sweden,1
+20200406,Switzerland,1
+20200406,Turkey,5
+20200406,United States,19
+20200406,United Kingdom,8
+20200407,Australia,6
+20200407,Brazil,3
+20200407,Canada,2
+20200407,Colombia,1
+20200407,Czech Republic,1
+20200407,Dominican Republic,8
+20200407,Egypt,1
+20200407,Fiji,1
+20200407,France,5
+20200407,Germany,5
+20200407,Greece,3
+20200407,Italy,8
+20200407,Jamaica,2
+20200407,Japan,10
+20200407,Poland,1
+20200407,Russia,2
+20200407,Spain,17
+20200407,Turkey,3
+20200407,United States,24
+20200407,United Arab Emirates,1
+20200407,United Kingdom,7
+20200407,Uruguay,1
+20200408,Argentina,1
+20200408,Australia,4
+20200408,Austria,1
+20200408,Bahamas,1
+20200408,Belgium,1
+20200408,Brazil,5
+20200408,Canada,1
+20200408,Cuba,1
+20200408,Dominican Republic,11
+20200408,France,33
+20200408,Germany,2
+20200408,Ireland,2
+20200408,Italy,4
+20200408,Japan,14
+20200408,Mexico,2
+20200408,Netherlands,2
+20200408,Norway,1
+20200408,Panama,1
+20200408,Poland,1
+20200408,Portugal,1
+20200408,Russia,5
+20200408,Spain,9
+20200408,Thailand,1
+20200408,Turkey,7
+20200408,United States,11
+20200408,United Kingdom,6
+20200409,Argentina,2
+20200409,Australia,2
+20200409,Austria,2
+20200409,Barbados,1
+20200409,Brazil,8
+20200409,Cayman Islands,1
+20200409,Colombia,1
+20200409,Croatia,1
+20200409,Cyprus,1
+20200409,Czech Republic,1
+20200409,Dominican Republic,2
+20200409,France,3
+20200409,Germany,6
+20200409,Greece,1
+20200409,India,1
+20200409,Italy,1
+20200409,Japan,7
+20200409,Mexico,3
+20200409,Morocco,3
+20200409,Netherlands,1
+20200409,New Zealand,1
+20200409,Portugal,5
+20200409,Russia,1
+20200409,Singapore,1
+20200409,Spain,12
+20200409,Sweden,1
+20200409,Turkey,6
+20200409,United States,23
+20200409,United Arab Emirates,1
+20200409,United Kingdom,9
+20200410,Australia,2
+20200410,Brazil,4
+20200410,Canada,1
+20200410,Czech Republic,3
+20200410,France,4
+20200410,Germany,6
+20200410,Greece,3
+20200410,Iceland,1
+20200410,Italy,5
+20200410,Japan,3
+20200410,Malta,2
+20200410,Mexico,1
+20200410,Portugal,2
+20200410,Russia,5
+20200410,South Korea,1
+20200410,Spain,7
+20200410,Turkey,5
+20200410,United States,11
+20200410,United Arab Emirates,1
+20200410,United Kingdom,4
+20200411,Argentina,2
+20200411,Aruba,1
+20200411,Australia,2
+20200411,Austria,1
+20200411,Costa Rica,1
+20200411,Cuba,1
+20200411,France,5
+20200411,Germany,4
+20200411,Greece,1
+20200411,Hong Kong,3
+20200411,Indonesia,1
+20200411,Ireland,1
+20200411,Italy,4
+20200411,Japan,4
+20200411,Malaysia,1
+20200411,Peru,1
+20200411,Portugal,2
+20200411,Russia,4
+20200411,Spain,19
+20200411,Switzerland,4
+20200411,Tunisia,1
+20200411,Turkey,2
+20200411,United States,21
+20200411,United Kingdom,10
+20200412,Australia,3
+20200412,Austria,2
+20200412,Brazil,1
+20200412,Cyprus,2
+20200412,Czech Republic,1
+20200412,Egypt,1
+20200412,France,1
+20200412,Germany,4
+20200412,Greece,2
+20200412,Italy,2
+20200412,Jamaica,1
+20200412,Japan,4
+20200412,Mexico,1
+20200412,Philippines,1
+20200412,Russia,2
+20200412,Spain,12
+20200412,Thailand,1
+20200412,Turkey,1
+20200412,United States,14
+20200412,United Arab Emirates,1
+20200412,United Kingdom,6
+20200413,Australia,4
+20200413,Austria,3
+20200413,Bahamas,1
+20200413,Brazil,2
+20200413,Cyprus,2
+20200413,Czech Republic,1
+20200413,Fiji,1
+20200413,France,2
+20200413,Germany,6
+20200413,Greece,6
+20200413,Hungary,1
+20200413,Ireland,2
+20200413,Italy,3
+20200413,Japan,6
+20200413,Malta,2
+20200413,Mexico,2
+20200413,Netherlands,1
+20200413,New Zealand,1
+20200413,Portugal,2
+20200413,Russia,1
+20200413,Slovenia,1
+20200413,Spain,14
+20200413,Switzerland,1
+20200413,Turkey,2
+20200413,United States,27
+20200413,United Kingdom,2
+20200414,Australia,5
+20200414,Austria,4
+20200414,Belgium,2
+20200414,Brazil,7
+20200414,Canada,4
+20200414,Cyprus,2
+20200414,France,5
+20200414,Germany,7
+20200414,Greece,3
+20200414,Indonesia,1
+20200414,Ireland,1
+20200414,Italy,9
+20200414,Japan,6
+20200414,Jordan,1
+20200414,Malta,1
+20200414,Morocco,1
+20200414,New Zealand,4
+20200414,Philippines,1
+20200414,Portugal,2
+20200414,Russia,6
+20200414,Spain,69
+20200414,Sweden,1
+20200414,Tunisia,2
+20200414,Turkey,4
+20200414,United States,20
+20200414,United Arab Emirates,1
+20200414,United Kingdom,13
+20200415,Aruba,1
+20200415,Australia,2
+20200415,Austria,1
+20200415,Bahamas,1
+20200415,Brazil,2
+20200415,Dominican Republic,1
+20200415,France,5
+20200415,Germany,7
+20200415,Greece,1
+20200415,Hungary,1
+20200415,Ireland,1
+20200415,Italy,3
+20200415,Japan,5
+20200415,Luxembourg,1
+20200415,Mexico,1
+20200415,Netherlands,1
+20200415,Philippines,1
+20200415,Poland,1
+20200415,Portugal,2
+20200415,Russia,1
+20200415,Spain,7
+20200415,Sweden,2
+20200415,Turkey,2
+20200415,United States,25
+20200415,United Arab Emirates,1
+20200415,United Kingdom,21
+20200416,Andorra,1
+20200416,Australia,2
+20200416,Austria,2
+20200416,Brazil,1
+20200416,Croatia,2
+20200416,Cuba,4
+20200416,France,10
+20200416,Germany,2
+20200416,Greece,5
+20200416,Ireland,2
+20200416,Italy,8
+20200416,Japan,7
+20200416,Latvia,1
+20200416,Mexico,3
+20200416,Morocco,2
+20200416,Netherlands,3
+20200416,New Zealand,1
+20200416,Portugal,1
+20200416,Puerto Rico,1
+20200416,Russia,2
+20200416,Spain,11
+20200416,Turkey,2
+20200416,United States,19
+20200416,United Kingdom,14
+20200417,Australia,3
+20200417,Austria,3
+20200417,Belgium,1
+20200417,Brazil,5
+20200417,Canada,3
+20200417,Czech Republic,2
+20200417,Dominican Republic,2
+20200417,France,6
+20200417,Germany,16
+20200417,Greece,2
+20200417,Ireland,1
+20200417,Italy,3
+20200417,Japan,8
+20200417,Malta,2
+20200417,Mexico,3
+20200417,Netherlands,2
+20200417,Peru,2
+20200417,Poland,1
+20200417,Portugal,12
+20200417,Republic of Macedonia,1
+20200417,Russia,1
+20200417,Spain,11
+20200417,Switzerland,4
+20200417,Thailand,2
+20200417,Turkey,2
+20200417,United States,18
+20200417,United Kingdom,6
+20200418,Belarus,1
+20200418,Brazil,3
+20200418,Czech Republic,1
+20200418,Denmark,1
+20200418,France,4
+20200418,Germany,7
+20200418,Greece,9
+20200418,Indonesia,5
+20200418,Israel,1
+20200418,Italy,1
+20200418,Japan,6
+20200418,Mexico,6
+20200418,Norway,1
+20200418,Portugal,1
+20200418,Russia,13
+20200418,Spain,10
+20200418,Switzerland,1
+20200418,Taiwan,1
+20200418,Turkey,2
+20200418,United States,18
+20200418,United Kingdom,6
+20200418,Uruguay,1
+20200418,Uzbekistan,1
+20200419,Australia,5
+20200419,Austria,3
+20200419,Estonia,1
+20200419,France,2
+20200419,Germany,12
+20200419,Ireland,1
+20200419,Italy,2
+20200419,Japan,5
+20200419,Malta,1
+20200419,Mexico,2
+20200419,Morocco,1
+20200419,Netherlands,1
+20200419,Philippines,2
+20200419,Poland,1
+20200419,Portugal,3
+20200419,Russia,1
+20200419,Spain,4
+20200419,Sweden,2
+20200419,United States,13
+20200419,United Kingdom,7
+20200420,Argentina,2
+20200420,Australia,2
+20200420,Austria,2
+20200420,Brazil,4
+20200420,Croatia,1
+20200420,Cuba,1
+20200420,Denmark,1
+20200420,Fiji,1
+20200420,France,3
+20200420,Germany,7
+20200420,Greece,1
+20200420,Ireland,2
+20200420,Italy,1
+20200420,Japan,2
+20200420,Mexico,5
+20200420,Netherlands,1
+20200420,Portugal,3
+20200420,Russia,2
+20200420,Spain,15
+20200420,Switzerland,1
+20200420,Turkey,3
+20200420,United States,6
+20200420,Ukraine,1
+20200420,United Kingdom,2
+20200421,Australia,3
+20200421,Azerbaijan,1
+20200421,Brazil,4
+20200421,Cuba,1
+20200421,Egypt,1
+20200421,France,2
+20200421,Germany,9
+20200421,Greece,5
+20200421,Ireland,1
+20200421,Italy,13
+20200421,Japan,5
+20200421,Mexico,5
+20200421,Morocco,8
+20200421,Netherlands,2
+20200421,Portugal,2
+20200421,Russia,2
+20200421,Spain,10
+20200421,Turkey,2
+20200421,United States,9
+20200421,United Kingdom,1
+20200422,Australia,1
+20200422,Brazil,2
+20200422,Croatia,1
+20200422,France,2
+20200422,Germany,7
+20200422,Greece,2
+20200422,Ireland,2
+20200422,Italy,2
+20200422,Jamaica,2
+20200422,Japan,3
+20200422,Malta,2
+20200422,New Zealand,1
+20200422,Puerto Rico,1
+20200422,Russia,4
+20200422,Singapore,1
+20200422,Spain,9
+20200422,Sweden,1
+20200422,Thailand,1
+20200422,Turkey,1
+20200422,United States,12
+20200422,United Kingdom,5
+20200423,Australia,2
+20200423,Austria,3
+20200423,Brazil,4
+20200423,Canada,1
+20200423,Czech Republic,2
+20200423,Dominican Republic,1
+20200423,France,10
+20200423,Germany,1
+20200423,Greece,4
+20200423,Ireland,1
+20200423,Israel,1
+20200423,Italy,2
+20200423,Japan,3
+20200423,Mexico,3
+20200423,Poland,1
+20200423,Portugal,3
+20200423,Russia,3
+20200423,Spain,14
+20200423,Sweden,1
+20200423,Switzerland,1
+20200423,Turkey,2
+20200423,United States,11
+20200423,United Arab Emirates,2
+20200423,United Kingdom,5
+20200424,Australia,3
+20200424,Austria,2
+20200424,Brazil,4
+20200424,Czech Republic,1
+20200424,Dominican Republic,2
+20200424,Faroe Islands,1
+20200424,France,6
+20200424,Germany,3
+20200424,Greece,2
+20200424,Ireland,1
+20200424,Italy,4
+20200424,Jamaica,1
+20200424,Japan,2
+20200424,Jordan,1
+20200424,Mexico,1
+20200424,Poland,1
+20200424,Portugal,1
+20200424,Russia,3
+20200424,Spain,11
+20200424,Thailand,1
+20200424,Turkey,1
+20200424,United States,8
+20200424,United Arab Emirates,2
+20200424,United Kingdom,3
+20200425,Australia,1
+20200425,Brazil,1
+20200425,Cyprus,1
+20200425,Czech Republic,3
+20200425,Dominican Republic,1
+20200425,France,3
+20200425,Germany,3
+20200425,Greece,1
+20200425,Ireland,2
+20200425,Italy,3
+20200425,Japan,4
+20200425,Mexico,3
+20200425,Netherlands,1
+20200425,Russia,8
+20200425,Spain,6
+20200425,Tunisia,1
+20200425,Turkey,1
+20200425,Turks and Caicos Islands,1
+20200425,United States,6
+20200425,United Kingdom,1
+20200426,Austria,1
+20200426,Belarus,1
+20200426,Belgium,1
+20200426,Brazil,2
+20200426,Canada,1
+20200426,Costa Rica,2
+20200426,Cyprus,1
+20200426,Czech Republic,1
+20200426,Italy,3
+20200426,Japan,3
+20200426,Malaysia,1
+20200426,Mexico,1
+20200426,Netherlands,1
+20200426,Norway,1
+20200426,Poland,1
+20200426,Portugal,1
+20200426,Russia,1
+20200426,Spain,4
+20200426,Switzerland,1
+20200426,Turkey,5
+20200426,United States,5
+20200426,Ukraine,1
+20200426,United Kingdom,5
+20200427,Australia,1
+20200427,Austria,3
+20200427,Brazil,1
+20200427,Canada,1
+20200427,Denmark,1
+20200427,France,4
+20200427,Germany,9
+20200427,Greece,1
+20200427,Iceland,1
+20200427,Ireland,1
+20200427,Italy,56
+20200427,Japan,7
+20200427,Mexico,1
+20200427,Netherlands,2
+20200427,Portugal,4
+20200427,Russia,1
+20200427,South Korea,1
+20200427,Spain,19
+20200427,Switzerland,4
+20200427,Turkey,1
+20200427,United States,10
+20200427,United Arab Emirates,1
+20200427,United Kingdom,5
+20200428,Australia,4
+20200428,Austria,6
+20200428,Brazil,1
+20200428,Cyprus,1
+20200428,Czech Republic,1
+20200428,France,7
+20200428,Germany,6
+20200428,Indonesia,1
+20200428,Italy,15
+20200428,Jamaica,1
+20200428,Japan,2
+20200428,Mexico,2
+20200428,Morocco,1
+20200428,Netherlands,2
+20200428,Philippines,1
+20200428,Portugal,2
+20200428,Russia,2
+20200428,Spain,13
+20200428,Sweden,1
+20200428,Turkey,5
+20200428,United States,13
+20200428,United Kingdom,8
+20200429,Australia,2
+20200429,Austria,2
+20200429,Canada,1
+20200429,Czech Republic,1
+20200429,Dominican Republic,5
+20200429,France,36
+20200429,Germany,29
+20200429,Greece,3
+20200429,Hungary,1
+20200429,Italy,6
+20200429,Jamaica,1
+20200429,Japan,4
+20200429,Kenya,1
+20200429,Luxembourg,1
+20200429,Mexico,1
+20200429,Netherlands,1
+20200429,Portugal,2
+20200429,Russia,4
+20200429,Spain,16
+20200429,Thailand,2
+20200429,The Gambia,1
+20200429,Turkey,8
+20200429,United States,19
+20200429,United Arab Emirates,4
+20200429,United Kingdom,7
+20200430,Australia,1
+20200430,Austria,2
+20200430,Brazil,3
+20200430,Croatia,4
+20200430,Cyprus,2
+20200430,Dominican Republic,1
+20200430,France,3
+20200430,Georgia,1
+20200430,Germany,3
+20200430,Greece,4
+20200430,Italy,4
+20200430,Japan,2
+20200430,Lithuania,1
+20200430,Mexico,1
+20200430,Monaco,1
+20200430,Morocco,1
+20200430,Netherlands,1
+20200430,Poland,1
+20200430,Portugal,2
+20200430,Puerto Rico,1
+20200430,Russia,4
+20200430,South Africa,1
+20200430,Spain,11
+20200430,Switzerland,1
+20200430,Turkey,3
+20200430,United States,10
+20200430,United Kingdom,7
+20200501,Aruba,1
+20200501,Australia,2
+20200501,Austria,3
+20200501,Belgium,1
+20200501,Canada,1
+20200501,France,5
+20200501,Germany,8
+20200501,Greece,8
+20200501,Italy,11
+20200501,Japan,8
+20200501,Mexico,1
+20200501,Netherlands,1
+20200501,New Zealand,2
+20200501,Portugal,2
+20200501,Russia,3
+20200501,Spain,6
+20200501,Switzerland,2
+20200501,Turkey,12
+20200501,United States,10
+20200501,United Kingdom,3
+20200502,Australia,1
+20200502,Austria,4
+20200502,Belarus,1
+20200502,Belgium,1
+20200502,Brazil,2
+20200502,France,4
+20200502,Germany,1
+20200502,Greece,1
+20200502,Hungary,3
+20200502,Ireland,1
+20200502,Italy,3
+20200502,Japan,2
+20200502,Mexico,1
+20200502,Netherlands,1
+20200502,Russia,2
+20200502,Spain,9
+20200502,Switzerland,1
+20200502,Turkey,8
+20200502,United States,7
+20200502,United Arab Emirates,1
+20200502,United Kingdom,4
+20200503,Australia,1
+20200503,Chile,1
+20200503,Cyprus,1
+20200503,Denmark,4
+20200503,France,6
+20200503,Germany,2
+20200503,Hungary,3
+20200503,Ireland,1
+20200503,Italy,5
+20200503,Japan,2
+20200503,Latvia,1
+20200503,Portugal,2
+20200503,Russia,1
+20200503,Spain,7
+20200503,Turkey,2
+20200503,United States,8
+20200503,United Kingdom,1
+20200504,Australia,2
+20200504,Austria,2
+20200504,Czech Republic,1
+20200504,France,6
+20200504,Germany,1
+20200504,Greece,1
+20200504,Hungary,3
+20200504,Ireland,1
+20200504,Italy,4
+20200504,Japan,3
+20200504,Malta,1
+20200504,Mexico,1
+20200504,Norway,1
+20200504,Portugal,3
+20200504,Russia,2
+20200504,Singapore,1
+20200504,Spain,19
+20200504,Sweden,2
+20200504,Switzerland,3
+20200504,Thailand,2
+20200504,Turkey,13
+20200504,United States,15
+20200504,United Kingdom,8
+20200505,Austria,1
+20200505,Brazil,3
+20200505,Canada,1
+20200505,Cuba,2
+20200505,Denmark,1
+20200505,Dominican Republic,1
+20200505,France,2
+20200505,Germany,10
+20200505,Greece,1
+20200505,Iceland,1
+20200505,Ireland,3
+20200505,Italy,13
+20200505,Jamaica,2
+20200505,Malaysia,1
+20200505,Malta,3
+20200505,Mexico,4
+20200505,Morocco,1
+20200505,Portugal,1
+20200505,Russia,3
+20200505,Spain,14
+20200505,Sweden,1
+20200505,Turkey,10
+20200505,United States,8
+20200505,United Kingdom,10
+20200506,Australia,2
+20200506,Brazil,2
+20200506,Canada,1
+20200506,Denmark,1
+20200506,Dominican Republic,1
+20200506,France,1
+20200506,Germany,4
+20200506,Greece,6
+20200506,Italy,5
+20200506,Japan,4
+20200506,Mexico,5
+20200506,Portugal,1
+20200506,Spain,10
+20200506,Switzerland,1
+20200506,Turkey,4
+20200506,United States,12
+20200506,United Arab Emirates,2
+20200506,United Kingdom,4
+20200507,Austria,2
+20200507,Brazil,3
+20200507,Canada,1
+20200507,Costa Rica,1
+20200507,France,4
+20200507,Germany,7
+20200507,Greece,2
+20200507,Iceland,1
+20200507,Italy,4
+20200507,Japan,2
+20200507,Mexico,1
+20200507,Morocco,1
+20200507,Netherlands,1
+20200507,Portugal,1
+20200507,Russia,1
+20200507,Slovenia,1
+20200507,Spain,11
+20200507,Thailand,1
+20200507,Turkey,1
+20200507,United States,13
+20200507,United Arab Emirates,1
+20200507,United Kingdom,6
+20200508,Australia,1
+20200508,Austria,1
+20200508,Estonia,2
+20200508,France,3
+20200508,French Antilles,1
+20200508,Germany,8
+20200508,Greece,1
+20200508,Hong Kong,6
+20200508,Iceland,1
+20200508,Italy,15
+20200508,Japan,2
+20200508,Malta,1
+20200508,Mexico,1
+20200508,Morocco,1
+20200508,Portugal,3
+20200508,Russia,4
+20200508,Spain,13
+20200508,Sweden,2
+20200508,Switzerland,1
+20200508,Turkey,5
+20200508,United States,9
+20200508,United Kingdom,7
+20200509,Australia,1
+20200509,Brazil,1
+20200509,Bulgaria,1
+20200509,Costa Rica,2
+20200509,Croatia,1
+20200509,Cyprus,2
+20200509,Dominican Republic,1
+20200509,Egypt,1
+20200509,Estonia,2
+20200509,France,1
+20200509,Germany,3
+20200509,Greece,4
+20200509,Ireland,1
+20200509,Israel,2
+20200509,Italy,2
+20200509,Jamaica,1
+20200509,Mexico,1
+20200509,Poland,1
+20200509,Russia,1
+20200509,Spain,5
+20200509,Thailand,1
+20200509,Turkey,4
+20200509,United States,12
+20200509,United Kingdom,4
+20200510,Australia,1
+20200510,Canada,3
+20200510,Dominican Republic,1
+20200510,France,3
+20200510,Germany,3
+20200510,Israel,2
+20200510,Italy,2
+20200510,Malta,4
+20200510,Poland,1
+20200510,Portugal,1
+20200510,Spain,5
+20200510,Sweden,1
+20200510,Turkey,7
+20200510,United States,4
+20200510,United Arab Emirates,1
+20200510,United Kingdom,4
+20200511,Australia,1
+20200511,Brazil,4
+20200511,Bulgaria,2
+20200511,Canada,1
+20200511,Egypt,1
+20200511,Estonia,1
+20200511,Finland,1
+20200511,France,5
+20200511,Germany,7
+20200511,Greece,5
+20200511,Ireland,2
+20200511,Italy,6
+20200511,Malaysia,1
+20200511,Mexico,1
+20200511,New Zealand,1
+20200511,Portugal,2
+20200511,Singapore,1
+20200511,Spain,8
+20200511,Thailand,1
+20200511,Turkey,7
+20200511,United States,6
+20200511,United Arab Emirates,1
+20200511,United Kingdom,8
+20200512,Australia,1
+20200512,Brazil,2
+20200512,Egypt,1
+20200512,France,6
+20200512,Germany,13
+20200512,Greece,2
+20200512,Ireland,3
+20200512,Italy,6
+20200512,Malta,1
+20200512,Mexico,1
+20200512,Portugal,3
+20200512,Russia,2
+20200512,Spain,12
+20200512,Switzerland,1
+20200512,Turkey,4
+20200512,United States,18
+20200512,United Arab Emirates,1
+20200512,United Kingdom,4
+20200513,Austria,2
+20200513,Brazil,1
+20200513,Canada,1
+20200513,Cyprus,2
+20200513,Finland,1
+20200513,France,2
+20200513,Germany,5
+20200513,Greece,1
+20200513,Indonesia,1
+20200513,Ireland,1
+20200513,Italy,5
+20200513,Mexico,1
+20200513,Russia,7
+20200513,Spain,12
+20200513,Switzerland,2
+20200513,Taiwan,1
+20200513,Thailand,1
+20200513,Turkey,4
+20200513,United States,7
+20200513,United Kingdom,8
+20200514,Australia,1
+20200514,Austria,1
+20200514,Brazil,2
+20200514,Cuba,1
+20200514,Cyprus,2
+20200514,France,3
+20200514,Germany,7
+20200514,Greece,4
+20200514,Indonesia,1
+20200514,Ireland,2
+20200514,Italy,5
+20200514,Japan,1
+20200514,Malta,1
+20200514,Mexico,4
+20200514,Morocco,1
+20200514,Portugal,2
+20200514,Russia,2
+20200514,Spain,13
+20200514,Thailand,3
+20200514,Turkey,9
+20200514,United States,15
+20200514,United Kingdom,3
+20200515,Austria,1
+20200515,Bulgaria,1
+20200515,Canada,1
+20200515,Croatia,1
+20200515,Dominican Republic,1
+20200515,Finland,1
+20200515,France,3
+20200515,Germany,3
+20200515,Greece,3
+20200515,Italy,7
+20200515,Japan,3
+20200515,Malta,2
+20200515,Mexico,3
+20200515,Netherlands,2
+20200515,Norway,1
+20200515,Portugal,2
+20200515,Russia,1
+20200515,Singapore,1
+20200515,Spain,7
+20200515,Tunisia,2
+20200515,Turkey,5
+20200515,United States,8
+20200515,United Kingdom,5
+20200516,Australia,1
+20200516,Costa Rica,1
+20200516,Estonia,1
+20200516,France,4
+20200516,Germany,1
+20200516,Greece,2
+20200516,Ireland,2
+20200516,Israel,1
+20200516,Italy,3
+20200516,New Zealand,1
+20200516,Portugal,3
+20200516,Puerto Rico,1
+20200516,Spain,10
+20200516,Sweden,1
+20200516,Tunisia,1
+20200516,Turkey,13
+20200516,United States,12
+20200516,United Kingdom,6
+20200517,Australia,1
+20200517,Austria,4
+20200517,France,1
+20200517,Germany,5
+20200517,Greece,1
+20200517,Iceland,1
+20200517,Italy,3
+20200517,Mexico,4
+20200517,Montenegro,1
+20200517,Russia,3
+20200517,Spain,9
+20200517,Turkey,10
+20200517,United States,7
+20200517,United Kingdom,3
+20200518,Australia,1
+20200518,Austria,1
+20200518,Brazil,1
+20200518,Canada,1
+20200518,Cyprus,4
+20200518,Czech Republic,3
+20200518,Denmark,1
+20200518,Dominican Republic,1
+20200518,Egypt,1
+20200518,Finland,1
+20200518,France,2
+20200518,Germany,4
+20200518,Greece,3
+20200518,Hungary,1
+20200518,Italy,2
+20200518,Japan,1
+20200518,Kenya,1
+20200518,Mexico,6
+20200518,Morocco,1
+20200518,Netherlands,2
+20200518,Portugal,3
+20200518,Russia,2
+20200518,Slovenia,1
+20200518,Spain,11
+20200518,Sweden,1
+20200518,Turkey,6
+20200518,United States,6
+20200518,United Kingdom,2
+20200519,Armenia,4
+20200519,Costa Rica,1
+20200519,Cyprus,1
+20200519,Dominican Republic,1
+20200519,France,7
+20200519,Germany,4
+20200519,Greece,3
+20200519,Ireland,1
+20200519,Italy,5
+20200519,Malta,2
+20200519,Mexico,3
+20200519,Morocco,4
+20200519,New Zealand,2
+20200519,Portugal,8
+20200519,Spain,15
+20200519,Switzerland,1
+20200519,Thailand,1
+20200519,Tunisia,1
+20200519,Turkey,15
+20200519,United States,11
+20200519,United Kingdom,1
+20200520,Belgium,1
+20200520,Canada,1
+20200520,Costa Rica,2
+20200520,Cyprus,1
+20200520,France,2
+20200520,Germany,5
+20200520,Greece,2
+20200520,Hong Kong,1
+20200520,Ireland,2
+20200520,Italy,4
+20200520,Jamaica,1
+20200520,Mexico,3
+20200520,Netherlands,1
+20200520,Norway,1
+20200520,Portugal,4
+20200520,Russia,3
+20200520,Spain,8
+20200520,Sweden,1
+20200520,Switzerland,1
+20200520,Thailand,1
+20200520,Turkey,8
+20200520,United States,15
+20200520,United Kingdom,3
+20200521,Australia,1
+20200521,Austria,1
+20200521,Belgium,1
+20200521,Brazil,1
+20200521,Czech Republic,1
+20200521,Denmark,2
+20200521,France,2
+20200521,Germany,2
+20200521,Greece,1
+20200521,Ireland,2
+20200521,Italy,4
+20200521,Mexico,3
+20200521,New Zealand,1
+20200521,Portugal,1
+20200521,Russia,1
+20200521,Singapore,1
+20200521,Spain,11
+20200521,Thailand,1
+20200521,Turkey,5
+20200521,United States,8
+20200521,United Kingdom,6
+20200522,Belgium,1
+20200522,Brazil,4
+20200522,Croatia,2
+20200522,Dominican Republic,1
+20200522,France,4
+20200522,Germany,7
+20200522,Greece,7
+20200522,Hong Kong,1
+20200522,India,1
+20200522,Ireland,1
+20200522,Italy,5
+20200522,Japan,1
+20200522,Mexico,2
+20200522,Netherlands,1
+20200522,Portugal,2
+20200522,Romania,1
+20200522,Russia,2
+20200522,Singapore,1
+20200522,South Africa,1
+20200522,Spain,18
+20200522,Thailand,1
+20200522,Tunisia,1
+20200522,Turkey,5
+20200522,United States,8
+20200522,United Arab Emirates,1
+20200522,United Kingdom,1
+20200523,Austria,1
+20200523,Belgium,2
+20200523,Brazil,1
+20200523,Costa Rica,3
+20200523,Czech Republic,2
+20200523,France,1
+20200523,Greece,4
+20200523,Ireland,16
+20200523,Italy,3
+20200523,Japan,1
+20200523,Malta,2
+20200523,Mexico,1
+20200523,New Zealand,1
+20200523,Russia,2
+20200523,Spain,4
+20200523,Tunisia,16
+20200523,Turkey,4
+20200523,United States,8
+20200523,United Kingdom,1
+20200524,Australia,1
+20200524,Austria,1
+20200524,Canada,2
+20200524,Czech Republic,2
+20200524,France,4
+20200524,Germany,3
+20200524,Greece,1
+20200524,Ireland,1
+20200524,Italy,1
+20200524,Mexico,3
+20200524,Netherlands,1
+20200524,Portugal,1
+20200524,Russia,1
+20200524,Spain,8
+20200524,Turkey,16
+20200524,United States,4
+20200524,United Kingdom,3
+20200525,Australia,2
+20200525,Austria,3
+20200525,Brazil,1
+20200525,Canada,1
+20200525,Croatia,1
+20200525,France,4
+20200525,Germany,10
+20200525,Greece,4
+20200525,Ireland,1
+20200525,Italy,6
+20200525,Mexico,2
+20200525,Morocco,1
+20200525,Namibia,1
+20200525,Netherlands,1
+20200525,New Zealand,2
+20200525,Norway,1
+20200525,Poland,1
+20200525,Portugal,1
+20200525,Russia,1
+20200525,Spain,12
+20200525,Switzerland,1
+20200525,Thailand,1
+20200525,Turkey,11
+20200525,United States,11
+20200525,United Kingdom,4
+20200526,Australia,1
+20200526,Austria,2
+20200526,Brazil,1
+20200526,Canada,2
+20200526,Cuba,1
+20200526,Cyprus,1
+20200526,Czech Republic,2
+20200526,France,4
+20200526,Germany,6
+20200526,Greece,5
+20200526,Hong Kong,1
+20200526,Ireland,1
+20200526,Italy,4
+20200526,Japan,1
+20200526,Malta,1
+20200526,Mexico,4
+20200526,Netherlands,1
+20200526,Norway,1
+20200526,Portugal,1
+20200526,Spain,19
+20200526,Thailand,2
+20200526,Tunisia,1
+20200526,Turkey,8
+20200526,United States,5
+20200526,United Kingdom,3
+20200527,Brazil,1
+20200527,Croatia,1
+20200527,Czech Republic,1
+20200527,Denmark,1
+20200527,France,1
+20200527,Germany,1
+20200527,Greece,3
+20200527,India,2
+20200527,Indonesia,1
+20200527,Ireland,3
+20200527,Israel,2
+20200527,Italy,1
+20200527,Mexico,2
+20200527,Morocco,1
+20200527,Netherlands,1
+20200527,Portugal,6
+20200527,Russia,1
+20200527,Spain,10
+20200527,Turkey,5
+20200527,United States,11
+20200527,United Kingdom,1
+20200528,Austria,3
+20200528,Brazil,2
+20200528,France,2
+20200528,Germany,2
+20200528,Greece,3
+20200528,Italy,4
+20200528,Mexico,3
+20200528,Netherlands,1
+20200528,Portugal,2
+20200528,Russia,1
+20200528,Spain,7
+20200528,Switzerland,1
+20200528,Turkey,2
+20200528,United States,6
+20200528,United Kingdom,3
+20200529,Brazil,1
+20200529,Bulgaria,2
+20200529,Croatia,1
+20200529,Finland,1
+20200529,France,1
+20200529,Germany,3
+20200529,Greece,6
+20200529,India,1
+20200529,Indonesia,1
+20200529,Italy,5
+20200529,Mexico,2
+20200529,Russia,2
+20200529,Spain,8
+20200529,Thailand,1
+20200529,Turkey,7
+20200529,United States,10
+20200529,United Arab Emirates,1
+20200529,United Kingdom,3
+20200530,Australia,2
+20200530,Belgium,1
+20200530,Brazil,1
+20200530,Cyprus,1
+20200530,Czech Republic,1
+20200530,Dominican Republic,1
+20200530,France,2
+20200530,Germany,1
+20200530,Greece,2
+20200530,Italy,3
+20200530,Mexico,6
+20200530,Netherlands,1
+20200530,Poland,1
+20200530,Portugal,4
+20200530,Romania,1
+20200530,Russia,1
+20200530,Singapore,1
+20200530,Spain,11
+20200530,Turkey,4
+20200530,United States,8
+20200530,United Kingdom,1
+20200530,Vietnam,1
+20200531,Australia,3
+20200531,Austria,1
+20200531,Brazil,1
+20200531,Canada,1
+20200531,Czech Republic,1
+20200531,France,4
+20200531,Germany,4
+20200531,Latvia,1
+20200531,Mexico,2
+20200531,Russia,1
+20200531,Spain,7
+20200531,Turkey,11
+20200531,United States,5
+20200531,United Kingdom,1
+20200601,Australia,1
+20200601,Austria,4
+20200601,Belarus,1
+20200601,Bermudas,1
+20200601,Brazil,5
+20200601,Canada,1
+20200601,China,1
+20200601,Costa Rica,2
+20200601,Cyprus,1
+20200601,Denmark,1
+20200601,Dominican Republic,1
+20200601,Ecuador,2
+20200601,Estonia,1
+20200601,France,2
+20200601,French Antilles,1
+20200601,Germany,2
+20200601,Greece,1
+20200601,Ireland,2
+20200601,Italy,5
+20200601,Malta,1
+20200601,Mexico,3
+20200601,Peru,1
+20200601,Portugal,1
+20200601,Puerto Rico,1
+20200601,Romania,1
+20200601,Russia,2
+20200601,Singapore,1
+20200601,Spain,11
+20200601,Sweden,1
+20200601,Switzerland,1
+20200601,Thailand,2
+20200601,Turkey,14
+20200601,United States,8
+20200601,United Kingdom,1
+20200602,Andorra,1
+20200602,Austria,1
+20200602,Brazil,2
+20200602,Canada,2
+20200602,Curacao,1
+20200602,Cyprus,1
+20200602,Czech Republic,2
+20200602,Dominican Republic,1
+20200602,France,1
+20200602,Germany,3
+20200602,Greece,5
+20200602,Hungary,2
+20200602,India,1
+20200602,Ireland,3
+20200602,Italy,4
+20200602,Morocco,1
+20200602,Netherlands,3
+20200602,New Zealand,1
+20200602,Portugal,2
+20200602,Spain,17
+20200602,Turkey,27
+20200602,United States,7
+20200602,United Arab Emirates,1
+20200602,United Kingdom,1
+20200603,Australia,1
+20200603,Bulgaria,1
+20200603,Canada,3
+20200603,Croatia,8
+20200603,Cuba,1
+20200603,Estonia,2
+20200603,France,1
+20200603,Georgia,1
+20200603,Germany,6
+20200603,Greece,6
+20200603,Indonesia,1
+20200603,Ireland,1
+20200603,Italy,7
+20200603,Malta,1
+20200603,Norway,1
+20200603,Portugal,4
+20200603,Russia,5
+20200603,Sint Maarten,1
+20200603,Spain,10
+20200603,Turkey,19
+20200603,United States,10
+20200603,Ukraine,1
+20200603,United Kingdom,3
+20200604,Australia,2
+20200604,Austria,1
+20200604,Brazil,1
+20200604,Canada,4
+20200604,Costa Rica,1
+20200604,Cyprus,1
+20200604,Estonia,1
+20200604,France,4
+20200604,Germany,3
+20200604,Greece,1
+20200604,Italy,4
+20200604,Malaysia,1
+20200604,Mexico,3
+20200604,Morocco,4
+20200604,Netherlands,4
+20200604,New Zealand,2
+20200604,Poland,1
+20200604,Portugal,5
+20200604,Spain,16
+20200604,Sweden,1
+20200604,Switzerland,2
+20200604,Turkey,29
+20200604,United States,18
+20200604,United Arab Emirates,2
+20200604,United Kingdom,6
+20200605,Australia,2
+20200605,Brazil,1
+20200605,Bulgaria,1
+20200605,Canada,1
+20200605,Estonia,1
+20200605,France,1
+20200605,Germany,3
+20200605,Greece,3
+20200605,Ireland,2
+20200605,Italy,3
+20200605,Malaysia,1
+20200605,Mexico,2
+20200605,Peru,1
+20200605,Poland,1
+20200605,Portugal,4
+20200605,Russia,3
+20200605,Spain,15
+20200605,Thailand,1
+20200605,Turkey,37
+20200605,United States,11
+20200605,United Kingdom,5
+20200606,Austria,1
+20200606,Brazil,1
+20200606,Canada,1
+20200606,Costa Rica,1
+20200606,Denmark,1
+20200606,France,7
+20200606,Germany,4
+20200606,Greece,7
+20200606,Italy,1
+20200606,Japan,1
+20200606,Malaysia,2
+20200606,Poland,2
+20200606,Portugal,3
+20200606,Russia,1
+20200606,Spain,7
+20200606,Sweden,1
+20200606,Turkey,34
+20200606,United States,8
+20200606,United Arab Emirates,3
+20200606,United Kingdom,1
+20200607,Canada,1
+20200607,Cyprus,1
+20200607,Czech Republic,1
+20200607,Dominican Republic,1
+20200607,Egypt,1
+20200607,France,2
+20200607,Germany,2
+20200607,Hungary,1
+20200607,Israel,1
+20200607,Italy,2
+20200607,Jamaica,1
+20200607,Malaysia,1
+20200607,Netherlands,1
+20200607,Portugal,2
+20200607,Russia,2
+20200607,Spain,8
+20200607,Switzerland,2
+20200607,Taiwan,1
+20200607,Turkey,20
+20200607,United States,2
+20200607,United Kingdom,1
+20200608,Andorra,1
+20200608,Australia,1
+20200608,Austria,2
+20200608,Brazil,2
+20200608,Cape Verde,1
+20200608,Costa Rica,1
+20200608,Dominican Republic,1
+20200608,Estonia,1
+20200608,France,4
+20200608,Germany,3
+20200608,Greece,7
+20200608,Hungary,1
+20200608,Ireland,1
+20200608,Italy,3
+20200608,Malaysia,2
+20200608,Mauritius,1
+20200608,Mexico,1
+20200608,Morocco,2
+20200608,Netherlands,2
+20200608,Poland,1
+20200608,Portugal,2
+20200608,Russia,3
+20200608,Spain,16
+20200608,Switzerland,1
+20200608,Turkey,25
+20200608,United States,13
+20200608,United Kingdom,5
+20200609,Australia,4
+20200609,Brazil,4
+20200609,Canada,4
+20200609,Colombia,1
+20200609,Cyprus,1
+20200609,Denmark,1
+20200609,Dominican Republic,1
+20200609,Greece,6
+20200609,Iceland,1
+20200609,Ireland,1
+20200609,Italy,4
+20200609,Mexico,2
+20200609,Netherlands,1
+20200609,New Zealand,1
+20200609,Poland,1
+20200609,Portugal,2
+20200609,Russia,5
+20200609,Spain,21
+20200609,Thailand,1
+20200609,Turkey,39
+20200609,United States,9
+20200609,United Arab Emirates,1
+20200609,United Kingdom,2
+20200610,Aruba,4
+20200610,Australia,2
+20200610,Brazil,4
+20200610,Canada,1
+20200610,France,1
+20200610,Germany,3
+20200610,Greece,6
+20200610,Italy,4
+20200610,Jamaica,1
+20200610,Malaysia,2
+20200610,Mauritius,1
+20200610,Mexico,2
+20200610,Morocco,1
+20200610,Netherlands,1
+20200610,New Zealand,1
+20200610,Norway,1
+20200610,Portugal,1
+20200610,Russia,7
+20200610,Spain,17
+20200610,Thailand,4
+20200610,Turkey,35
+20200610,United States,14
+20200610,United Kingdom,4
+20200611,Austria,1
+20200611,Brazil,1
+20200611,Cambodia,1
+20200611,Cyprus,1
+20200611,Egypt,1
+20200611,France,7
+20200611,Germany,3
+20200611,Greece,1
+20200611,Hong Kong,1
+20200611,Ireland,1
+20200611,Italy,7
+20200611,Japan,1
+20200611,Malaysia,1
+20200611,Mauritius,1
+20200611,Mexico,2
+20200611,Poland,1
+20200611,Portugal,2
+20200611,Russia,4
+20200611,Singapore,1
+20200611,Slovenia,1
+20200611,Spain,13
+20200611,Turkey,25
+20200611,United States,11
+20200611,United Kingdom,3
+20200612,Cuba,1
+20200612,Dominican Republic,1
+20200612,Egypt,1
+20200612,Estonia,1
+20200612,France,3
+20200612,Germany,5
+20200612,Greece,3
+20200612,Ireland,2
+20200612,Italy,3
+20200612,Lithuania,1
+20200612,Malaysia,2
+20200612,Mexico,3
+20200612,Morocco,1
+20200612,Norway,1
+20200612,Philippines,1
+20200612,Portugal,2
+20200612,Russia,2
+20200612,Spain,18
+20200612,Turkey,43
+20200612,United States,18
+20200612,United Arab Emirates,2
+20200612,United Kingdom,4
+20200613,Australia,1
+20200613,Canada,1
+20200613,Croatia,1
+20200613,France,2
+20200613,Greece,1
+20200613,India,1
+20200613,Italy,2
+20200613,Malaysia,1
+20200613,Maldives,1
+20200613,Mexico,3
+20200613,New Zealand,1
+20200613,Philippines,1
+20200613,Poland,1
+20200613,Portugal,1
+20200613,Russia,2
+20200613,Spain,4
+20200613,Turkey,32
+20200613,United States,12
+20200613,United Arab Emirates,2
+20200613,United Kingdom,5
+20200614,Australia,1
+20200614,France,1
+20200614,Germany,3
+20200614,Greece,3
+20200614,Ireland,5
+20200614,Israel,1
+20200614,Italy,3
+20200614,Malaysia,2
+20200614,New Zealand,1
+20200614,Portugal,5
+20200614,Russia,4
+20200614,Spain,5
+20200614,Thailand,2
+20200614,Turkey,18
+20200614,United States,131
+20200614,United Arab Emirates,1
+20200615,Australia,2
+20200615,Austria,3
+20200615,Belgium,3
+20200615,Brazil,2
+20200615,Cuba,1
+20200615,France,1
+20200615,Germany,2
+20200615,Greece,5
+20200615,Italy,9
+20200615,Mexico,3
+20200615,Portugal,1
+20200615,Russia,4
+20200615,Spain,16
+20200615,Sweden,2
+20200615,Thailand,1
+20200615,Turkey,20
+20200615,United States,188
+20200615,United Arab Emirates,1
+20200615,United Kingdom,3
+20200616,Australia,1
+20200616,Azerbaijan,1
+20200616,Bahamas,4
+20200616,Belgium,1
+20200616,Brazil,10
+20200616,France,2
+20200616,Germany,11
+20200616,Greece,4
+20200616,Hungary,1
+20200616,Ireland,1
+20200616,Italy,7
+20200616,Malaysia,5
+20200616,Mexico,2
+20200616,Morocco,1
+20200616,Portugal,7
+20200616,Russia,2
+20200616,Spain,16
+20200616,Turkey,25
+20200616,United States,16
+20200616,United Arab Emirates,4
+20200616,United Kingdom,1
+20200617,Australia,4
+20200617,Austria,1
+20200617,Brazil,1
+20200617,Canada,1
+20200617,Dominican Republic,4
+20200617,Finland,1
+20200617,France,6
+20200617,Germany,5
+20200617,Greece,1
+20200617,Ireland,2
+20200617,Italy,14
+20200617,Jamaica,6
+20200617,Jordan,3
+20200617,Latvia,1
+20200617,Malaysia,1
+20200617,Malta,4
+20200617,Mexico,9
+20200617,Poland,2
+20200617,Portugal,15
+20200617,Russia,5
+20200617,Saint Lucia,4
+20200617,Spain,20
+20200617,Sri Lanka,4
+20200617,Sweden,1
+20200617,Thailand,2
+20200617,Turkey,44
+20200617,United States,27
+20200617,United Arab Emirates,1
+20200617,United Kingdom,10
+20200618,Cyprus,4
+20200618,Dominican Republic,1
+20200618,Egypt,2
+20200618,France,2
+20200618,Germany,2
+20200618,Greece,1
+20200618,Iceland,1
+20200618,Ireland,5
+20200618,Italy,8
+20200618,Latvia,2
+20200618,Malaysia,4
+20200618,Mexico,4
+20200618,Morocco,2
+20200618,Poland,1
+20200618,Portugal,8
+20200618,Russia,5
+20200618,Spain,10
+20200618,Sweden,1
+20200618,Switzerland,1
+20200618,Thailand,1
+20200618,Turkey,43
+20200618,United States,15
+20200618,United Arab Emirates,1
+20200618,United Kingdom,6
+20200619,Austria,1
+20200619,Bulgaria,1
+20200619,Canada,2
+20200619,Cyprus,1
+20200619,Denmark,1
+20200619,Dominican Republic,4
+20200619,Finland,3
+20200619,France,2
+20200619,Germany,6
+20200619,Greece,1
+20200619,Hong Kong,1
+20200619,India,1
+20200619,Ireland,2
+20200619,Italy,15
+20200619,Japan,1
+20200619,Mexico,1
+20200619,Netherlands,1
+20200619,Poland,1
+20200619,Portugal,5
+20200619,Russia,11
+20200619,Spain,13
+20200619,Thailand,1
+20200619,Turkey,23
+20200619,United States,10
+20200619,United Arab Emirates,4
+20200619,United Kingdom,4
+20200620,Australia,5
+20200620,Austria,1
+20200620,Canada,5
+20200620,Denmark,2
+20200620,Estonia,1
+20200620,Germany,1
+20200620,Italy,16
+20200620,Morocco,3
+20200620,New Zealand,2
+20200620,Portugal,2
+20200620,Russia,5
+20200620,Spain,8
+20200620,Turkey,28
+20200620,United States,11
+20200620,United Arab Emirates,4
+20200620,United Kingdom,1
+20200621,Australia,6
+20200621,Austria,1
+20200621,Brazil,2
+20200621,Canada,2
+20200621,Cyprus,8
+20200621,France,2
+20200621,Germany,3
+20200621,Greece,2
+20200621,Iceland,1
+20200621,Indonesia,1
+20200621,Ireland,4
+20200621,Italy,18
+20200621,Mexico,4
+20200621,New Zealand,3
+20200621,Poland,1
+20200621,Portugal,1
+20200621,Russia,5
+20200621,Spain,14
+20200621,Sweden,1
+20200621,Switzerland,1
+20200621,Turkey,35
+20200621,United States,8
+20200621,United Kingdom,17
+20200622,Andorra,1
+20200622,Australia,1
+20200622,Austria,1
+20200622,Brazil,4
+20200622,Canada,9
+20200622,Egypt,6
+20200622,France,2
+20200622,Germany,6
+20200622,Greece,10
+20200622,India,1
+20200622,Ireland,1
+20200622,Italy,33
+20200622,Malaysia,1
+20200622,Malta,4
+20200622,Mexico,4
+20200622,Netherlands,4
+20200622,Norway,3
+20200622,Portugal,5
+20200622,Russia,32
+20200622,Spain,17
+20200622,Sweden,2
+20200622,Turkey,31
+20200622,United States,34
+20200622,United Arab Emirates,5
+20200622,United Kingdom,2
+20200623,Argentina,1
+20200623,Aruba,1
+20200623,Australia,3
+20200623,Brazil,1
+20200623,Canada,1
+20200623,Croatia,2
+20200623,Egypt,2
+20200623,France,3
+20200623,Germany,6
+20200623,Greece,8
+20200623,Ireland,3
+20200623,Italy,27
+20200623,Malaysia,1
+20200623,Mexico,1
+20200623,Netherlands,2
+20200623,New Zealand,2
+20200623,Portugal,2
+20200623,Russia,4
+20200623,Spain,20
+20200623,Switzerland,2
+20200623,Turkey,38
+20200623,United States,25
+20200623,United Arab Emirates,1
+20200624,Australia,3
+20200624,Brazil,5
+20200624,Canada,1
+20200624,Cyprus,1
+20200624,Czech Republic,1
+20200624,Denmark,1
+20200624,Dominican Republic,1
+20200624,France,4
+20200624,Germany,4
+20200624,Greece,8
+20200624,Ireland,2
+20200624,Italy,10
+20200624,Mexico,10
+20200624,Netherlands,1
+20200624,Philippines,2
+20200624,Portugal,4
+20200624,Russia,1
+20200624,Slovenia,5
+20200624,Spain,12
+20200624,Switzerland,2
+20200624,Taiwan,1
+20200624,Thailand,1
+20200624,Tunisia,1
+20200624,Turkey,48
+20200624,United States,24
+20200624,United Arab Emirates,1
+20200624,United Kingdom,11
+20200625,Andorra,1
+20200625,Australia,1
+20200625,Austria,2
+20200625,Brazil,1
+20200625,Canada,2
+20200625,Croatia,2
+20200625,Cyprus,1
+20200625,France,2
+20200625,Germany,1
+20200625,Greece,1
+20200625,Indonesia,6
+20200625,Ireland,5
+20200625,Italy,6
+20200625,Malaysia,1
+20200625,Malta,4
+20200625,Mexico,9
+20200625,Netherlands,1
+20200625,New Zealand,1
+20200625,Poland,1
+20200625,Portugal,8
+20200625,Romania,1
+20200625,Russia,10
+20200625,South Korea,1
+20200625,Spain,17
+20200625,Thailand,2
+20200625,Turkey,23
+20200625,United States,24
+20200625,United Arab Emirates,1
+20200625,United Kingdom,4
+20200626,Australia,8
+20200626,Austria,1
+20200626,Brazil,2
+20200626,Canada,3
+20200626,Colombia,1
+20200626,France,4
+20200626,Germany,4
+20200626,Greece,8
+20200626,Guatemala,1
+20200626,India,1
+20200626,Ireland,2
+20200626,Italy,10
+20200626,Malaysia,4
+20200626,Mexico,4
+20200626,Oman,4
+20200626,Portugal,7
+20200626,Russia,4
+20200626,Saint Lucia,4
+20200626,South Korea,1
+20200626,Spain,19
+20200626,Sweden,1
+20200626,Switzerland,6
+20200626,Tunisia,2
+20200626,Turkey,42
+20200626,United States,24
+20200626,United Arab Emirates,2
+20200626,United Kingdom,5
+20200627,Aruba,1
+20200627,Australia,4
+20200627,Austria,1
+20200627,Azerbaijan,1
+20200627,Brazil,2
+20200627,Canada,4
+20200627,Crimea,1
+20200627,Estonia,1
+20200627,France,4
+20200627,Germany,3
+20200627,Greece,9
+20200627,Ireland,2
+20200627,Israel,4
+20200627,Italy,10
+20200627,Japan,10
+20200627,Malaysia,3
+20200627,Mexico,6
+20200627,Morocco,1
+20200627,New Zealand,3
+20200627,Norway,1
+20200627,Portugal,13
+20200627,Russia,7
+20200627,Spain,9
+20200627,Sweden,1
+20200627,Tunisia,1
+20200627,Turkey,30
+20200627,United States,14
+20200627,United Arab Emirates,4
+20200627,United Kingdom,5
+20200628,Andorra,1
+20200628,Austria,3
+20200628,Brazil,3
+20200628,Canada,4
+20200628,Cyprus,1
+20200628,Denmark,1
+20200628,Egypt,1
+20200628,France,2
+20200628,Germany,3
+20200628,Greece,1
+20200628,Italy,12
+20200628,Japan,13
+20200628,Malta,2
+20200628,New Zealand,1
+20200628,Poland,1
+20200628,Portugal,1
+20200628,Russia,3
+20200628,Spain,19
+20200628,Sweden,1
+20200628,Switzerland,5
+20200628,Trinidad and Tobago,1
+20200628,Turkey,122
+20200628,United States,19
+20200628,United Arab Emirates,1
+20200628,United Kingdom,5
+20200629,Andorra,1
+20200629,Australia,4
+20200629,Austria,1
+20200629,Belgium,1
+20200629,Brazil,1
+20200629,Canada,1
+20200629,Cyprus,4
+20200629,Czech Republic,36
+20200629,Dominican Republic,4
+20200629,France,3
+20200629,Germany,2
+20200629,Greece,4
+20200629,Hungary,4
+20200629,Ireland,5
+20200629,Italy,10
+20200629,Japan,10
+20200629,Malaysia,1
+20200629,Mexico,1
+20200629,Netherlands,2
+20200629,Norway,2
+20200629,Poland,1
+20200629,Portugal,5
+20200629,Russia,2
+20200629,Spain,23
+20200629,Switzerland,2
+20200629,Thailand,1
+20200629,Turkey,35
+20200629,United States,23
+20200629,United Kingdom,9
+20200630,Australia,6
+20200630,Austria,1
+20200630,Brazil,1
+20200630,Bulgaria,1
+20200630,Canada,1
+20200630,Cyprus,2
+20200630,Czech Republic,2
+20200630,Estonia,1
+20200630,Finland,1
+20200630,France,5
+20200630,Germany,1
+20200630,Greece,17
+20200630,Hungary,1
+20200630,Ireland,1
+20200630,Italy,11
+20200630,Japan,12
+20200630,Malaysia,1
+20200630,Malta,9
+20200630,Mexico,4
+20200630,Morocco,1
+20200630,Netherlands,1
+20200630,New Zealand,3
+20200630,Portugal,2
+20200630,Puerto Rico,1
+20200630,Romania,1
+20200630,Russia,6
+20200630,Spain,28
+20200630,Turkey,38
+20200630,United States,21
+20200630,United Kingdom,17
+20200701,Australia,1
+20200701,Austria,5
+20200701,Canada,3
+20200701,Chile,4
+20200701,Czech Republic,4
+20200701,France,9
+20200701,Germany,9
+20200701,Greece,5
+20200701,Indonesia,1
+20200701,Ireland,1
+20200701,Italy,14
+20200701,Japan,6
+20200701,Lithuania,8
+20200701,Malaysia,4
+20200701,Malta,6
+20200701,Mexico,7
+20200701,Netherlands,1
+20200701,Philippines,1
+20200701,Portugal,11
+20200701,Russia,5
+20200701,Singapore,1
+20200701,Spain,25
+20200701,Sweden,1
+20200701,Switzerland,1
+20200701,Thailand,1
+20200701,Turkey,36
+20200701,United States,10
+20200701,United Kingdom,6
+20200702,Australia,5
+20200702,Bahamas,4
+20200702,Belgium,3
+20200702,Brazil,3
+20200702,Canada,2
+20200702,Croatia,2
+20200702,Cyprus,1
+20200702,Czech Republic,2
+20200702,Denmark,1
+20200702,Egypt,4
+20200702,France,5
+20200702,Germany,3
+20200702,Greece,2
+20200702,Hong Kong,8
+20200702,Ireland,1
+20200702,Italy,32
+20200702,Japan,4
+20200702,Mexico,11
+20200702,New Zealand,1
+20200702,Poland,2
+20200702,Portugal,8
+20200702,Romania,1
+20200702,Russia,17
+20200702,Spain,22
+20200702,Sweden,1
+20200702,Switzerland,1
+20200702,Thailand,1
+20200702,Tunisia,1
+20200702,Turkey,65
+20200702,United States,9
+20200702,United Arab Emirates,4
+20200702,United Kingdom,5
+20200703,Australia,6
+20200703,Austria,3
+20200703,Brazil,2
+20200703,Canada,3
+20200703,Cuba,2
+20200703,Cyprus,2
+20200703,Egypt,1
+20200703,France,4
+20200703,Greece,4
+20200703,India,1
+20200703,Ireland,1
+20200703,Italy,21
+20200703,Japan,3
+20200703,Malta,4
+20200703,Mexico,7
+20200703,Netherlands,1
+20200703,New Zealand,1
+20200703,Portugal,3
+20200703,Romania,1
+20200703,Russia,16
+20200703,Slovenia,2
+20200703,Spain,14
+20200703,Sweden,2
+20200703,Switzerland,1
+20200703,Turkey,233
+20200703,United States,19
+20200703,Ukraine,1
+20200703,United Arab Emirates,4
+20200703,United Kingdom,15
+20200703,Vietnam,1
+20200704,Australia,1
+20200704,Brazil,1
+20200704,Canada,5
+20200704,Cyprus,5
+20200704,Finland,1
+20200704,France,6
+20200704,Germany,2
+20200704,Greece,2
+20200704,Italy,7
+20200704,Japan,2
+20200704,Netherlands,1
+20200704,New Zealand,2
+20200704,Norway,1
+20200704,Philippines,1
+20200704,Portugal,6
+20200704,Romania,1
+20200704,Russia,7
+20200704,Spain,14
+20200704,Sweden,1
+20200704,Thailand,5
+20200704,Turkey,55
+20200704,United States,19
+20200704,United Kingdom,11
+20200705,Andorra,1
+20200705,Austria,2
+20200705,Belgium,1
+20200705,Brazil,6
+20200705,Canada,1
+20200705,Colombia,1
+20200705,Crimea,1
+20200705,Czech Republic,1
+20200705,Denmark,1
+20200705,France,3
+20200705,Germany,2
+20200705,Greece,2
+20200705,Ireland,2
+20200705,Italy,4
+20200705,Mexico,1
+20200705,New Zealand,2
+20200705,Portugal,1
+20200705,Russia,5
+20200705,Spain,10
+20200705,Switzerland,2
+20200705,Turkey,40
+20200705,United States,16
+20200705,United Kingdom,12
+20200706,Australia,12
+20200706,Brazil,2
+20200706,Canada,3
+20200706,Crimea,1
+20200706,Cyprus,2
+20200706,Czech Republic,5
+20200706,Denmark,1
+20200706,Egypt,1
+20200706,France,11
+20200706,Greece,5
+20200706,Hong Kong,4
+20200706,Indonesia,1
+20200706,Ireland,7
+20200706,Italy,21
+20200706,Japan,3
+20200706,Malaysia,2
+20200706,Mexico,7
+20200706,Netherlands,1
+20200706,New Zealand,1
+20200706,Poland,1
+20200706,Portugal,5
+20200706,Puerto Rico,6
+20200706,Romania,1
+20200706,Russia,7
+20200706,Spain,19
+20200706,Sri Lanka,1
+20200706,Thailand,1
+20200706,Tunisia,1
+20200706,Turkey,47
+20200706,United States,20
+20200706,United Arab Emirates,5
+20200706,United Kingdom,7
+20200707,Australia,11
+20200707,Austria,2
+20200707,Barbados,1
+20200707,Brazil,1
+20200707,Canada,5
+20200707,Cyprus,4
+20200707,Denmark,1
+20200707,Egypt,1
+20200707,France,6
+20200707,Germany,3
+20200707,Greece,9
+20200707,Hungary,1
+20200707,Ireland,3
+20200707,Italy,19
+20200707,Jamaica,2
+20200707,Japan,8
+20200707,Lithuania,1
+20200707,Malaysia,1
+20200707,Mexico,11
+20200707,Morocco,2
+20200707,Netherlands,1
+20200707,Norway,1
+20200707,Portugal,3
+20200707,Russia,20
+20200707,Slovenia,1
+20200707,Spain,40
+20200707,Sweden,1
+20200707,Turkey,38
+20200707,United States,23
+20200707,United Arab Emirates,1
+20200707,United Kingdom,8
+20200708,Andorra,2
+20200708,Australia,9
+20200708,Brazil,2
+20200708,Canada,5
+20200708,Costa Rica,2
+20200708,Cuba,1
+20200708,Cyprus,4
+20200708,Czech Republic,1
+20200708,Dominican Republic,1
+20200708,Estonia,1
+20200708,France,5
+20200708,Germany,1
+20200708,Greece,3
+20200708,India,1
+20200708,Ireland,3
+20200708,Israel,1
+20200708,Italy,26
+20200708,Japan,11
+20200708,Malaysia,1
+20200708,Mexico,6
+20200708,Morocco,2
+20200708,New Zealand,4
+20200708,Philippines,1
+20200708,Poland,1
+20200708,Portugal,2
+20200708,Russia,21
+20200708,Singapore,1
+20200708,Slovenia,1
+20200708,South Korea,1
+20200708,Spain,17
+20200708,Sweden,1
+20200708,Turkey,59
+20200708,United States,30
+20200708,United Arab Emirates,2
+20200708,United Kingdom,9
+20200709,Australia,8
+20200709,Austria,1
+20200709,Bahamas,4
+20200709,Brazil,2
+20200709,Croatia,4
+20200709,Cyprus,6
+20200709,Denmark,1
+20200709,Dominican Republic,4
+20200709,France,7
+20200709,Germany,5
+20200709,Greece,9
+20200709,India,1
+20200709,Ireland,4
+20200709,Israel,4
+20200709,Italy,19
+20200709,Jamaica,4
+20200709,Japan,2
+20200709,Malaysia,3
+20200709,Mexico,17
+20200709,Netherlands,2
+20200709,Panama,1
+20200709,Poland,2
+20200709,Portugal,4
+20200709,Russia,15
+20200709,Spain,16
+20200709,Turkey,81
+20200709,United States,33
+20200709,United Arab Emirates,4
+20200709,United Kingdom,8
+20200710,Argentina,1
+20200710,Australia,5
+20200710,Canada,5
+20200710,Crimea,1
+20200710,Cuba,2
+20200710,France,6
+20200710,Germany,9
+20200710,Greece,10
+20200710,Hungary,1
+20200710,India,1
+20200710,Ireland,7
+20200710,Italy,18
+20200710,Japan,3
+20200710,Malaysia,2
+20200710,Malta,4
+20200710,Mexico,6
+20200710,Netherlands,1
+20200710,New Zealand,2
+20200710,Portugal,4
+20200710,Romania,1
+20200710,Russia,22
+20200710,Singapore,2
+20200710,Spain,20
+20200710,Switzerland,2
+20200710,Thailand,1
+20200710,Turkey,90
+20200710,United States,19
+20200710,United Kingdom,11
+20200711,Australia,2
+20200711,Brazil,1
+20200711,Canada,4
+20200711,Colombia,1
+20200711,Dominican Republic,4
+20200711,France,1
+20200711,French Polynesia,4
+20200711,Germany,1
+20200711,Greece,3
+20200711,Hong Kong,1
+20200711,Italy,6
+20200711,Jamaica,8
+20200711,Japan,9
+20200711,Malaysia,1
+20200711,Mexico,7
+20200711,Morocco,2
+20200711,New Zealand,4
+20200711,Portugal,4
+20200711,Romania,1
+20200711,Russia,14
+20200711,Spain,11
+20200711,Switzerland,4
+20200711,Tunisia,1
+20200711,Turkey,81
+20200711,United States,23
+20200711,United Kingdom,4
+20200712,Australia,2
+20200712,Austria,1
+20200712,Brazil,2
+20200712,Canada,2
+20200712,Colombia,1
+20200712,Croatia,1
+20200712,Egypt,1
+20200712,France,5
+20200712,Germany,4
+20200712,Greece,5
+20200712,Ireland,3
+20200712,Italy,28
+20200712,Japan,3
+20200712,Mexico,3
+20200712,New Zealand,2
+20200712,Philippines,1
+20200712,Poland,1
+20200712,Portugal,2
+20200712,Russia,7
+20200712,Slovakia,1
+20200712,Spain,7
+20200712,Switzerland,2
+20200712,Turkey,35
+20200712,United States,21
+20200712,United Arab Emirates,1
+20200712,United Kingdom,3
+20200713,Australia,2
+20200713,Austria,2
+20200713,Brazil,4
+20200713,Canada,8
+20200713,Crimea,1
+20200713,Croatia,1
+20200713,Cyprus,2
+20200713,France,8
+20200713,Germany,2
+20200713,Greece,5
+20200713,Ireland,2
+20200713,Italy,37
+20200713,Malaysia,2
+20200713,Malta,4
+20200713,Mexico,1
+20200713,Morocco,4
+20200713,New Zealand,4
+20200713,Poland,2
+20200713,Portugal,1
+20200713,Russia,25
+20200713,Spain,30
+20200713,Sweden,2
+20200713,Switzerland,1
+20200713,Turkey,75
+20200713,United States,15
+20200713,United Arab Emirates,5
+20200713,United Kingdom,10
+20200714,Australia,6
+20200714,Austria,2
+20200714,Belarus,1
+20200714,Belgium,1
+20200714,Brazil,4
+20200714,Canada,4
+20200714,Cyprus,1
+20200714,Dominican Republic,4
+20200714,France,2
+20200714,Germany,5
+20200714,Greece,13
+20200714,Hungary,2
+20200714,India,1
+20200714,Ireland,1
+20200714,Israel,1
+20200714,Italy,59
+20200714,Japan,8
+20200714,Malaysia,10
+20200714,Mexico,2
+20200714,New Zealand,6
+20200714,Philippines,1
+20200714,Portugal,1
+20200714,Romania,1
+20200714,Russia,15
+20200714,South Africa,2
+20200714,Spain,24
+20200714,Sweden,1
+20200714,Switzerland,4
+20200714,Turkey,57
+20200714,United States,37
+20200714,United Arab Emirates,1
+20200714,United Kingdom,3
+20200715,Australia,5
+20200715,Austria,2
+20200715,Brazil,1
+20200715,Bulgaria,1
+20200715,Canada,14
+20200715,Croatia,1
+20200715,Finland,1
+20200715,France,7
+20200715,Germany,4
+20200715,Greece,5
+20200715,Ireland,6
+20200715,Italy,22
+20200715,Japan,6
+20200715,Mexico,6
+20200715,Morocco,3
+20200715,Netherlands,1
+20200715,New Zealand,2
+20200715,Portugal,5
+20200715,Russia,12
+20200715,Spain,25
+20200715,Switzerland,2
+20200715,Turkey,60
+20200715,United States,59
+20200715,United Kingdom,8
+20200716,Australia,3
+20200716,Belgium,1
+20200716,Brazil,1
+20200716,Canada,4
+20200716,Croatia,1
+20200716,Czech Republic,2
+20200716,Denmark,1
+20200716,France,10
+20200716,Germany,7
+20200716,Greece,11
+20200716,Hong Kong,4
+20200716,Italy,20
+20200716,Japan,9
+20200716,Malaysia,7
+20200716,Mexico,13
+20200716,Morocco,4
+20200716,New Zealand,3
+20200716,Portugal,5
+20200716,Russia,11
+20200716,Spain,47
+20200716,Sweden,3
+20200716,Turkey,67
+20200716,United States,14
+20200716,United Arab Emirates,2
+20200716,United Kingdom,8
+20200717,Andorra,1
+20200717,Australia,5
+20200717,Austria,2
+20200717,Canada,11
+20200717,Costa Rica,4
+20200717,Cyprus,7
+20200717,Egypt,4
+20200717,Finland,1
+20200717,France,15
+20200717,Germany,6
+20200717,Greece,7
+20200717,India,1
+20200717,Ireland,2
+20200717,Italy,14
+20200717,Japan,9
+20200717,Lithuania,1
+20200717,Malaysia,4
+20200717,Mexico,5
+20200717,Netherlands,1
+20200717,New Zealand,2
+20200717,Philippines,1
+20200717,Portugal,5
+20200717,Romania,1
+20200717,Russia,7
+20200717,Singapore,2
+20200717,South Africa,2
+20200717,Spain,17
+20200717,Sweden,1
+20200717,Turkey,74
+20200717,United States,38
+20200717,United Arab Emirates,1
+20200717,United Kingdom,12
+20200718,Australia,11
+20200718,Austria,1
+20200718,Canada,2
+20200718,Croatia,1
+20200718,Czech Republic,1
+20200718,Dominican Republic,4
+20200718,Egypt,1
+20200718,France,2
+20200718,Germany,3
+20200718,Greece,3
+20200718,Ireland,3
+20200718,Italy,16
+20200718,Japan,11
+20200718,Malaysia,2
+20200718,Mexico,8
+20200718,New Zealand,1
+20200718,Portugal,1
+20200718,Puerto Rico,4
+20200718,Russia,6
+20200718,Spain,23
+20200718,Switzerland,4
+20200718,Taiwan,1
+20200718,Turkey,83
+20200718,United States,33
+20200718,United Arab Emirates,4
+20200718,United Kingdom,5
+20200719,Australia,9
+20200719,Canada,5
+20200719,Cyprus,1
+20200719,Denmark,1
+20200719,France,4
+20200719,Germany,3
+20200719,Greece,4
+20200719,Israel,12
+20200719,Italy,16
+20200719,Japan,19
+20200719,Malaysia,2
+20200719,Mexico,5
+20200719,Netherlands,2
+20200719,New Zealand,3
+20200719,Poland,1
+20200719,Portugal,6
+20200719,Puerto Rico,1
+20200719,Russia,13
+20200719,Spain,11
+20200719,Sweden,1
+20200719,Tunisia,1
+20200719,Turkey,65
+20200719,United States,24
+20200719,United Arab Emirates,13
+20200719,United Kingdom,4
+20200720,Australia,5
+20200720,Austria,4
+20200720,Bahamas,1
+20200720,Bosnia and Herzegovina,4
+20200720,Brazil,13
+20200720,Canada,9
+20200720,Cyprus,3
+20200720,France,5
+20200720,Germany,5
+20200720,Greece,9
+20200720,Hong Kong,1
+20200720,Ireland,5
+20200720,Italy,24
+20200720,Japan,9
+20200720,Malaysia,5
+20200720,Malta,4
+20200720,Mexico,8
+20200720,Morocco,1
+20200720,Netherlands,7
+20200720,Poland,3
+20200720,Portugal,6
+20200720,Russia,7
+20200720,Singapore,1
+20200720,Spain,26
+20200720,Sweden,2
+20200720,Thailand,1
+20200720,Turkey,65
+20200720,United States,12
+20200720,United Arab Emirates,1
+20200720,United Kingdom,8
+20200721,Australia,7
+20200721,Brazil,11
+20200721,Canada,6
+20200721,Cyprus,4
+20200721,Czech Republic,1
+20200721,Dominican Republic,4
+20200721,France,9
+20200721,Germany,6
+20200721,Greece,4
+20200721,Hungary,1
+20200721,Ireland,1
+20200721,Italy,28
+20200721,Japan,8
+20200721,Malaysia,3
+20200721,Mauritius,2
+20200721,Mexico,4
+20200721,New Zealand,7
+20200721,Philippines,1
+20200721,Poland,1
+20200721,Portugal,6
+20200721,Russia,19
+20200721,Singapore,2
+20200721,Spain,39
+20200721,Switzerland,4
+20200721,Taiwan,1
+20200721,Turkey,95
+20200721,United States,19
+20200721,United Kingdom,4
+20200722,Australia,9
+20200722,Canada,10
+20200722,Croatia,1
+20200722,Cuba,1
+20200722,Cyprus,2
+20200722,Czech Republic,3
+20200722,Egypt,4
+20200722,France,4
+20200722,Germany,7
+20200722,Greece,5
+20200722,Hungary,1
+20200722,Indonesia,2
+20200722,Ireland,5
+20200722,Israel,6
+20200722,Italy,40
+20200722,Jamaica,2
+20200722,Japan,25
+20200722,Malaysia,7
+20200722,Malta,4
+20200722,Mexico,19
+20200722,Netherlands,1
+20200722,New Zealand,2
+20200722,Poland,1
+20200722,Portugal,7
+20200722,Russia,15
+20200722,Spain,26
+20200722,Switzerland,1
+20200722,Turkey,56
+20200722,United States,19
+20200722,United Arab Emirates,1
+20200722,United Kingdom,6
+20200723,Australia,9
+20200723,Brazil,2
+20200723,Bulgaria,1
+20200723,Canada,4
+20200723,Colombia,2
+20200723,Crimea,1
+20200723,Croatia,4
+20200723,Cyprus,4
+20200723,Dominican Republic,4
+20200723,Egypt,4
+20200723,France,8
+20200723,Germany,3
+20200723,Greece,8
+20200723,India,1
+20200723,Indonesia,2
+20200723,Ireland,7
+20200723,Italy,32
+20200723,Japan,22
+20200723,Malaysia,1
+20200723,Mexico,1
+20200723,Netherlands,4
+20200723,New Zealand,1
+20200723,Philippines,1
+20200723,Poland,3
+20200723,Portugal,6
+20200723,Russia,19
+20200723,Singapore,3
+20200723,Spain,29
+20200723,Sweden,1
+20200723,Switzerland,1
+20200723,Turkey,63
+20200723,United States,33
+20200723,United Arab Emirates,10
+20200723,United Kingdom,8
+20200724,Australia,11
+20200724,Belarus,4
+20200724,Belgium,1
+20200724,Brazil,4
+20200724,Canada,3
+20200724,Croatia,1
+20200724,Dominican Republic,1
+20200724,Finland,1
+20200724,France,8
+20200724,Georgia,1
+20200724,Germany,4
+20200724,Hong Kong,1
+20200724,Ireland,3
+20200724,Italy,31
+20200724,Japan,22
+20200724,Malaysia,7
+20200724,Mexico,3
+20200724,Netherlands,4
+20200724,New Zealand,5
+20200724,Portugal,10
+20200724,Russia,21
+20200724,Spain,40
+20200724,Sweden,1
+20200724,Switzerland,4
+20200724,Taiwan,1
+20200724,Tunisia,1
+20200724,Turkey,74
+20200724,United States,26
+20200724,United Arab Emirates,1
+20200724,United Kingdom,14
+20200724,Vietnam,1
+20200725,Australia,14
+20200725,Belgium,1
+20200725,Brazil,4
+20200725,Bulgaria,1
+20200725,Canada,5
+20200725,Croatia,1
+20200725,Cyprus,1
+20200725,Dominican Republic,1
+20200725,Egypt,2
+20200725,France,10
+20200725,Germany,4
+20200725,Greece,2
+20200725,Hungary,2
+20200725,Indonesia,1
+20200725,Ireland,3
+20200725,Italy,23
+20200725,Japan,50
+20200725,Malaysia,6
+20200725,Malta,4
+20200725,Mexico,10
+20200725,Morocco,1
+20200725,Netherlands,1
+20200725,New Zealand,5
+20200725,Poland,1
+20200725,Portugal,3
+20200725,Russia,28
+20200725,South Korea,1
+20200725,Spain,42
+20200725,Sri Lanka,1
+20200725,Sweden,1
+20200725,Taiwan,3
+20200725,Turkey,96
+20200725,United States,31
+20200725,United Arab Emirates,1
+20200725,United Kingdom,8
+20200725,Vietnam,5
+20200726,Australia,9
+20200726,Austria,2
+20200726,Canada,5
+20200726,Cyprus,1
+20200726,Dominican Republic,1
+20200726,Finland,1
+20200726,France,10
+20200726,Germany,5
+20200726,Greece,4
+20200726,Ireland,8
+20200726,Israel,16
+20200726,Italy,35
+20200726,Japan,33
+20200726,Latvia,1
+20200726,Malaysia,2
+20200726,Mexico,6
+20200726,Netherlands,3
+20200726,New Zealand,4
+20200726,Norway,1
+20200726,Portugal,1
+20200726,Russia,19
+20200726,Spain,50
+20200726,Sweden,1
+20200726,Switzerland,3
+20200726,Thailand,1
+20200726,Turkey,66
+20200726,United States,45
+20200726,United Kingdom,7
+20200727,Australia,17
+20200727,Austria,1
+20200727,Brazil,1
+20200727,Canada,16
+20200727,China,1
+20200727,Costa Rica,4
+20200727,Croatia,1
+20200727,Cyprus,5
+20200727,Egypt,1
+20200727,Finland,2
+20200727,France,8
+20200727,Germany,7
+20200727,Greece,6
+20200727,Indonesia,1
+20200727,Ireland,8
+20200727,Israel,36
+20200727,Italy,35
+20200727,Japan,76
+20200727,Malaysia,6
+20200727,Malta,3
+20200727,Mexico,6
+20200727,Morocco,13
+20200727,Netherlands,4
+20200727,New Zealand,3
+20200727,Norway,1
+20200727,Philippines,1
+20200727,Poland,4
+20200727,Portugal,7
+20200727,Russia,32
+20200727,South Africa,4
+20200727,South Korea,2
+20200727,Spain,53
+20200727,Sweden,3
+20200727,Switzerland,8
+20200727,Thailand,1
+20200727,Turkey,89
+20200727,United States,32
+20200727,United Arab Emirates,2
+20200727,United Kingdom,9
+20200728,Andorra,1
+20200728,Australia,12
+20200728,Austria,1
+20200728,Bahamas,4
+20200728,Belgium,1
+20200728,Brazil,3
+20200728,Canada,17
+20200728,China,2
+20200728,Croatia,2
+20200728,Cyprus,4
+20200728,Czech Republic,2
+20200728,Dominican Republic,4
+20200728,Egypt,2
+20200728,France,11
+20200728,Germany,5
+20200728,Greece,6
+20200728,Hong Kong,1
+20200728,Ireland,8
+20200728,Israel,4
+20200728,Italy,22
+20200728,Jamaica,2
+20200728,Japan,28
+20200728,Malaysia,2
+20200728,Mexico,12
+20200728,Netherlands,2
+20200728,New Zealand,4
+20200728,Poland,2
+20200728,Portugal,3
+20200728,Puerto Rico,2
+20200728,Russia,14
+20200728,South Africa,1
+20200728,South Korea,8
+20200728,Spain,75
+20200728,Sweden,2
+20200728,Switzerland,2
+20200728,Taiwan,1
+20200728,Thailand,1
+20200728,Tunisia,2
+20200728,Turkey,67
+20200728,United States,35
+20200728,United Arab Emirates,2
+20200728,United Kingdom,15
+20200729,Andorra,1
+20200729,Argentina,1
+20200729,Australia,16
+20200729,Austria,1
+20200729,Brazil,2
+20200729,Canada,8
+20200729,China,2
+20200729,Croatia,4
+20200729,Cyprus,1
+20200729,Czech Republic,1
+20200729,Denmark,4
+20200729,Dominican Republic,1
+20200729,Egypt,1
+20200729,Finland,1
+20200729,France,17
+20200729,Germany,5
+20200729,Greece,14
+20200729,Hong Kong,1
+20200729,Hungary,4
+20200729,Ireland,13
+20200729,Israel,2
+20200729,Italy,37
+20200729,Japan,38
+20200729,Lithuania,1
+20200729,Malaysia,6
+20200729,Malta,4
+20200729,Mexico,23
+20200729,Netherlands,4
+20200729,New Zealand,4
+20200729,Norway,1
+20200729,Philippines,1
+20200729,Portugal,5
+20200729,Romania,1
+20200729,Russia,10
+20200729,South Korea,1
+20200729,Spain,64
+20200729,Sweden,2
+20200729,Switzerland,5
+20200729,Taiwan,1
+20200729,Turkey,78
+20200729,United States,41
+20200729,United Arab Emirates,4
+20200729,United Kingdom,9
+20200730,Andorra,1
+20200730,Antigua and Barbuda,2
+20200730,Australia,22
+20200730,Austria,1
+20200730,Belgium,1
+20200730,Brazil,13
+20200730,Bulgaria,1
+20200730,Canada,4
+20200730,Croatia,2
+20200730,Cyprus,1
+20200730,Denmark,1
+20200730,France,10
+20200730,Germany,7
+20200730,Greece,2
+20200730,Indonesia,3
+20200730,Ireland,5
+20200730,Italy,240
+20200730,Japan,61
+20200730,Malaysia,6
+20200730,Malta,1
+20200730,Mexico,11
+20200730,Monaco,1
+20200730,Morocco,4
+20200730,Netherlands,3
+20200730,New Zealand,6
+20200730,Portugal,2
+20200730,Puerto Rico,1
+20200730,Russia,25
+20200730,Singapore,1
+20200730,South Korea,1
+20200730,Spain,69
+20200730,Sweden,1
+20200730,Switzerland,1
+20200730,Taiwan,1
+20200730,Thailand,1
+20200730,Turkey,62
+20200730,United States,41
+20200730,United Arab Emirates,4
+20200730,United Kingdom,12
+20200731,Argentina,1
+20200731,Australia,18
+20200731,Austria,2
+20200731,Brazil,2
+20200731,Canada,11
+20200731,Croatia,1
+20200731,Egypt,1
+20200731,France,9
+20200731,Germany,7
+20200731,Greece,4
+20200731,Hong Kong,1
+20200731,Ireland,4
+20200731,Italy,33
+20200731,Japan,35
+20200731,Luxembourg,1
+20200731,Malaysia,3
+20200731,Mexico,9
+20200731,Morocco,4
+20200731,Netherlands,2
+20200731,New Zealand,6
+20200731,Norway,1
+20200731,Portugal,7
+20200731,Russia,11
+20200731,South Africa,1
+20200731,South Korea,2
+20200731,Spain,61
+20200731,Sweden,1
+20200731,Switzerland,6
+20200731,Taiwan,2
+20200731,Tunisia,1
+20200731,Turkey,61
+20200731,United States,37
+20200731,United Arab Emirates,3
+20200731,United Kingdom,11
+20200801,Andorra,1
+20200801,Australia,4
+20200801,Austria,1
+20200801,Canada,1
+20200801,Croatia,2
+20200801,Cyprus,2
+20200801,Denmark,1
+20200801,France,22
+20200801,Germany,2
+20200801,Greece,9
+20200801,Haiti,1
+20200801,Hong Kong,5
+20200801,Hungary,2
+20200801,India,1
+20200801,Ireland,3
+20200801,Italy,23
+20200801,Japan,25
+20200801,Malaysia,6
+20200801,Malta,6
+20200801,Mexico,1
+20200801,Morocco,4
+20200801,Netherlands,3
+20200801,New Zealand,6
+20200801,Norway,1
+20200801,Philippines,1
+20200801,Poland,3
+20200801,Portugal,3
+20200801,Russia,8
+20200801,San Marino,1
+20200801,South Africa,1
+20200801,South Korea,4
+20200801,Spain,23
+20200801,Switzerland,5
+20200801,Taiwan,2
+20200801,Thailand,1
+20200801,Turkey,58
+20200801,United States,27
+20200801,United Arab Emirates,3
+20200801,United Kingdom,16
+20200802,Andorra,3
+20200802,Australia,14
+20200802,Austria,3
+20200802,Canada,5
+20200802,Croatia,1
+20200802,France,14
+20200802,Germany,5
+20200802,Greece,6
+20200802,Hungary,1
+20200802,Ireland,6
+20200802,Israel,26
+20200802,Italy,26
+20200802,Japan,44
+20200802,Malaysia,4
+20200802,Mexico,8
+20200802,Netherlands,3
+20200802,New Zealand,1
+20200802,Norway,2
+20200802,Portugal,1
+20200802,Puerto Rico,1
+20200802,Russia,12
+20200802,South Korea,4
+20200802,Spain,15
+20200802,Sweden,1
+20200802,Switzerland,2
+20200802,Thailand,1
+20200802,Tunisia,2
+20200802,Turkey,83
+20200802,United States,16
+20200802,United Arab Emirates,2
+20200802,United Kingdom,21
+20200803,Australia,14
+20200803,Austria,2
+20200803,Belarus,1
+20200803,Brazil,3
+20200803,Bulgaria,1
+20200803,Canada,2
+20200803,China,7
+20200803,Crimea,2
+20200803,Croatia,1
+20200803,Cyprus,4
+20200803,Denmark,1
+20200803,Dominican Republic,1
+20200803,Egypt,1
+20200803,France,21
+20200803,Germany,5
+20200803,Greece,15
+20200803,Hong Kong,1
+20200803,Hungary,2
+20200803,Ireland,10
+20200803,Israel,4
+20200803,Italy,41
+20200803,Jamaica,1
+20200803,Japan,43
+20200803,Malaysia,8
+20200803,Malta,5
+20200803,Mexico,4
+20200803,Morocco,2
+20200803,Netherlands,3
+20200803,New Zealand,5
+20200803,Poland,5
+20200803,Portugal,10
+20200803,Russia,6
+20200803,Singapore,1
+20200803,Slovakia,1
+20200803,South Korea,5
+20200803,Spain,57
+20200803,Switzerland,9
+20200803,Taiwan,2
+20200803,Thailand,2
+20200803,Turkey,63
+20200803,United States,31
+20200803,United Arab Emirates,1
+20200803,United Kingdom,16
+20200804,Australia,16
+20200804,Brazil,3
+20200804,Canada,2
+20200804,China,7
+20200804,Crimea,4
+20200804,Croatia,4
+20200804,Cuba,1
+20200804,Czech Republic,1
+20200804,Finland,2
+20200804,France,8
+20200804,Germany,10
+20200804,Greece,3
+20200804,Hong Kong,2
+20200804,Israel,2
+20200804,Italy,52
+20200804,Japan,34
+20200804,Malaysia,3
+20200804,Malta,6
+20200804,Mexico,8
+20200804,Morocco,1
+20200804,Netherlands,6
+20200804,New Zealand,7
+20200804,Poland,2
+20200804,Portugal,7
+20200804,Russia,7
+20200804,South Korea,2
+20200804,Spain,50
+20200804,Sweden,1
+20200804,Switzerland,1
+20200804,Taiwan,2
+20200804,Thailand,1
+20200804,Turkey,80
+20200804,United States,25
+20200804,United Kingdom,20
+20200805,Andorra,4
+20200805,Argentina,11
+20200805,Aruba,1
+20200805,Australia,28
+20200805,Austria,6
+20200805,Bahamas,1
+20200805,Belgium,4
+20200805,Brazil,128
+20200805,Bulgaria,2
+20200805,Canada,94
+20200805,Colombia,2
+20200805,Costa Rica,1
+20200805,Crimea,3
+20200805,Croatia,28
+20200805,Cyprus,4
+20200805,Czech Republic,3
+20200805,Denmark,123
+20200805,Dominican Republic,7
+20200805,Ecuador,3
+20200805,Egypt,15
+20200805,Estonia,7
+20200805,Finland,56
+20200805,France,240
+20200805,French Antilles,3
+20200805,Germany,92
+20200805,Greece,37
+20200805,Greenland,1
+20200805,Hong Kong,2
+20200805,Hungary,2
+20200805,Iceland,2
+20200805,India,2
+20200805,Indonesia,16
+20200805,Ireland,37
+20200805,Israel,76
+20200805,Italy,109
+20200805,Japan,320
+20200805,Jordan,2
+20200805,Kenya,2
+20200805,Latvia,1
+20200805,Lebanon,1
+20200805,Lithuania,2
+20200805,Luxembourg,2
+20200805,Malaysia,27
+20200805,Maldives,1
+20200805,Malta,11
+20200805,Mexico,129
+20200805,Monaco,1
+20200805,Morocco,9
+20200805,Netherlands,20
+20200805,New Zealand,10
+20200805,Norway,151
+20200805,Oman,2
+20200805,Peru,1
+20200805,Philippines,2
+20200805,Poland,6
+20200805,Portugal,28
+20200805,Puerto Rico,2
+20200805,Republic of Macedonia,1
+20200805,Romania,1
+20200805,Russia,26
+20200805,Saudi Arabia,11
+20200805,Slovakia,2
+20200805,Slovenia,2
+20200805,South Africa,6
+20200805,South Korea,204
+20200805,Spain,331
+20200805,Suriname,1
+20200805,Sweden,439
+20200805,Switzerland,2
+20200805,Taiwan,134
+20200805,Thailand,8
+20200805,Tunisia,3
+20200805,Turkey,771
+20200805,United States,1943
+20200805,United Arab Emirates,22
+20200805,United Kingdom,79
+20200805,Uruguay,1
+20200805,Vietnam,1
+20200806,Australia,12
+20200806,Austria,1
+20200806,Brazil,2
+20200806,Canada,8
+20200806,Croatia,3
+20200806,Denmark,1
+20200806,Dominican Republic,4
+20200806,France,19
+20200806,Germany,3
+20200806,Greece,5
+20200806,Ireland,1
+20200806,Israel,26
+20200806,Italy,37
+20200806,Japan,34
+20200806,Malaysia,7
+20200806,Malta,6
+20200806,Mexico,16
+20200806,Morocco,3
+20200806,Netherlands,6
+20200806,New Zealand,4
+20200806,Poland,1
+20200806,Portugal,3
+20200806,Romania,1
+20200806,Russia,28
+20200806,Singapore,2
+20200806,Slovenia,1
+20200806,South Korea,5
+20200806,Spain,33
+20200806,Sweden,1
+20200806,Switzerland,5
+20200806,Taiwan,1
+20200806,Thailand,1
+20200806,Turkey,58
+20200806,United States,25
+20200806,United Arab Emirates,1
+20200806,United Kingdom,17
+20200807,Andorra,1
+20200807,Australia,14
+20200807,Belgium,5
+20200807,Brazil,3
+20200807,Canada,21
+20200807,Cuba,5
+20200807,Czech Republic,1
+20200807,Denmark,1
+20200807,Dominican Republic,8
+20200807,France,28
+20200807,Germany,6
+20200807,Greece,7
+20200807,Hungary,1
+20200807,Indonesia,4
+20200807,Ireland,10
+20200807,Israel,5
+20200807,Italy,34
+20200807,Japan,45
+20200807,Malaysia,5
+20200807,Malta,4
+20200807,Mexico,7
+20200807,Morocco,4
+20200807,New Zealand,5
+20200807,Philippines,1
+20200807,Poland,4
+20200807,Portugal,5
+20200807,Russia,15
+20200807,South Korea,3
+20200807,Spain,27
+20200807,Sweden,1
+20200807,Switzerland,1
+20200807,Taiwan,4
+20200807,Thailand,1
+20200807,Turkey,91
+20200807,United States,32
+20200807,United Arab Emirates,2
+20200807,United Kingdom,20
+20200808,Australia,23
+20200808,Austria,1
+20200808,Belgium,2
+20200808,Brazil,2
+20200808,Canada,6
+20200808,Costa Rica,1
+20200808,Croatia,3
+20200808,Denmark,1
+20200808,Fiji,1
+20200808,France,15
+20200808,Germany,1
+20200808,Greece,4
+20200808,Hong Kong,1
+20200808,Ireland,8
+20200808,Israel,1
+20200808,Italy,55
+20200808,Japan,28
+20200808,Malaysia,4
+20200808,Mexico,8
+20200808,Morocco,2
+20200808,Poland,5
+20200808,Portugal,11
+20200808,Russia,17
+20200808,South Korea,2
+20200808,Spain,28
+20200808,Sweden,1
+20200808,Taiwan,5
+20200808,Thailand,1
+20200808,Turkey,80
+20200808,United States,25
+20200808,United Kingdom,15
+20200809,Australia,19
+20200809,Austria,1
+20200809,Brazil,3
+20200809,Bulgaria,1
+20200809,Canada,10
+20200809,Costa Rica,1
+20200809,Crimea,1
+20200809,Croatia,1
+20200809,Cuba,1
+20200809,Czech Republic,1
+20200809,Denmark,1
+20200809,Dominican Republic,7
+20200809,France,21
+20200809,Germany,3
+20200809,Greece,3
+20200809,Hong Kong,1
+20200809,Hungary,1
+20200809,Indonesia,1
+20200809,Ireland,5
+20200809,Israel,17
+20200809,Italy,62
+20200809,Jamaica,4
+20200809,Japan,28
+20200809,Lithuania,1
+20200809,Malaysia,6
+20200809,Mexico,17
+20200809,Netherlands,5
+20200809,New Zealand,11
+20200809,Portugal,9
+20200809,Russia,15
+20200809,Slovenia,2
+20200809,Spain,10
+20200809,Sweden,1
+20200809,Taiwan,2
+20200809,Turkey,35
+20200809,United States,19
+20200809,United Arab Emirates,9
+20200809,United Kingdom,12
+20200809,Uruguay,1
+20200810,Australia,24
+20200810,Austria,1
+20200810,Bahrain,1
+20200810,Belgium,1
+20200810,Belize,1
+20200810,Brazil,4
+20200810,Canada,25
+20200810,Croatia,1
+20200810,Cuba,1
+20200810,Cyprus,1
+20200810,Dominican Republic,1
+20200810,Finland,2
+20200810,France,25
+20200810,Germany,10
+20200810,Greece,8
+20200810,Hungary,1
+20200810,Indonesia,3
+20200810,Ireland,16
+20200810,Israel,1
+20200810,Italy,74
+20200810,Jamaica,2
+20200810,Japan,30
+20200810,Luxembourg,1
+20200810,Malaysia,5
+20200810,Mexico,15
+20200810,Morocco,4
+20200810,Netherlands,8
+20200810,New Zealand,10
+20200810,Philippines,1
+20200810,Poland,2
+20200810,Portugal,7
+20200810,Russia,19
+20200810,Singapore,1
+20200810,Spain,28
+20200810,Sweden,1
+20200810,Switzerland,8
+20200810,Taiwan,1
+20200810,Thailand,1
+20200810,Turkey,57
+20200810,United States,62
+20200810,Ukraine,1
+20200810,United Arab Emirates,5
+20200810,United Kingdom,24
+20200811,Aruba,4
+20200811,Australia,24
+20200811,Austria,2
+20200811,Belgium,2
+20200811,Brazil,1
+20200811,Canada,5
+20200811,China,3
+20200811,Cuba,1
+20200811,Cyprus,2
+20200811,Czech Republic,4
+20200811,France,20
+20200811,Germany,7
+20200811,Greece,8
+20200811,Ireland,7
+20200811,Italy,72
+20200811,Japan,19
+20200811,Malaysia,8
+20200811,Maldives,1
+20200811,Mexico,8
+20200811,Morocco,1
+20200811,Netherlands,1
+20200811,New Zealand,23
+20200811,Norway,4
+20200811,Poland,2
+20200811,Portugal,11
+20200811,Russia,13
+20200811,Singapore,1
+20200811,South Africa,2
+20200811,South Korea,3
+20200811,Spain,29
+20200811,Switzerland,4
+20200811,Taiwan,1
+20200811,Thailand,1
+20200811,Tunisia,1
+20200811,Turkey,67
+20200811,United States,37
+20200811,United Kingdom,11
+20200812,Andorra,1
+20200812,Australia,24
+20200812,Austria,1
+20200812,Brazil,5
+20200812,Canada,1
+20200812,China,5
+20200812,Croatia,2
+20200812,Cyprus,3
+20200812,Denmark,1
+20200812,France,27
+20200812,Germany,9
+20200812,Greece,7
+20200812,Hungary,1
+20200812,Ireland,9
+20200812,Israel,12
+20200812,Italy,84
+20200812,Japan,24
+20200812,Malaysia,8
+20200812,Mexico,15
+20200812,Netherlands,2
+20200812,New Zealand,41
+20200812,Philippines,5
+20200812,Poland,11
+20200812,Portugal,5
+20200812,Romania,3
+20200812,Russia,8
+20200812,Saint Lucia,3
+20200812,South Korea,4
+20200812,Spain,29
+20200812,Switzerland,8
+20200812,Taiwan,2
+20200812,Turkey,80
+20200812,United States,25
+20200812,United Kingdom,19
+20200813,Andorra,3
+20200813,Argentina,1
+20200813,Australia,19
+20200813,Austria,2
+20200813,Belgium,1
+20200813,Brazil,8
+20200813,Canada,5
+20200813,China,1
+20200813,Crimea,4
+20200813,Croatia,1
+20200813,Cuba,1
+20200813,Cyprus,1
+20200813,Czech Republic,2
+20200813,Egypt,1
+20200813,France,29
+20200813,French Antilles,1
+20200813,Germany,8
+20200813,Greece,7
+20200813,Hungary,1
+20200813,Indonesia,4
+20200813,Ireland,9
+20200813,Israel,11
+20200813,Italy,77
+20200813,Jamaica,2
+20200813,Japan,26
+20200813,Malaysia,5
+20200813,Malta,6
+20200813,Mexico,13
+20200813,Morocco,4
+20200813,New Zealand,43
+20200813,Norway,1
+20200813,Philippines,2
+20200813,Portugal,15
+20200813,Russia,27
+20200813,South Korea,7
+20200813,Spain,34
+20200813,Taiwan,2
+20200813,Thailand,1
+20200813,Turkey,71
+20200813,United States,42
+20200813,United Arab Emirates,4
+20200813,United Kingdom,23
+20200813,Uruguay,1
+20200814,Andorra,1
+20200814,Antigua and Barbuda,2
+20200814,Argentina,1
+20200814,Australia,13
+20200814,Austria,2
+20200814,Belgium,2
+20200814,Brazil,2
+20200814,Canada,7
+20200814,China,1
+20200814,Croatia,2
+20200814,Czech Republic,2
+20200814,Dominican Republic,2
+20200814,France,29
+20200814,Germany,8
+20200814,Greece,4
+20200814,Indonesia,1
+20200814,Ireland,10
+20200814,Israel,8
+20200814,Italy,85
+20200814,Japan,13
+20200814,Malaysia,6
+20200814,Malta,18
+20200814,Mexico,5
+20200814,Netherlands,1
+20200814,New Zealand,18
+20200814,Norway,1
+20200814,Philippines,1
+20200814,Poland,1
+20200814,Portugal,11
+20200814,Puerto Rico,1
+20200814,Russia,16
+20200814,Singapore,1
+20200814,Slovakia,1
+20200814,South Korea,4
+20200814,Spain,36
+20200814,Switzerland,2
+20200814,Taiwan,1
+20200814,Thailand,1
+20200814,Turkey,76
+20200814,United States,25
+20200814,United Arab Emirates,1
+20200814,United Kingdom,10
+20200815,Australia,17
+20200815,Austria,2
+20200815,Brazil,6
+20200815,Canada,8
+20200815,Croatia,2
+20200815,Dominican Republic,1
+20200815,France,21
+20200815,Germany,2
+20200815,Greece,13
+20200815,Hong Kong,3
+20200815,Indonesia,1
+20200815,Ireland,5
+20200815,Israel,9
+20200815,Italy,54
+20200815,Japan,17
+20200815,Malaysia,6
+20200815,Malta,17
+20200815,Mexico,3
+20200815,Morocco,4
+20200815,Netherlands,1
+20200815,New Zealand,22
+20200815,Poland,1
+20200815,Portugal,7
+20200815,Puerto Rico,1
+20200815,Russia,20
+20200815,South Africa,1
+20200815,South Korea,6
+20200815,Spain,24
+20200815,Switzerland,1
+20200815,Taiwan,5
+20200815,Tunisia,4
+20200815,Turkey,108
+20200815,United States,25
+20200815,United Arab Emirates,1
+20200815,United Kingdom,20
+20200816,Andorra,1
+20200816,Australia,14
+20200816,Austria,2
+20200816,Belgium,2
+20200816,Brazil,2
+20200816,Canada,5
+20200816,China,1
+20200816,Croatia,4
+20200816,Dominican Republic,1
+20200816,France,22
+20200816,Germany,6
+20200816,Greece,2
+20200816,India,1
+20200816,Indonesia,2
+20200816,Ireland,6
+20200816,Israel,2
+20200816,Italy,44
+20200816,Japan,21
+20200816,Malaysia,4
+20200816,Mexico,6
+20200816,New Zealand,7
+20200816,Philippines,1
+20200816,Portugal,4
+20200816,Russia,17
+20200816,South Korea,3
+20200816,Spain,27
+20200816,Switzerland,2
+20200816,Taiwan,3
+20200816,Turkey,63
+20200816,United States,29
+20200816,United Arab Emirates,2
+20200816,United Kingdom,7
+20200817,Andorra,1
+20200817,Australia,76
+20200817,Austria,11
+20200817,Bahamas,1
+20200817,Belgium,13
+20200817,Brazil,15
+20200817,Bulgaria,9
+20200817,Canada,527
+20200817,Costa Rica,1
+20200817,Croatia,6
+20200817,Cuba,1
+20200817,Cyprus,8
+20200817,Czech Republic,2
+20200817,Denmark,2
+20200817,Dominican Republic,5
+20200817,Ecuador,2
+20200817,Finland,4
+20200817,France,56
+20200817,Germany,100
+20200817,Greece,14
+20200817,Hong Kong,3
+20200817,Hungary,1
+20200817,India,2
+20200817,Ireland,20
+20200817,Israel,8
+20200817,Italy,164
+20200817,Japan,31
+20200817,Jordan,1
+20200817,Luxembourg,1
+20200817,Malaysia,13
+20200817,Malta,7
+20200817,Mexico,34
+20200817,Monaco,1
+20200817,Morocco,1
+20200817,Netherlands,78
+20200817,New Zealand,58
+20200817,Norway,4
+20200817,Philippines,1
+20200817,Poland,1
+20200817,Portugal,13
+20200817,Puerto Rico,1
+20200817,Qatar,1
+20200817,Romania,1
+20200817,Russia,10
+20200817,Singapore,1
+20200817,South Korea,6
+20200817,Spain,74
+20200817,Sweden,1
+20200817,Switzerland,32
+20200817,Taiwan,10
+20200817,Thailand,2
+20200817,Tunisia,5
+20200817,Turkey,104
+20200817,United States,593
+20200817,United Arab Emirates,5
+20200817,United Kingdom,473
+20200818,Andorra,2
+20200818,Australia,10
+20200818,Austria,5
+20200818,Brazil,4
+20200818,Bulgaria,2
+20200818,Canada,2
+20200818,Croatia,2
+20200818,Czech Republic,3
+20200818,Dominican Republic,1
+20200818,France,19
+20200818,Germany,12
+20200818,Greece,12
+20200818,Hong Kong,2
+20200818,Hungary,2
+20200818,Indonesia,1
+20200818,Ireland,9
+20200818,Israel,1
+20200818,Italy,44
+20200818,Japan,19
+20200818,Malaysia,12
+20200818,Malta,2
+20200818,Mexico,3
+20200818,Morocco,4
+20200818,Netherlands,2
+20200818,New Zealand,12
+20200818,Philippines,2
+20200818,Poland,1
+20200818,Portugal,7
+20200818,Russia,14
+20200818,San Marino,1
+20200818,South Africa,2
+20200818,South Korea,4
+20200818,Spain,47
+20200818,Sweden,2
+20200818,Taiwan,4
+20200818,Turkey,100
+20200818,United States,28
+20200818,United Arab Emirates,13
+20200818,United Kingdom,18
+20200819,Andorra,1
+20200819,Australia,8
+20200819,Belgium,2
+20200819,Brazil,7
+20200819,Canada,27
+20200819,Crimea,3
+20200819,Croatia,2
+20200819,Cyprus,8
+20200819,Egypt,1
+20200819,Finland,1
+20200819,France,21
+20200819,Germany,11
+20200819,Greece,4
+20200819,Hong Kong,1
+20200819,Hungary,2
+20200819,India,1
+20200819,Ireland,5
+20200819,Israel,4
+20200819,Italy,45
+20200819,Japan,15
+20200819,Malaysia,3
+20200819,Mexico,4
+20200819,Monaco,1
+20200819,Morocco,4
+20200819,New Zealand,6
+20200819,Philippines,1
+20200819,Poland,1
+20200819,Portugal,7
+20200819,Romania,1
+20200819,Russia,8
+20200819,Singapore,2
+20200819,South Africa,2
+20200819,South Korea,3
+20200819,Spain,32
+20200819,Switzerland,4
+20200819,Taiwan,1
+20200819,Turkey,80
+20200819,United States,41
+20200819,United Arab Emirates,9
+20200819,United Kingdom,12
+20200820,Andorra,2
+20200820,Australia,16
+20200820,Austria,1
+20200820,Belgium,2
+20200820,Brazil,4
+20200820,Canada,7
+20200820,Croatia,2
+20200820,Cyprus,4
+20200820,Czech Republic,5
+20200820,Denmark,1
+20200820,Dominican Republic,1
+20200820,France,18
+20200820,Germany,14
+20200820,Greece,1
+20200820,Hungary,2
+20200820,Indonesia,1
+20200820,Ireland,6
+20200820,Israel,15
+20200820,Italy,30
+20200820,Japan,16
+20200820,Malaysia,5
+20200820,Malta,6
+20200820,Mexico,4
+20200820,New Zealand,10
+20200820,Nigeria,1
+20200820,Poland,1
+20200820,Portugal,8
+20200820,Puerto Rico,2
+20200820,Russia,12
+20200820,South Korea,4
+20200820,Spain,50
+20200820,Sweden,1
+20200820,Taiwan,2
+20200820,Thailand,4
+20200820,Turkey,72
+20200820,United States,52
+20200820,United Arab Emirates,2
+20200820,United Kingdom,9
+20200821,Andorra,1
+20200821,Australia,22
+20200821,Austria,4
+20200821,Brazil,10
+20200821,Bulgaria,1
+20200821,Canada,12
+20200821,Croatia,3
+20200821,Cyprus,1
+20200821,Czech Republic,1
+20200821,Denmark,1
+20200821,Dominican Republic,8
+20200821,Finland,1
+20200821,France,13
+20200821,French Antilles,1
+20200821,Germany,16
+20200821,Greece,8
+20200821,Hong Kong,1
+20200821,Hungary,1
+20200821,Indonesia,1
+20200821,Iran,1
+20200821,Ireland,12
+20200821,Israel,33
+20200821,Italy,40
+20200821,Jamaica,4
+20200821,Japan,11
+20200821,Malaysia,12
+20200821,Mexico,12
+20200821,Morocco,6
+20200821,Netherlands,3
+20200821,New Zealand,7
+20200821,Poland,5
+20200821,Portugal,12
+20200821,Russia,36
+20200821,Singapore,1
+20200821,South Korea,5
+20200821,Spain,30
+20200821,Switzerland,5
+20200821,Taiwan,3
+20200821,Turkey,68
+20200821,United States,31
+20200821,United Arab Emirates,1
+20200821,United Kingdom,27
+20200822,Andorra,2
+20200822,Argentina,1
+20200822,Australia,19
+20200822,Brazil,17
+20200822,Canada,6
+20200822,Croatia,1
+20200822,Cyprus,1
+20200822,Fiji,1
+20200822,France,11
+20200822,Germany,9
+20200822,India,3
+20200822,Iran,1
+20200822,Ireland,5
+20200822,Israel,1
+20200822,Italy,37
+20200822,Japan,19
+20200822,Malaysia,10
+20200822,Mexico,4
+20200822,Morocco,2
+20200822,New Zealand,3
+20200822,Nigeria,1
+20200822,Portugal,10
+20200822,Russia,10
+20200822,Singapore,1
+20200822,South Korea,3
+20200822,Spain,34
+20200822,Taiwan,3
+20200822,Turkey,77
+20200822,US Virgin Islands,1
+20200822,United States,35
+20200822,United Arab Emirates,2
+20200822,United Kingdom,20
+20200823,Andorra,1
+20200823,Australia,13
+20200823,Austria,1
+20200823,Brazil,4
+20200823,Cambodia,2
+20200823,Canada,6
+20200823,Croatia,1
+20200823,Cyprus,3
+20200823,Denmark,2
+20200823,Egypt,2
+20200823,Fiji,1
+20200823,France,10
+20200823,Germany,7
+20200823,Greece,3
+20200823,Ireland,3
+20200823,Israel,5
+20200823,Italy,30
+20200823,Jamaica,4
+20200823,Japan,18
+20200823,Malaysia,9
+20200823,Mexico,3
+20200823,Netherlands,1
+20200823,Poland,2
+20200823,Portugal,5
+20200823,Russia,9
+20200823,Singapore,2
+20200823,South Korea,1
+20200823,Spain,17
+20200823,Switzerland,2
+20200823,Taiwan,2
+20200823,Turkey,25
+20200823,United States,34
+20200823,United Arab Emirates,2
+20200823,United Kingdom,11
+20200823,Uruguay,1
+20200824,Australia,14
+20200824,Bahamas,2
+20200824,Bahrain,1
+20200824,Brazil,5
+20200824,Cambodia,2
+20200824,Canada,6
+20200824,Croatia,1
+20200824,Cyprus,1
+20200824,Czech Republic,1
+20200824,France,17
+20200824,Germany,12
+20200824,Greece,8
+20200824,Indonesia,14
+20200824,Ireland,10
+20200824,Israel,6
+20200824,Italy,39
+20200824,Japan,11
+20200824,Malaysia,6
+20200824,Mexico,7
+20200824,Netherlands,1
+20200824,New Zealand,11
+20200824,Norway,1
+20200824,Poland,1
+20200824,Portugal,4
+20200824,Puerto Rico,1
+20200824,Russia,7
+20200824,South Korea,2
+20200824,Spain,25
+20200824,Taiwan,3
+20200824,Turkey,77
+20200824,United States,31
+20200824,United Arab Emirates,13
+20200824,United Kingdom,23
+20200825,Andorra,2
+20200825,Australia,16
+20200825,Austria,3
+20200825,BES Islands,1
+20200825,Belgium,1
+20200825,Brazil,17
+20200825,Canada,24
+20200825,Costa Rica,2
+20200825,Cyprus,1
+20200825,Czech Republic,1
+20200825,Denmark,3
+20200825,Dominican Republic,8
+20200825,Egypt,1
+20200825,Finland,3
+20200825,France,32
+20200825,Germany,10
+20200825,Greece,3
+20200825,Hong Kong,4
+20200825,India,1
+20200825,Ireland,13
+20200825,Israel,53
+20200825,Italy,22
+20200825,Japan,20
+20200825,Lebanon,1
+20200825,Liechtenstein,1
+20200825,Luxembourg,1
+20200825,Malaysia,15
+20200825,Maldives,2
+20200825,Malta,5
+20200825,Mexico,19
+20200825,Netherlands,15
+20200825,New Zealand,11
+20200825,Poland,1
+20200825,Portugal,5
+20200825,Romania,1
+20200825,Russia,11
+20200825,South Africa,1
+20200825,South Korea,10
+20200825,Spain,48
+20200825,Sweden,10
+20200825,Switzerland,8
+20200825,Taiwan,6
+20200825,Thailand,2
+20200825,Turkey,204
+20200825,United States,194
+20200825,United Arab Emirates,8
+20200825,United Kingdom,100
+20200826,Algeria,2
+20200826,Andorra,6
+20200826,Argentina,5
+20200826,Aruba,4
+20200826,Australia,110
+20200826,Austria,25
+20200826,Barbados,1
+20200826,Belgium,14
+20200826,Brazil,112
+20200826,Bulgaria,3
+20200826,Canada,545
+20200826,Chile,3
+20200826,China,1
+20200826,Colombia,1
+20200826,Costa Rica,5
+20200826,Croatia,9
+20200826,Cuba,1
+20200826,Cyprus,15
+20200826,Czech Republic,10
+20200826,Denmark,63
+20200826,Dominican Republic,5
+20200826,Egypt,9
+20200826,Estonia,7
+20200826,Finland,50
+20200826,France,406
+20200826,French Antilles,2
+20200826,Germany,191
+20200826,Ghana,1
+20200826,Greece,23
+20200826,Hong Kong,3
+20200826,Hungary,7
+20200826,Iceland,5
+20200826,India,4
+20200826,Indonesia,3
+20200826,Ireland,61
+20200826,Israel,72
+20200826,Italy,180
+20200826,Jamaica,3
+20200826,Japan,206
+20200826,Jordan,2
+20200826,Kenya,1
+20200826,Latvia,1
+20200826,Lebanon,1
+20200826,Lithuania,1
+20200826,Luxembourg,7
+20200826,Malaysia,30
+20200826,Malta,15
+20200826,Mexico,121
+20200826,Monaco,3
+20200826,Morocco,11
+20200826,Netherlands,75
+20200826,New Zealand,48
+20200826,Norway,65
+20200826,Paraguay,1
+20200826,Peru,1
+20200826,Philippines,1
+20200826,Poland,19
+20200826,Portugal,38
+20200826,Puerto Rico,2
+20200826,Republic of Macedonia,1
+20200826,Russia,49
+20200826,Réunion,2
+20200826,Saint Vincent and the Grenadines,3
+20200826,Saudi Arabia,12
+20200826,Singapore,9
+20200826,Slovakia,1
+20200826,Slovenia,3
+20200826,South Africa,3
+20200826,South Korea,129
+20200826,Spain,421
+20200826,Sweden,250
+20200826,Switzerland,27
+20200826,Taiwan,54
+20200826,Thailand,3
+20200826,Tunisia,5
+20200826,Turkey,647
+20200826,United States,1836
+20200826,United Arab Emirates,8
+20200826,United Kingdom,511
+20200826,Uruguay,2
+20200826,Vietnam,1
+20200827,Algeria,1
+20200827,Andorra,4
+20200827,Argentina,4
+20200827,Australia,61
+20200827,Austria,17
+20200827,Belarus,1
+20200827,Belgium,14
+20200827,Brazil,69
+20200827,Canada,480
+20200827,Colombia,2
+20200827,Costa Rica,1
+20200827,Croatia,11
+20200827,Cuba,2
+20200827,Cyprus,1
+20200827,Czech Republic,3
+20200827,Denmark,28
+20200827,Dominican Republic,3
+20200827,Egypt,10
+20200827,Estonia,4
+20200827,Finland,17
+20200827,France,275
+20200827,French Antilles,2
+20200827,Germany,113
+20200827,Greece,11
+20200827,Guatemala,1
+20200827,Hong Kong,1
+20200827,Hungary,1
+20200827,India,4
+20200827,Indonesia,2
+20200827,Ireland,30
+20200827,Israel,38
+20200827,Italy,181
+20200827,Japan,86
+20200827,Latvia,1
+20200827,Lithuania,1
+20200827,Malaysia,14
+20200827,Maldives,1
+20200827,Malta,4
+20200827,Mexico,75
+20200827,Monaco,4
+20200827,Morocco,9
+20200827,Netherlands,56
+20200827,New Zealand,31
+20200827,Nigeria,1
+20200827,Norway,28
+20200827,Panama,1
+20200827,Philippines,3
+20200827,Poland,6
+20200827,Portugal,16
+20200827,Puerto Rico,1
+20200827,Russia,33
+20200827,Réunion,2
+20200827,Saudi Arabia,2
+20200827,South Africa,2
+20200827,South Korea,43
+20200827,Spain,256
+20200827,Sweden,113
+20200827,Switzerland,22
+20200827,Taiwan,27
+20200827,Thailand,2
+20200827,Tunisia,2
+20200827,Turkey,417
+20200827,United States,1036
+20200827,Ukraine,4
+20200827,United Arab Emirates,4
+20200827,United Kingdom,338
+20200827,Uruguay,1
+20200827,Vietnam,1
+20200828,Argentina,1
+20200828,Australia,31
+20200828,Austria,3
+20200828,Brazil,10
+20200828,Cambodia,2
+20200828,Canada,9
+20200828,Crimea,1
+20200828,Croatia,1
+20200828,Czech Republic,1
+20200828,Denmark,1
+20200828,France,11
+20200828,Germany,5
+20200828,Greece,7
+20200828,Hong Kong,1
+20200828,Hungary,1
+20200828,Iceland,1
+20200828,Indonesia,4
+20200828,Ireland,4
+20200828,Israel,4
+20200828,Italy,19
+20200828,Jamaica,4
+20200828,Japan,9
+20200828,Malaysia,7
+20200828,Malta,4
+20200828,Mexico,23
+20200828,Netherlands,1
+20200828,New Zealand,5
+20200828,Norway,1
+20200828,Poland,1
+20200828,Portugal,7
+20200828,Russia,12
+20200828,South Africa,1
+20200828,South Korea,1
+20200828,Spain,27
+20200828,Switzerland,2
+20200828,Taiwan,2
+20200828,Thailand,1
+20200828,Turkey,162
+20200828,United States,46
+20200828,United Kingdom,13
+20200829,Australia,20
+20200829,Barbados,1
+20200829,Belgium,1
+20200829,Brazil,5
+20200829,Cambodia,2
+20200829,Canada,6
+20200829,Finland,1
+20200829,France,8
+20200829,Germany,10
+20200829,Gibraltar,8
+20200829,Greece,5
+20200829,Hong Kong,1
+20200829,Hungary,1
+20200829,Indonesia,7
+20200829,Ireland,3
+20200829,Israel,5
+20200829,Italy,20
+20200829,Jamaica,4
+20200829,Japan,7
+20200829,Malaysia,16
+20200829,Mexico,6
+20200829,Morocco,4
+20200829,Netherlands,6
+20200829,New Zealand,9
+20200829,Portugal,3
+20200829,Russia,12
+20200829,Singapore,1
+20200829,South Korea,1
+20200829,Spain,28
+20200829,Sweden,1
+20200829,Switzerland,1
+20200829,Thailand,5
+20200829,Turkey,143
+20200829,United States,37
+20200829,United Arab Emirates,4
+20200829,United Kingdom,16
+20200830,Australia,10
+20200830,Belgium,1
+20200830,Brazil,5
+20200830,Canada,5
+20200830,Crimea,1
+20200830,Cyprus,1
+20200830,Denmark,1
+20200830,Finland,1
+20200830,France,6
+20200830,Germany,5
+20200830,Hong Kong,1
+20200830,Hungary,1
+20200830,Ireland,5
+20200830,Italy,11
+20200830,Japan,9
+20200830,Luxembourg,1
+20200830,Malaysia,20
+20200830,Malta,4
+20200830,Mexico,5
+20200830,Netherlands,8
+20200830,New Zealand,2
+20200830,Portugal,5
+20200830,Russia,13
+20200830,Spain,20
+20200830,Sweden,1
+20200830,Thailand,1
+20200830,Turkey,87
+20200830,United States,30
+20200830,United Kingdom,18
+20200831,Andorra,1
+20200831,Australia,19
+20200831,Austria,1
+20200831,Brazil,10
+20200831,Canada,10
+20200831,Croatia,4
+20200831,Cyprus,1
+20200831,France,9
+20200831,Germany,11
+20200831,Greece,2
+20200831,Ireland,10
+20200831,Israel,12
+20200831,Italy,16
+20200831,Japan,15
+20200831,Malaysia,7
+20200831,Mauritius,4
+20200831,Mexico,13
+20200831,Netherlands,6
+20200831,New Zealand,9
+20200831,Philippines,3
+20200831,Poland,3
+20200831,Portugal,7
+20200831,Russia,9
+20200831,South Korea,1
+20200831,Spain,17
+20200831,Sri Lanka,1
+20200831,Sweden,1
+20200831,Taiwan,3
+20200831,Thailand,1
+20200831,Turkey,122
+20200831,United States,42
+20200831,United Arab Emirates,5
+20200831,United Kingdom,8
+20200901,Antigua and Barbuda,4
+20200901,Australia,19
+20200901,Austria,1
+20200901,Barbados,1
+20200901,Belgium,3
+20200901,Brazil,10
+20200901,Canada,11
+20200901,Croatia,2
+20200901,Denmark,1
+20200901,Dominican Republic,5
+20200901,Egypt,2
+20200901,France,7
+20200901,Germany,14
+20200901,Greece,2
+20200901,Hong Kong,1
+20200901,Indonesia,2
+20200901,Ireland,13
+20200901,Israel,1
+20200901,Italy,27
+20200901,Japan,7
+20200901,Malaysia,3
+20200901,Mexico,7
+20200901,Morocco,1
+20200901,Netherlands,7
+20200901,New Zealand,4
+20200901,Philippines,2
+20200901,Poland,1
+20200901,Portugal,8
+20200901,Romania,1
+20200901,Russia,16
+20200901,Singapore,1
+20200901,South Africa,1
+20200901,South Korea,2
+20200901,Spain,19
+20200901,Switzerland,2
+20200901,Tanzania,1
+20200901,Thailand,1
+20200901,Turkey,138
+20200901,United States,26
+20200901,United Arab Emirates,1
+20200901,United Kingdom,10
+20200901,Uruguay,1
+20200902,Australia,22
+20200902,Barbados,4
+20200902,Belgium,2
+20200902,Brazil,20
+20200902,Canada,7
+20200902,Chile,1
+20200902,Croatia,2
+20200902,Czech Republic,2
+20200902,Denmark,4
+20200902,Dominican Republic,4
+20200902,Egypt,4
+20200902,Faroe Islands,1
+20200902,France,13
+20200902,Germany,9
+20200902,Greece,5
+20200902,Hong Kong,1
+20200902,India,1
+20200902,Ireland,4
+20200902,Israel,4
+20200902,Italy,17
+20200902,Japan,9
+20200902,Malaysia,7
+20200902,Mexico,8
+20200902,Netherlands,6
+20200902,New Zealand,3
+20200902,Norway,1
+20200902,Poland,3
+20200902,Portugal,13
+20200902,Russia,11
+20200902,Slovakia,1
+20200902,South Africa,1
+20200902,South Korea,2
+20200902,Spain,38
+20200902,Sweden,1
+20200902,Taiwan,9
+20200902,Thailand,1
+20200902,Turkey,192
+20200902,United States,62
+20200902,United Arab Emirates,1
+20200902,United Kingdom,8
+20200903,Andorra,2
+20200903,Australia,15
+20200903,Austria,1
+20200903,Belgium,6
+20200903,Botswana,1
+20200903,Brazil,24
+20200903,Bulgaria,20
+20200903,Canada,5
+20200903,Colombia,2
+20200903,Cyprus,4
+20200903,Egypt,1
+20200903,Finland,1
+20200903,France,6
+20200903,Germany,22
+20200903,Greece,1
+20200903,Ireland,1
+20200903,Israel,21
+20200903,Italy,26
+20200903,Japan,25
+20200903,Malaysia,9
+20200903,Maldives,1
+20200903,Mexico,18
+20200903,Morocco,1
+20200903,Netherlands,9
+20200903,New Zealand,7
+20200903,Norway,1
+20200903,Peru,1
+20200903,Poland,3
+20200903,Portugal,8
+20200903,Romania,1
+20200903,Russia,20
+20200903,Réunion,1
+20200903,South Africa,1
+20200903,Spain,68
+20200903,Sweden,2
+20200903,Switzerland,1
+20200903,Taiwan,14
+20200903,Thailand,1
+20200903,Turkey,177
+20200903,United States,37
+20200903,United Arab Emirates,4
+20200903,United Kingdom,14
+20200904,Argentina,1
+20200904,Australia,8
+20200904,Austria,2
+20200904,Belgium,4
+20200904,Brazil,47
+20200904,Bulgaria,5
+20200904,Canada,9
+20200904,Czech Republic,6
+20200904,Egypt,5
+20200904,France,8
+20200904,Germany,22
+20200904,Greece,12
+20200904,Hong Kong,3
+20200904,Hungary,4
+20200904,India,2
+20200904,Ireland,6
+20200904,Israel,8
+20200904,Italy,23
+20200904,Japan,19
+20200904,Luxembourg,1
+20200904,Malaysia,14
+20200904,Mexico,44
+20200904,Morocco,1
+20200904,Netherlands,12
+20200904,New Zealand,5
+20200904,Philippines,2
+20200904,Poland,2
+20200904,Portugal,23
+20200904,Romania,1
+20200904,Russia,12
+20200904,Singapore,2
+20200904,South Africa,1
+20200904,Spain,45
+20200904,Sweden,4
+20200904,Taiwan,4
+20200904,Thailand,5
+20200904,Turkey,170
+20200904,United States,42
+20200904,United Arab Emirates,2
+20200904,United Kingdom,14
+20200904,Vietnam,1
+20200905,Australia,16
+20200905,Austria,1
+20200905,Belgium,1
+20200905,Brazil,59
+20200905,Bulgaria,1
+20200905,Canada,6
+20200905,China,1
+20200905,Costa Rica,1
+20200905,Crimea,1
+20200905,Croatia,1
+20200905,Czech Republic,5
+20200905,Dominican Republic,1
+20200905,France,4
+20200905,Germany,16
+20200905,Greece,2
+20200905,Hong Kong,3
+20200905,Ireland,4
+20200905,Israel,18
+20200905,Italy,40
+20200905,Japan,29
+20200905,Malaysia,47
+20200905,Mexico,19
+20200905,Netherlands,5
+20200905,New Zealand,7
+20200905,Norway,2
+20200905,Poland,1
+20200905,Portugal,7
+20200905,Russia,11
+20200905,Singapore,1
+20200905,Slovenia,1
+20200905,South Africa,1
+20200905,South Korea,1
+20200905,Spain,35
+20200905,Sweden,2
+20200905,Switzerland,1
+20200905,Taiwan,7
+20200905,Thailand,3
+20200905,Turkey,159
+20200905,United States,50
+20200905,Ukraine,1
+20200905,United Arab Emirates,3
+20200905,United Kingdom,16
+20200906,Argentina,1
+20200906,Australia,5
+20200906,Austria,1
+20200906,Belgium,1
+20200906,Brazil,27
+20200906,Bulgaria,3
+20200906,Canada,10
+20200906,Colombia,1
+20200906,Cyprus,4
+20200906,Czech Republic,1
+20200906,Egypt,1
+20200906,France,5
+20200906,Germany,6
+20200906,Greece,1
+20200906,India,1
+20200906,Ireland,11
+20200906,Israel,16
+20200906,Italy,27
+20200906,Japan,6
+20200906,Malaysia,9
+20200906,Mexico,13
+20200906,Netherlands,2
+20200906,New Zealand,3
+20200906,Philippines,1
+20200906,Poland,2
+20200906,Portugal,10
+20200906,Russia,10
+20200906,Slovenia,1
+20200906,Spain,45
+20200906,Switzerland,1
+20200906,Taiwan,9
+20200906,Thailand,1
+20200906,Turkey,140
+20200906,United States,26
+20200906,United Arab Emirates,5
+20200906,United Kingdom,12
+20200907,Australia,15
+20200907,Austria,1
+20200907,Belgium,3
+20200907,Brazil,25
+20200907,Canada,13
+20200907,Croatia,1
+20200907,Cyprus,1
+20200907,Czech Republic,3
+20200907,Denmark,1
+20200907,Egypt,4
+20200907,France,27
+20200907,Germany,4
+20200907,Ireland,4
+20200907,Israel,5
+20200907,Italy,36
+20200907,Japan,13
+20200907,Malaysia,9
+20200907,Malta,6
+20200907,Mexico,25
+20200907,Morocco,5
+20200907,Mozambique,1
+20200907,Netherlands,9
+20200907,New Zealand,3
+20200907,Poland,2
+20200907,Portugal,15
+20200907,Puerto Rico,4
+20200907,Qatar,1
+20200907,Romania,5
+20200907,Russia,14
+20200907,Singapore,2
+20200907,South Africa,2
+20200907,Spain,41
+20200907,Sri Lanka,1
+20200907,Sweden,4
+20200907,Taiwan,11
+20200907,Tunisia,1
+20200907,Turkey,107
+20200907,United States,32
+20200907,United Kingdom,27
+20200908,Andorra,1
+20200908,Australia,31
+20200908,Bahamas,1
+20200908,Belgium,4
+20200908,Brazil,21
+20200908,Bulgaria,2
+20200908,Canada,10
+20200908,Colombia,2
+20200908,Costa Rica,2
+20200908,Czech Republic,4
+20200908,Denmark,1
+20200908,Ecuador,1
+20200908,Egypt,1
+20200908,France,9
+20200908,Germany,10
+20200908,Greece,19
+20200908,Hong Kong,3
+20200908,Hungary,4
+20200908,India,4
+20200908,Ireland,12
+20200908,Israel,34
+20200908,Italy,12
+20200908,Japan,31
+20200908,Jordan,2
+20200908,Kuwait,1
+20200908,Malaysia,27
+20200908,Malta,4
+20200908,Mexico,31
+20200908,Morocco,6
+20200908,Netherlands,12
+20200908,New Zealand,4
+20200908,Panama,1
+20200908,Peru,1
+20200908,Philippines,2
+20200908,Poland,3
+20200908,Portugal,27
+20200908,Russia,9
+20200908,Réunion,1
+20200908,Singapore,2
+20200908,South Africa,2
+20200908,South Korea,1
+20200908,Spain,58
+20200908,Sweden,2
+20200908,Switzerland,5
+20200908,Taiwan,15
+20200908,Thailand,6
+20200908,Turkey,125
+20200908,United States,28
+20200908,United Arab Emirates,6
+20200908,United Kingdom,24
+20200909,Andorra,2
+20200909,Australia,31
+20200909,Austria,36
+20200909,Belgium,8
+20200909,Brazil,69
+20200909,Brunei,1
+20200909,Bulgaria,3
+20200909,Canada,14
+20200909,Chile,1
+20200909,China,1
+20200909,Colombia,4
+20200909,Cyprus,1
+20200909,Czech Republic,7
+20200909,Dominican Republic,10
+20200909,Ecuador,1
+20200909,Egypt,4
+20200909,France,18
+20200909,Germany,38
+20200909,Greece,13
+20200909,Hong Kong,3
+20200909,Iceland,1
+20200909,India,48
+20200909,Indonesia,68
+20200909,Ireland,8
+20200909,Israel,12
+20200909,Italy,38
+20200909,Jamaica,5
+20200909,Japan,133
+20200909,Malaysia,455
+20200909,Mexico,32
+20200909,Morocco,1
+20200909,Netherlands,21
+20200909,New Zealand,8
+20200909,Norway,1
+20200909,Pakistan,1
+20200909,Philippines,10
+20200909,Portugal,13
+20200909,Romania,2
+20200909,Russia,10
+20200909,Singapore,2
+20200909,Slovakia,2
+20200909,Slovenia,1
+20200909,South Africa,9
+20200909,South Korea,9
+20200909,Spain,89
+20200909,Sweden,3
+20200909,Switzerland,5
+20200909,Taiwan,41
+20200909,Thailand,25
+20200909,Turkey,159
+20200909,United States,82
+20200909,United Arab Emirates,11
+20200909,United Kingdom,26
+20200909,Vietnam,27
+20200910,Andorra,1
+20200910,Antigua and Barbuda,1
+20200910,Argentina,2
+20200910,Australia,39
+20200910,Austria,23
+20200910,Belgium,3
+20200910,Brazil,87
+20200910,Brunei,1
+20200910,Bulgaria,7
+20200910,Canada,21
+20200910,Colombia,4
+20200910,Croatia,1
+20200910,Curacao,2
+20200910,Czech Republic,6
+20200910,Denmark,1
+20200910,Dominican Republic,2
+20200910,Ecuador,1
+20200910,Egypt,1
+20200910,Finland,1
+20200910,France,27
+20200910,Georgia,1
+20200910,Germany,47
+20200910,Greece,30
+20200910,Hong Kong,4
+20200910,India,96
+20200910,Indonesia,110
+20200910,Ireland,8
+20200910,Israel,19
+20200910,Italy,56
+20200910,Jamaica,4
+20200910,Japan,223
+20200910,Latvia,1
+20200910,Malaysia,620
+20200910,Maldives,6
+20200910,Mexico,29
+20200910,Montenegro,1
+20200910,Morocco,1
+20200910,Netherlands,27
+20200910,New Zealand,7
+20200910,Norway,1
+20200910,Panama,1
+20200910,Philippines,15
+20200910,Poland,4
+20200910,Portugal,29
+20200910,Romania,6
+20200910,Russia,25
+20200910,Saudi Arabia,4
+20200910,Singapore,7
+20200910,South Africa,23
+20200910,South Korea,11
+20200910,Spain,52
+20200910,Sweden,4
+20200910,Switzerland,2
+20200910,Taiwan,63
+20200910,Thailand,55
+20200910,Turkey,173
+20200910,United States,117
+20200910,Ukraine,1
+20200910,United Arab Emirates,30
+20200910,United Kingdom,27
+20200910,Vietnam,7
+20200911,Australia,35
+20200911,Austria,8
+20200911,Belgium,2
+20200911,Brazil,75
+20200911,Bulgaria,5
+20200911,Canada,10
+20200911,China,4
+20200911,Colombia,2
+20200911,Croatia,3
+20200911,Cuba,1
+20200911,Cyprus,6
+20200911,Czech Republic,12
+20200911,Denmark,1
+20200911,Dominican Republic,1
+20200911,Egypt,4
+20200911,Finland,1
+20200911,France,27
+20200911,French Polynesia,1
+20200911,Germany,45
+20200911,Greece,14
+20200911,Hong Kong,4
+20200911,Hungary,2
+20200911,India,71
+20200911,Indonesia,121
+20200911,Ireland,1
+20200911,Israel,15
+20200911,Italy,61
+20200911,Japan,227
+20200911,Kuwait,1
+20200911,Luxembourg,2
+20200911,Malaysia,759
+20200911,Mexico,42
+20200911,Monaco,1
+20200911,Morocco,4
+20200911,Myanmar,1
+20200911,Netherlands,36
+20200911,New Zealand,13
+20200911,Nigeria,1
+20200911,Norway,1
+20200911,Paraguay,2
+20200911,Peru,1
+20200911,Philippines,50
+20200911,Poland,13
+20200911,Portugal,22
+20200911,Republic of Macedonia,1
+20200911,Romania,7
+20200911,Russia,39
+20200911,Saint Lucia,1
+20200911,Singapore,4
+20200911,Slovakia,3
+20200911,South Africa,24
+20200911,South Korea,18
+20200911,Spain,40
+20200911,Sweden,1
+20200911,Switzerland,4
+20200911,Taiwan,56
+20200911,Thailand,58
+20200911,Tunisia,1
+20200911,Turkey,160
+20200911,United States,95
+20200911,United Arab Emirates,26
+20200911,United Kingdom,25
+20200911,Uruguay,1
+20200911,Vietnam,5
+20200912,Andorra,1
+20200912,Australia,37
+20200912,Austria,4
+20200912,Bahamas,1
+20200912,Belgium,6
+20200912,Bosnia and Herzegovina,1
+20200912,Brazil,100
+20200912,Bulgaria,13
+20200912,Cambodia,1
+20200912,Canada,5
+20200912,Colombia,7
+20200912,Croatia,1
+20200912,Czech Republic,6
+20200912,Denmark,1
+20200912,Dominican Republic,2
+20200912,Finland,1
+20200912,France,24
+20200912,Georgia,2
+20200912,Germany,28
+20200912,Greece,13
+20200912,Honduras,1
+20200912,Hong Kong,10
+20200912,Hungary,3
+20200912,Iceland,1
+20200912,India,111
+20200912,Indonesia,121
+20200912,Ireland,3
+20200912,Israel,5
+20200912,Italy,64
+20200912,Japan,254
+20200912,Lithuania,2
+20200912,Luxembourg,1
+20200912,Malaysia,676
+20200912,Maldives,1
+20200912,Mexico,25
+20200912,Morocco,9
+20200912,Netherlands,22
+20200912,New Zealand,12
+20200912,Oman,2
+20200912,Pakistan,1
+20200912,Philippines,46
+20200912,Poland,7
+20200912,Portugal,26
+20200912,Romania,13
+20200912,Russia,42
+20200912,Saudi Arabia,1
+20200912,Serbia,1
+20200912,Singapore,12
+20200912,Slovakia,2
+20200912,South Africa,29
+20200912,South Korea,11
+20200912,Spain,23
+20200912,Sweden,4
+20200912,Switzerland,3
+20200912,Taiwan,47
+20200912,Thailand,35
+20200912,Turkey,133
+20200912,United States,142
+20200912,Ukraine,1
+20200912,United Arab Emirates,22
+20200912,United Kingdom,23
+20200912,Uruguay,1
+20200912,Vietnam,15
+20200913,Albania,1
+20200913,Andorra,1
+20200913,Argentina,1
+20200913,Aruba,1
+20200913,Australia,25
+20200913,Austria,5
+20200913,Bahamas,2
+20200913,Bahrain,2
+20200913,Belgium,4
+20200913,Bosnia and Herzegovina,6
+20200913,Brazil,134
+20200913,Bulgaria,8
+20200913,Canada,6
+20200913,Chile,1
+20200913,China,2
+20200913,Colombia,12
+20200913,Crimea,1
+20200913,Cyprus,2
+20200913,Czech Republic,4
+20200913,Dominican Republic,1
+20200913,Ecuador,1
+20200913,Egypt,3
+20200913,Finland,3
+20200913,France,10
+20200913,Georgia,2
+20200913,Germany,35
+20200913,Greece,6
+20200913,Hong Kong,12
+20200913,Hungary,3
+20200913,India,71
+20200913,Indonesia,83
+20200913,Ireland,5
+20200913,Israel,9
+20200913,Italy,42
+20200913,Japan,207
+20200913,Lebanon,1
+20200913,Luxembourg,2
+20200913,Malaysia,438
+20200913,Mexico,38
+20200913,Morocco,1
+20200913,Netherlands,14
+20200913,New Zealand,8
+20200913,Oman,1
+20200913,Peru,2
+20200913,Philippines,32
+20200913,Poland,7
+20200913,Portugal,8
+20200913,Romania,8
+20200913,Russia,36
+20200913,Saudi Arabia,8
+20200913,Serbia,2
+20200913,Singapore,15
+20200913,Slovakia,1
+20200913,South Africa,11
+20200913,South Korea,3
+20200913,Spain,23
+20200913,Sweden,5
+20200913,Switzerland,5
+20200913,Taiwan,65
+20200913,Thailand,48
+20200913,Tunisia,1
+20200913,Turkey,121
+20200913,United States,86
+20200913,United Arab Emirates,8
+20200913,United Kingdom,25
+20200913,Uruguay,1
+20200913,Vietnam,49
+20200914,Andorra,1
+20200914,Argentina,3
+20200914,Australia,44
+20200914,Austria,7
+20200914,Bahamas,1
+20200914,Belgium,3
+20200914,Brazil,146
+20200914,Brunei,1
+20200914,Bulgaria,11
+20200914,Canada,18
+20200914,Chile,1
+20200914,Colombia,5
+20200914,Costa Rica,1
+20200914,Croatia,2
+20200914,Cyprus,1
+20200914,Czech Republic,2
+20200914,Denmark,1
+20200914,Dominican Republic,1
+20200914,Ecuador,13
+20200914,Egypt,9
+20200914,Finland,1
+20200914,France,20
+20200914,Germany,61
+20200914,Greece,14
+20200914,Hong Kong,5
+20200914,Hungary,5
+20200914,India,90
+20200914,Indonesia,75
+20200914,Ireland,5
+20200914,Israel,14
+20200914,Italy,55
+20200914,Japan,223
+20200914,Malaysia,595
+20200914,Maldives,5
+20200914,Mexico,23
+20200914,Netherlands,15
+20200914,New Zealand,22
+20200914,Peru,2
+20200914,Philippines,31
+20200914,Poland,10
+20200914,Portugal,28
+20200914,Qatar,1
+20200914,Romania,9
+20200914,Russia,30
+20200914,Saint Lucia,1
+20200914,Saudi Arabia,1
+20200914,Serbia,2
+20200914,Singapore,9
+20200914,Slovakia,2
+20200914,Slovenia,1
+20200914,South Africa,12
+20200914,South Korea,8
+20200914,Spain,52
+20200914,Sweden,6
+20200914,Switzerland,11
+20200914,Taiwan,64
+20200914,Thailand,73
+20200914,Turkey,147
+20200914,United States,99
+20200914,United Arab Emirates,15
+20200914,United Kingdom,26
+20200914,Uruguay,1
+20200914,Vietnam,5
+20200915,Argentina,1
+20200915,Australia,52
+20200915,Austria,2
+20200915,Bahamas,1
+20200915,Belgium,3
+20200915,Brazil,127
+20200915,Brunei,1
+20200915,Bulgaria,1
+20200915,Cambodia,1
+20200915,Canada,14
+20200915,China,1
+20200915,Colombia,7
+20200915,Costa Rica,2
+20200915,Curacao,1
+20200915,Cyprus,1
+20200915,Czech Republic,4
+20200915,Denmark,3
+20200915,Dominican Republic,3
+20200915,Finland,1
+20200915,France,21
+20200915,French Polynesia,1
+20200915,Georgia,1
+20200915,Germany,41
+20200915,Greece,6
+20200915,Hong Kong,18
+20200915,Hungary,7
+20200915,India,68
+20200915,Indonesia,62
+20200915,Ireland,4
+20200915,Israel,8
+20200915,Italy,27
+20200915,Japan,321
+20200915,Kenya,1
+20200915,Malaysia,500
+20200915,Maldives,4
+20200915,Mexico,22
+20200915,Morocco,1
+20200915,Netherlands,27
+20200915,New Zealand,19
+20200915,Norway,1
+20200915,Oman,1
+20200915,Papua New Guinea,1
+20200915,Philippines,37
+20200915,Poland,8
+20200915,Portugal,35
+20200915,Romania,14
+20200915,Russia,34
+20200915,Saudi Arabia,2
+20200915,Serbia,3
+20200915,Seychelles,1
+20200915,Singapore,10
+20200915,South Africa,27
+20200915,South Korea,6
+20200915,Spain,36
+20200915,Sweden,6
+20200915,Switzerland,7
+20200915,Taiwan,48
+20200915,Thailand,48
+20200915,Turkey,107
+20200915,United States,89
+20200915,Ukraine,1
+20200915,United Arab Emirates,20
+20200915,United Kingdom,20
+20200915,Uruguay,1
+20200915,Vietnam,12
+20200916,Albania,1
+20200916,Andorra,2
+20200916,Antigua and Barbuda,1
+20200916,Argentina,3
+20200916,Aruba,1
+20200916,Australia,110
+20200916,Austria,69
+20200916,Bahamas,7
+20200916,Bahrain,2
+20200916,Belgium,18
+20200916,Bosnia and Herzegovina,2
+20200916,Brazil,450
+20200916,Brunei,2
+20200916,Bulgaria,27
+20200916,Cambodia,3
+20200916,Canada,28
+20200916,Chile,1
+20200916,China,6
+20200916,Colombia,21
+20200916,Costa Rica,1
+20200916,Croatia,3
+20200916,Cyprus,4
+20200916,Czech Republic,22
+20200916,Denmark,5
+20200916,Dominican Republic,3
+20200916,Ecuador,4
+20200916,Egypt,2
+20200916,Finland,3
+20200916,France,86
+20200916,French Polynesia,1
+20200916,Georgia,6
+20200916,Germany,158
+20200916,Greece,47
+20200916,Honduras,1
+20200916,Hong Kong,40
+20200916,Hungary,9
+20200916,Iceland,1
+20200916,India,423
+20200916,Indonesia,329
+20200916,Ireland,11
+20200916,Israel,17
+20200916,Italy,170
+20200916,Japan,1173
+20200916,Kuwait,1
+20200916,Luxembourg,5
+20200916,Malaysia,3130
+20200916,Maldives,11
+20200916,Malta,1
+20200916,Mexico,68
+20200916,Morocco,9
+20200916,Myanmar,1
+20200916,Netherlands,91
+20200916,New Zealand,41
+20200916,Nigeria,2
+20200916,Norway,1
+20200916,Oman,4
+20200916,Pakistan,2
+20200916,Panama,1
+20200916,Paraguay,2
+20200916,Peru,3
+20200916,Philippines,145
+20200916,Poland,23
+20200916,Portugal,53
+20200916,Qatar,1
+20200916,Romania,40
+20200916,Russia,117
+20200916,Saudi Arabia,15
+20200916,Serbia,2
+20200916,Singapore,47
+20200916,Sint Maarten,1
+20200916,Slovakia,8
+20200916,Slovenia,2
+20200916,South Africa,115
+20200916,South Korea,51
+20200916,Spain,128
+20200916,Sweden,8
+20200916,Switzerland,13
+20200916,Taiwan,286
+20200916,Thailand,223
+20200916,Tunisia,1
+20200916,Turkey,161
+20200916,United States,464
+20200916,Ukraine,2
+20200916,United Arab Emirates,91
+20200916,United Kingdom,67
+20200916,Uruguay,2
+20200916,Vietnam,81
+20200917,Albania,1
+20200917,Argentina,3
+20200917,Armenia,1
+20200917,Australia,66
+20200917,Austria,24
+20200917,Bahamas,2
+20200917,Bahrain,1
+20200917,Belgium,6
+20200917,Brazil,137
+20200917,Brunei,2
+20200917,Bulgaria,7
+20200917,Canada,5
+20200917,China,5
+20200917,Colombia,9
+20200917,Cyprus,1
+20200917,Czech Republic,7
+20200917,Denmark,1
+20200917,Dominican Republic,1
+20200917,Ecuador,1
+20200917,Egypt,13
+20200917,El Salvador,1
+20200917,Estonia,1
+20200917,Finland,1
+20200917,France,25
+20200917,Germany,38
+20200917,Gibraltar,6
+20200917,Greece,20
+20200917,Hong Kong,15
+20200917,Hungary,1
+20200917,India,94
+20200917,Indonesia,60
+20200917,Iraq,1
+20200917,Ireland,13
+20200917,Israel,18
+20200917,Italy,40
+20200917,Japan,290
+20200917,Jordan,1
+20200917,Kuwait,6
+20200917,Malaysia,553
+20200917,Maldives,1
+20200917,Malta,6
+20200917,Mexico,41
+20200917,Morocco,3
+20200917,Netherlands,45
+20200917,New Zealand,21
+20200917,Peru,2
+20200917,Philippines,31
+20200917,Poland,16
+20200917,Portugal,15
+20200917,Qatar,1
+20200917,Romania,4
+20200917,Russia,49
+20200917,Saudi Arabia,5
+20200917,Serbia,1
+20200917,Singapore,11
+20200917,Slovakia,5
+20200917,South Africa,25
+20200917,South Korea,9
+20200917,Spain,131
+20200917,Sweden,3
+20200917,Switzerland,7
+20200917,Taiwan,75
+20200917,Tanzania,1
+20200917,Thailand,71
+20200917,Tunisia,2
+20200917,Turkey,201
+20200917,United States,92
+20200917,Ukraine,1
+20200917,United Arab Emirates,17
+20200917,United Kingdom,48
+20200917,Uruguay,3
+20200917,Vietnam,20
+20200918,Australia,44
+20200918,Austria,1
+20200918,Belgium,1
+20200918,Brazil,25
+20200918,Brunei,2
+20200918,Bulgaria,2
+20200918,Cambodia,1
+20200918,Colombia,1
+20200918,Croatia,2
+20200918,Czech Republic,2
+20200918,Ecuador,1
+20200918,Egypt,6
+20200918,Finland,1
+20200918,France,9
+20200918,Germany,10
+20200918,Greece,14
+20200918,Hong Kong,4
+20200918,Hungary,2
+20200918,India,27
+20200918,Indonesia,5
+20200918,Israel,6
+20200918,Italy,13
+20200918,Japan,217
+20200918,Luxembourg,1
+20200918,Malaysia,87
+20200918,Maldives,10
+20200918,Malta,2
+20200918,Mexico,9
+20200918,Netherlands,9
+20200918,New Zealand,10
+20200918,Oman,1
+20200918,Philippines,10
+20200918,Poland,1
+20200918,Portugal,3
+20200918,Romania,8
+20200918,Russia,15
+20200918,Serbia,1
+20200918,Seychelles,1
+20200918,Singapore,9
+20200918,Slovakia,5
+20200918,South Africa,20
+20200918,South Korea,4
+20200918,Spain,29
+20200918,Sweden,1
+20200918,Switzerland,2
+20200918,Taiwan,24
+20200918,Thailand,2
+20200918,Turkey,31
+20200918,United States,52
+20200918,United Arab Emirates,9
+20200918,United Kingdom,3
+20200918,Vietnam,7
